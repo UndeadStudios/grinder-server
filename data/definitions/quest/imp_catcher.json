@@ -1,0 +1,186 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Give me a quest!",
+        "next": 1,
+        "npcId": 7746
+    },
+    {
+        "id": 1,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Give me a quest what?",
+        "anim": "CALM",
+        "next": 3,
+        "npcId": 7746
+    },
+    {
+        "id": 2,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Give me a quest please.",
+        "line2": "Give me a quest or else!",
+        "line3": "Just stop messing around and give me a quest!",
+        "next": -1
+    },
+    {
+        "id": 3,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Give me a quest please.",
+        "next": 4
+    },
+    {
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "Well seeing as you asked nicely... I could do with some",
+        "line2": "help.",
+        "anim": "CALM",
+        "next": 5,
+        "npcId": 7746
+    },
+    {
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "The wizard Grayzag next door decided he didn't like",
+        "line2": "me so he enlisted an army of hundreds of imps.",
+        "anim": "CALM",
+        "next": 6,
+        "npcId": 7746
+    },
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "These imps stole all sorts of my things. Most of these",
+        "line2": "things I don't really care about, just eggs and balls of",
+        "line3": "strings and things.",
+        "anim": "CALM",
+        "next": 7,
+        "npcId": 7746
+    },
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "But they stole my four magical beads. There was a red",
+        "line2": "one, a yellow one, a black one, and a white one.",
+        "anim": "CALM",
+        "next": 8,
+        "npcId": 7746
+    },
+    {
+        "id": 8,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "These imps have now spread out all over the kingdom.",
+        "line2": "Could you get my beads back for me?",
+        "anim": "CALM",
+        "next": 11,
+        "npcId": 7746
+    },
+    {
+        "id": 9,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "I'll try.",
+        "line2": "I've better things to do than chase imps.",
+        "next": -1
+    },
+    {
+        "id": 10,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I'll try.",
+        "next": -1
+    },
+    {
+        "id": 11,
+        "type": "QUEST_STAGE",
+        "next": -1
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "That's great, thank you.",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 7746
+    },
+    {
+    	"stage": 1,
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "So how are you doing finding my beads?",
+        "anim": "CALM",
+        "next": 14,
+        "npcId": 7746
+    },
+    {
+        "id": 14,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 7746
+    },
+    {
+        "id": 15,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I've got all four beads. It was hard work I can tell you.",
+        "next": 16
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "Give them here and I'll check that they really are MY",
+        "line2": "beads, before I give you your reward. You'll like it, it's",
+        "line3": "an amulet of accuracy.",
+        "anim": "CALM",
+        "next": 17,
+        "npcId": 7746
+    },
+    {
+        "id": 17,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You give four coloured beads to Wizard Mizgog.",
+        "next": 18,
+        "npcId": 7746
+    },
+     {
+        "id": 18,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 7746
+    },
+    {
+        "id": 19,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Thank you for helping me!",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 7746
+    },
+    {
+        "id": 20,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I haven't got all of them yet..",
+        "next": -1
+    }
+]

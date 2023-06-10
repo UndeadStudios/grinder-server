@@ -1,0 +1,32 @@
+    "examine": "Swap this note at any bank for the equivalent item.",
+
+    ],
+    "requirements": [
+      0,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+
+
+

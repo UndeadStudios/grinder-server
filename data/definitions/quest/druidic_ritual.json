@@ -1,0 +1,235 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "What brings you to our holy monument?",
+        "next": 1,
+        "npcId": 5045
+    },
+    {
+        "id": 1,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Who are you?",
+        "anim": "CALM",
+        "next": 2
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "We are the druids of Guthix. We worship",
+        "line2": "our god at our famous stone circles. You",
+        "line3": "will find them located throughout these lands.",
+        "anim": "CALM",
+        "next": 3,
+        "npcId": 5045
+    },
+    {
+        "id": 3,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "What about the stone circle full of dark wizards?",
+        "anim": "CALM",
+        "next": 4
+    },
+    {
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "That used to be OUR stone circle. Unfortunately,",
+        "line2": "many many years ago, dark wizards cast a wicked ",
+        "line3": "spell upon it so that they could corrupt its",
+        "line4": "power for their own evil ends.",
+        "anim": "CALM",
+        "next": 5,
+        "npcId": 5045
+    },
+    {
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "When they cursed the rocks for their rituals",
+        "line2": "they made them useless to us and our magics. We",
+        "line3": "require a brave adventurer to go on a quest for",
+        "line4": "us to help purify the circle of Varrock.",
+        "anim": "CALM",
+        "next": 6,
+        "npcId": 5045
+    },
+    {
+        "id": 6,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Ok, I will try and help.",
+        "line2": "No, that doesn't sound very interesting.",
+        "next": -1
+    },
+    {
+        "id": 7,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Ok, I will try and help.",
+        "anim": "CALM",
+        "next": 8
+    },
+    {
+        "id": 8,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "Excellent. Go to the village south of this place ",
+        "line2": " and speak to my fellow Sanfew who is working",
+        "line3": "on the purification ritual. He knows better",
+        "line4": "than I what is required to complete it.",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 5045
+    },
+    {
+    	"stage": 1,
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "What can I do for you young 'un?",
+        "next": 10,
+        "npcId": 5044
+    },
+    {
+        "id": 10,
+        "type": "PLAYER_STATEMENT",
+        "lines": 2,
+        "line1": "I've been sent to help purify the Varrock",
+        "line2": "stone circle.",
+        "anim": "CALM",
+        "next": 11
+    },
+    {
+        "id": 11,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "Well, what I'm struggling with right now is the meats",
+        "line2": "needed for the potion to honour Guthix. I need the raw",
+        "line3": "meats of four different animals for it, but not just any ",
+        "line4": "old meats will do.",
+        "anim": "CALM",
+        "next": 12,
+        "npcId": 5044
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "Each meat has to be dipped individually into the",
+        "line2": "Cauldron of Thunder for it to work correctly. Located",
+        "line3": "in Taverley.",
+        "anim": "CALM",
+        "next": 13,
+        "npcId": 5044
+    },
+    {
+        "id": 13,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Ok, I'll do that then.",
+        "anim": "CALM",
+        "next": 14
+    },
+    {
+        "id": 14,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5044
+    },
+    {
+        "stage": 2,
+        "id": 15,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Did you bring me the required ingredients for the potion?",
+        "anim": "CALM",
+        "next": 16,
+        "npcId": 5044
+    },
+    {
+        "id": 16,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5044
+    },
+    {
+        "id": 17,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "No, not yet...",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+        "id": 18,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Yes, I have all four now!",
+        "anim": "CALM",
+        "next": 19
+    }, 
+    {
+        "id": 19,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Well hand 'em over then lad!",
+        "anim": "CALM",
+        "next": 20,
+        "npcId": 5044
+    },
+    {
+        "id": 20,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5044
+    },
+    {
+        "id": 21,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "Thank you so much adventurer! These meats",
+        "line2": "will allow our potion to honour Guthix to be",
+        "line3": "completed, and bring one step closer to reclaiming",
+        "line4": "our stone circle!",
+        "anim": "CALM",
+        "next": 22,
+        "npcId": 5044
+    },
+    {
+        "id": 22,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "Now go and talk to Kaqemeex and he will introduce you",
+        "line2": "to the wonderful world of herblore and potion making!",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 5044
+    },
+     {
+    	"stage": 3,
+        "id": 23,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "I have word from Sanfew that you have been",
+        "line2": "very helpful in assisting him with his preparations",
+        "line3": "for the purification ritual. As promised",
+        "line4": "I will now teach you the ancient arts of Herblore.",
+        "next": 24,
+        "npcId": 5045
+    },
+    {
+        "id": 24,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5045
+    }
+]

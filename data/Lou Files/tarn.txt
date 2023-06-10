@@ -1,0 +1,10 @@
+2358 4956
+3279 9836
+2206 5474
+c.getPA().movePlayer(3319, 9352, 0);
+real tarn 2519 4641
+ice queen 2866 9954
+
+
+
+npc king kurask

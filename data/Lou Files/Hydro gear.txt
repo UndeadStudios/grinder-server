@@ -1,0 +1,144 @@
+Phase 1:
+
+            case 15690:
+                itemDef.copy(lookup(21298));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro helmet";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -21537, -29744, -22020, -22010, -22000 };
+                itemDef.modified_model_colors = new int[] { 941, 28, 0, 12, 20, 24 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15691;
+                break;
+            case 15691:
+                itemDef.copy(lookup(21299));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro helmet";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -29744, -22020, -22010, -22000 };
+                itemDef.modified_model_colors = new int[] { 941, 28, 0, 12, 20, 24 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15690;
+                break;
+            case 15692:
+                itemDef.copy(lookup(21301));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro platebody";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21928, -21802, -21660, -21537, -21530, -21525, -21520, -21515 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 406, 280, 152, 148, 28, 24, 20, 16 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15693;
+                break;
+            case 15693:
+                itemDef.copy(lookup(21302));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro platebody";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21928, -21802, -21660, -21537, -21530, -21525, -21520, -21515 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 406, 280, 152, 148, 28, 24, 20, 16 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15692;
+                break;
+
+            case 15694:
+                itemDef.copy(lookup(21304));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro platelegs";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21660, -21530, -21525, -21520 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 152, 28, 24, 20 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15695;
+                break;
+            case 15695:
+                itemDef.copy(lookup(21305));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro platelegs";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21660, -21530, -21525, -21520 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 152, 28, 24, 20 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15694;
+                break;
+
+
+
+
+
+
+
+
+
+
+Phase 2:
+
+
+
+            case 15690:
+                itemDef.copy(lookup(21298));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro helmet";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -29744, -22042, -22038, -22035 };
+                itemDef.modified_model_colors = new int[] { 941, 28, 0, 12, 20, 24 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15691;
+                break;
+            case 15691:
+                itemDef.copy(lookup(21299));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro helmet";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -29744, -22020, -22010, -22000 };
+                itemDef.modified_model_colors = new int[] { 941, 28, 0, 12, 20, 24 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15690;
+                break;
+            case 15692:
+                itemDef.copy(lookup(21301));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro platebody";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -22052, -22052, -22052, -22052, -22052, -22045, -22042, -22038 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 406, 280, 152, 148, 28, 24, 20, 16 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15693;
+                break;
+            case 15693:
+                itemDef.copy(lookup(21302));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro platebody";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21928, -21802, -21660, -21537, -21530, -21525, -21520, -21515 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 406, 280, 152, 148, 28, 24, 20, 16 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15692;
+                break;
+
+            case 15694:
+                itemDef.copy(lookup(21304));
+                itemDef.actions = new String[5];
+                itemDef.actions[1] = "Wield";
+                itemDef.name = "Hydro platelegs";
+                itemDef.description = "Provides excellent protection.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -22052, -22052, -22040, -22035 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 152, 28, 24, 20 };
+                itemDef.noted_item_id = -1;
+                itemDef.unnoted_item_id = 15695;
+                break;
+            case 15695:
+                itemDef.copy(lookup(21305));
+                itemDef.actions = new String[5];
+                itemDef.name = "Hydro platelegs";
+                itemDef.description = "Swap this note at any bank for the equivalent item.";
+                itemDef.original_model_colors = new int[] { -29744, -22052, -21660, -21530, -21525, -21520 };
+                itemDef.modified_model_colors = new int[] { 943, 530, 152, 28, 24, 20 };
+                itemDef.noted_item_id = 799;
+                itemDef.unnoted_item_id = 15694;
+                break;

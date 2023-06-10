@@ -1,0 +1,2082 @@
+[
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2655,
+          "Y": 3654,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2655,
+          "Y": 3654,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2627,
+          "Y": 3656,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2627,
+          "Y": 3656,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2627,
+          "Y": 3675,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2627,
+          "Y": 3675,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2638,
+          "Y": 3652,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2638,
+          "Y": 3652,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2678,
+          "Y": 3665,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2678,
+          "Y": 3665,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2683,
+          "Y": 3680,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2683,
+          "Y": 3680,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2682,
+          "Y": 3685,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2682,
+          "Y": 3685,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2672,
+          "Y": 3675,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2672,
+          "Y": 3675,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2684,
+          "Y": 3673,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2684,
+          "Y": 3673,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2683,
+          "Y": 3679,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2683,
+          "Y": 3679,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2677,
+          "Y": 3690,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2677,
+          "Y": 3690,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2665,
+          "Y": 3702,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2665,
+          "Y": 3702,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2664,
+          "Y": 3652,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2664,
+          "Y": 3652,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2671,
+          "Y": 3665,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2671,
+          "Y": 3665,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 4250,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2671,
+          "Y": 3652,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 4251,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2671,
+          "Y": 3652,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3291,
+          "Y": 3030,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3291,
+          "Y": 3030,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3182,
+          "Y": 2984,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3182,
+          "Y": 2984,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3172,
+          "Y": 2977,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3172,
+          "Y": 2977,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3288,
+          "Y": 3173,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3288,
+          "Y": 3173,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3374,
+          "Y": 2977,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3374,
+          "Y": 2977,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3374,
+          "Y": 2977,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3374,
+          "Y": 2977,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3291,
+          "Y": 3189,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3291,
+          "Y": 3189,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3361,
+          "Y": 2980,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3361,
+          "Y": 2980,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3364,
+          "Y": 2999,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3364,
+          "Y": 2999,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3375,
+          "Y": 2971,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3375,
+          "Y": 2971,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3372,
+          "Y": 2969,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3372,
+          "Y": 2969,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3287,
+          "Y": 3186,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3287,
+          "Y": 3186,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3367,
+          "Y": 2991,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3367,
+          "Y": 2991,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3364,
+          "Y": 2983,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3364,
+          "Y": 2983,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3361,
+          "Y": 2993,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3361,
+          "Y": 2993,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3363,
+          "Y": 3002,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3363,
+          "Y": 3002,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2975,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2975,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2966,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2966,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3366,
+          "Y": 2983,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3366,
+          "Y": 2983,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2966,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3370,
+          "Y": 2966,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3315,
+          "Y": 3166,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3315,
+          "Y": 3166,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3313,
+          "Y": 3175,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3313,
+          "Y": 3175,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3317,
+          "Y": 3193,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3317,
+          "Y": 3193,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3349,
+          "Y": 2965,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3349,
+          "Y": 2965,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3349,
+          "Y": 2962,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3349,
+          "Y": 2962,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3345,
+          "Y": 2955,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3345,
+          "Y": 2955,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3358,
+          "Y": 2999,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3358,
+          "Y": 2999,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2953,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2953,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2952,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2952,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3356,
+          "Y": 2983,
+          "Z": 2
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3356,
+          "Y": 2983,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3356,
+          "Y": 2983,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3356,
+          "Y": 2983,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3351,
+          "Y": 2955,
+          "Z": 1
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3351,
+          "Y": 2955,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2957,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3350,
+          "Y": 2957,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3359,
+          "Y": 2981,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3359,
+          "Y": 2981,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3346,
+          "Y": 2965,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3346,
+          "Y": 2965,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 9,
+        "Position": {
+          "X": 3300,
+          "Y": 3187,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 9,
+        "Position": {
+          "X": 3300,
+          "Y": 3187,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "CURTAIN",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "CLOSED": {
+        "Id": 1533,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3292,
+          "Y": 3206,
+          "Z": 0
+        }
+      },
+      "OPENED": {
+        "Id": 1534,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3292,
+          "Y": 3206,
+          "Z": 0
+        }
+      }
+    }
+  }
+]

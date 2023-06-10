@@ -1,0 +1,11 @@
+Drop rates:
+Low rare 32 (Almost 1/8 kills average)
+Med rare 64 (1/25 kills average)
+High rare 128 (1/50 kills average)
+Extreme rare 256 (1/75 kills average)
+
+
+
+
+Upon release: All the 64 drop rates which should be average for the whole time, but upon release will make it 34 in which we will
+convert all the 34 to 64 after 2 month of release and its only for some items of course.

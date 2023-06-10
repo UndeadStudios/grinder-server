@@ -1,0 +1,80 @@
+package com.grinder.game.content.skill.skillable.impl.magic
+
+import com.grinder.game.model.item.Item
+import com.grinder.util.ItemID
+
+/**
+ * An enumerated type that contains bolt types that can be enchanted
+ * using the [EnchantItemSpellType].
+ *
+ * @author Blake
+ */
+enum class EnchantableBolts(val level: Int, val magicExperienceGain: Int, val runes: Array<Item?>, vararg val enchantPairs: Pair<Int, Int>) {
+
+    OPAL(4,
+            9,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.AIR_RUNE, 2)),
+            ItemID.OPAL_BOLTS to ItemID.OPAL_BOLTS_E_,
+            21955 to 21932),
+    SAPPHIRE(7,
+            17,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.WATER_RUNE, 1),
+                    Item(ItemID.MIND_RUNE, 1)),
+            ItemID.SAPPHIRE_BOLTS to ItemID.SAPPHIRE_BOLTS_E_,
+            21963 to 21940),
+    JADE(14,
+            19,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.EARTH_RUNE, 2)),
+            9335 to 9237,
+            21957 to 21934),
+    PEARL(24,
+            29,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.WATER_RUNE, 2)),
+            880 to 9238,
+            21959 to 21936),
+    EMERALD(27,
+            37,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.AIR_RUNE, 3),
+                    Item(ItemID.NATURE_RUNE, 1)),
+            9338 to  9241,
+            21965 to 21942),
+    RED_TOPAZ(29,
+            33,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.FIRE_RUNE, 2)),
+            9336 to 9239,
+            21961 to 21938),
+    RUBY(49,
+            59,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.FIRE_RUNE, 5),
+                    Item(ItemID.BLOOD_RUNE, 1)),
+            9339 to  9242,
+            21967 to 21944),
+    DIAMOND(57,
+            67,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.EARTH_RUNE, 10),
+                    Item(ItemID.LAW_RUNE, 2)),
+            9340 to 9243,
+            21969 to 21946),
+    DRAGONSTONE(68,
+            78,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.EARTH_RUNE, 15),
+                    Item(ItemID.SOUL_RUNE, 1)),
+            9341 to  9244,
+            21971 to 21948),
+    ONYX(87,
+            97,
+            arrayOf(Item(ItemID.COSMIC_RUNE, 1),
+                    Item(ItemID.FIRE_RUNE, 20),
+                    Item(ItemID.DEATH_RUNE, 1)),
+            9342 to 9245,
+            21973 to 21950);
+}

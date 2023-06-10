@@ -1,0 +1,35 @@
+1) The one showing agility obstacles in green color.
+
+2) Showing how many runes/charges for specific items (Bone sack, rune pouch, looting bag, attributeable items..etc)
+
+3) Showing current attack style
+
+4) GPU
+
+5) XP tracker (how much xp per/hour)
+
+6) Boss respawn timer (We can send data to client from server)
+
+7) Rune pouch
+
+8) Low Detail
+
+9) WASD camera
+
+10) Special attack hover
+
+
+
+
+
+
+
+
+
+
+*****EXTRAS********
+
+1) Entity hider
+2) Camera zoom
+3) Tile indicator
+4) 

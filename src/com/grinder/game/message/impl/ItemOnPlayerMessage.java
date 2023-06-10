@@ -1,0 +1,83 @@
+package com.grinder.game.message.impl;
+
+import com.grinder.game.message.Message;
+
+/**
+ * A {@link Message} sent by the client when a player uses an item on a player.
+ *
+ * @author Stan van der Bend
+ */
+public final class ItemOnPlayerMessage implements Message {
+
+	/**
+	 * The id of the item used on the player.
+	 */
+	private final int id;
+
+	/**
+	 * The index of the player the item was used on.
+	 */
+	private final int index;
+
+	/**
+	 * Item slot from inventory.
+	 */
+	private final int slot;
+
+	/**
+	 * The id of the interface the item was in, before it was used.
+	 */
+	private final int interfaceId;
+
+	/**
+	 * Creates the ItemOnNpcMessage.
+	 *
+	 * @param id The id of the item used on the player.
+	 * @param index The index of the player the item was used on.
+	 * @param slot The slot the item was in, in the players inventory.
+	 * @param interfaceId The id of the interface the item was in, before it was used.
+	 */
+	public ItemOnPlayerMessage(int id, int index, int slot, int interfaceId) {
+		this.id = id;
+		this.slot = slot;
+		this.index = index;
+		this.interfaceId = interfaceId;
+	}
+
+	/**
+	 * Gets the item id.
+	 *
+	 * @return The id.
+	 */
+	public int getId() {
+		return id;
+	}
+
+	/**
+	 * Gets the slot the item was in.
+	 *
+	 * @return The slot.
+	 */
+	public int getSlot() {
+		return slot;
+	}
+
+	/**
+	 * Gets the index of the Npc the item was used on.
+	 *
+	 * @return The index.
+	 */
+	public int getIndex() {
+		return index;
+	}
+
+	/**
+	 * Gets the id of the interface the item was in, before it was used.
+	 *
+	 * @return The interface id.
+	 */
+	public int getInterfaceId() {
+		return interfaceId;
+	}
+
+}

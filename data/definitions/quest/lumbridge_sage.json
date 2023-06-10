@@ -1,0 +1,450 @@
+[
+  {
+    "stage": 0,
+    "id": 0 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hey there. ",
+    "next": 1,
+    "npcId": 5081
+  },
+  {
+    "id": 1 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Hi. I was wondering if you could help ",
+    "line2": "me? ",
+    "next": 2,
+    "npcId": 5081
+  },
+  {
+    "id": 2 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "You don't look like you have a problem. ",
+    "next": 3,
+    "npcId": 5081
+  },
+  {
+    "id": 3 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Well I do. I need to make something called ",
+    "line2": "a Cake of Guidance, and I was told that ",
+    "line3": "you could help me out. ",
+    "next": 4,
+    "npcId": 5081
+  },
+  {
+    "id": 4 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Mmmmm. Cake of Guidance. Yummy. Yum! ",
+    "line2": "Did you know they're imbued with knowledge ",
+    "line3": "and information itself? When eaten ",
+    "line4": "it will give anyone the guidance they ",
+    "next": 5,
+    "npcId": 5081
+  },
+  {
+    "id": 5 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "need to get back on track. So you say you're ",
+    "line2": "a chef? ",
+    "next": 6,
+    "npcId": 5081
+  },
+  {
+    "id": 6 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Erm, no, I don't think I did. I need to ",
+    "line2": "make that cake for the Lumbridge Sage. ",
+    "line3": "He's been frozen in time and needs help. ",
+    "next": 7,
+    "npcId": 5081
+  },
+  {
+    "id": 7 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Oh dear, it's a strange day when the Lumbridge ",
+    "line2": "Sage needs guidance. Don't worry, I ",
+    "line3": "shall help you make your chocolate cake. ",
+    "next": 8,
+    "npcId": 5081
+  },
+  {
+    "id": 8 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Not a chocolate cake – a CAKE OF GUIDANCE. ",
+    "next": 9,
+    "npcId": 5081
+  },
+  {
+    "id": 9 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Make up your mind! ",
+    "next": 10,
+    "npcId": 5081
+  },
+  {
+    "id": 10 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I have. So what do I need to do? ",
+    "next": 11,
+    "npcId": 5081
+  },
+  {
+    "id": 11 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "You don't know? Deary me. You'll need ",
+    "line2": "to enchant three ingredients with your ",
+    "line3": "knowledge. Bring me the basic ingredients ",
+    "line4": "and I will help you with the enchantment. ",
+    "next": 12,
+    "npcId": 5081
+  },
+  {
+    "id": 12 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What are the ingredients? ",
+    "next": 13,
+    "npcId": 5081
+  },
+  {
+    "id": 13 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "An eggy peggy, some floury woury and ",
+    "line2": "some milky wilky. ",
+    "next": 14,
+    "npcId": 5081
+  },
+  {
+    "id": 14 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "So to the sane world, an egg, flour and ",
+    "line2": "milk. No problem, I'll be right back. ",
+    "next": 15,
+    "npcId": 5081
+  },
+  {
+    "id": 15 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 16,
+    "npcId": 5081
+  },
+  {
+    "stage": 1,
+    "id": 16 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Brought any ingredients? ",
+    "next": 17,
+    "npcId": 5081
+  },
+  {
+    "id": 17 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 18,
+    "npcId": 5081
+  },
+  {
+    "id": 18 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet.. ",
+    "next": -1,
+    "npcId": 5081
+  },
+  {
+    "id": 19 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet.. ",
+    "next": 19,
+    "npcId": 5081
+  },
+  {
+    "id": 20 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes, an egg! ",
+    "next": 21,
+    "npcId": 5081
+  },
+  {
+    "id": 21 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Egg-cellent... ",
+    "next": 22,
+    "npcId": 5081
+  },
+  {
+    "id": 22 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I can't believe you said that, so I will ",
+    "line2": "just pretend you didn't. ",
+    "next": 23,
+    "npcId": 5081
+  },
+  {
+    "id": 23 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Boo. Hiss. You're no fun. I will need ",
+    "line2": "your help for the enchantment – you must ",
+    "line3": "imbue it with knowledge itself. You ",
+    "line4": "must complete a quiz to enact the enchantment. ",
+    "next": 24,
+    "npcId": 5081
+  },
+  {
+    "id": 24 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Just give it here.. ",
+    "next": 25,
+    "npcId": 5081
+  },
+  {
+    "id": 25 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 26,
+    "npcId": 5081
+  },
+  {
+    "id": 26 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "The wizard enchants your egg! ",
+    "next": -1,
+    "npcId": 5081
+  },
+  {
+    "stage": 2,
+    "id": 27 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Brought any ingredients? ",
+    "next": 28,
+    "npcId": 5081
+  },
+  {
+    "id": 28 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 29,
+    "npcId": 5081
+  },
+  {
+    "id": 29 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet.. ",
+    "next": -1,
+    "npcId": 5081
+  },
+  {
+    "id": 30 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I've got some milk! Can we enchant it? ",
+    "next": 31,
+    "npcId": 5081
+  },
+  {
+    "id": 31 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Mmmm milk. ",
+    "next": 32,
+    "npcId": 5081
+  },
+  {
+    "id": 32 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 33,
+    "npcId": 5081
+  },
+  {
+    "id": 33 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Brought any ingredients? ",
+    "next": 34,
+    "npcId": 5081
+  },
+  {
+    "id": 34 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet.. ",
+    "next": 35,
+    "npcId": 5081
+  },
+  {
+    "id": 35 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I have obtained a pot of flour! ",
+    "next": 36,
+    "npcId": 5081
+  },
+  {
+    "id": 36 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Give it 'ere! ",
+    "next": 37,
+    "npcId": 5081
+  },
+  {
+    "id": 37 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 38,
+    "npcId": 5081
+  },
+  {
+    "stage": 3,
+    "id": 33 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Brought any ingredients? ",
+    "next": 37,
+    "npcId": 5081
+  },
+  {
+    "id": 34 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet.. ",
+    "next": -1,
+    "npcId": 5081
+  },
+  {
+    "id": 35 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I have obtained a pot of flour! ",
+    "next": 36,
+    "npcId": 5081
+  },
+  {
+    "id": 36 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Give it 'ere! ",
+    "next": 37,
+    "npcId": 5081
+  },
+  {
+    "id": 37 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 38,
+    "npcId": 5081
+  },
+  {
+    "stage": 4,
+    "id": 38 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hey there. ",
+    "next": 39,
+    "npcId": 5081
+  },
+  {
+    "id": 39 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "SAD",
+    "lines": 1,
+    "line1": "I lost all my enchanted items.. ",
+    "next": 41,
+    "npcId": 5081
+  },
+  {
+    "id": 40 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "SAD",
+    "lines": 0,
+    "next": 41,
+    "npcId": 5081
+  },
+  {
+    "id": 41 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "I have more! ",
+    "next": 42,
+    "npcId": 5081
+  },
+  {
+    "id": 42 ,
+    "type": "QUEST_STAGE",
+    "anim": "CALM",
+    "lines": 0,
+    "next": 43,
+    "npcId": 5081
+  }
+]

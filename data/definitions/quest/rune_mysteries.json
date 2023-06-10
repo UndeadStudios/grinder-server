@@ -1,0 +1,929 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Greetings. Welcome to my castle.",
+        "next": 1,
+        "npcId": 815
+    },
+    {
+        "id": 1,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Have you got any quests for me?",
+        "next": 2,
+        "npcId": 815
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Well, it's not really a quest, but I recently",
+        "line2": "this strange talisman. It's not like anything",
+        "line3": "I have seen before. Would you take it to the",
+        "next": 3,
+        "npcId": 815
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Tower for me? It should not take you very long",
+        "line2": "at all and I would be awfully grateful",
+        "next": 5,
+        "npcId": 815
+    },
+    {
+        "id": 4,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Sure, I'll take it for you.",
+        "line2": "I can't right now, Maybe later.",
+        "next": -1
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Sure, I'll take it for you.",
+        "next": 6,
+        "npcId": 815
+    },
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Thank you very much, stranger. I am",
+        "line2": "Sure the head wizard will reward you",
+        "line3": "for such an interesting find.",
+        "next": 7,
+        "npcId": 815
+    },
+    {
+        "id": 7,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 8,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "The Duke hands you a talisman.",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 9,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I can't right now, Maybe later.",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+    	"stage": 1,
+        "id": 10,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Welcome, adventurer, to the world-reowned",
+        "line2": "Wizard's Tower. How may I help you?",
+        "next": 14,
+        "npcId": 5034
+    },
+    {
+        "id": 11,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 12,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Nothing, thanks. I'm just looking around.",
+        "line2": "What are you doing down here?",
+        "next": -1
+    },
+    {
+        "id": 13,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Nothing, thanks. I'm just looking around.",
+        "line2": "What are you doing down here?",
+        "line3": "I'm looking for the head wizard.",
+        "next": -1
+    },
+    {
+        "id": 14,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I'm looking for the head wizard.",
+        "next": 15,
+        "npcId": 815
+    },
+    {
+        "id": 15,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "That's me, but why would you be doing that?",
+        "next": 16,
+        "npcId": 5034
+    },
+    {
+        "id": 16,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "The Duke of Lumbridge sent me to find him...er, you.",
+        "next": 17,
+        "npcId": 815
+    },
+    {
+        "id": 17,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I have a weird talisman that the Duke found.",
+        "line2": "He said the head wizard would be interested in it.",
+        "next": 18,
+        "npcId": 815
+    },
+    {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Did he now? Well, that IS interesting, Hand it",
+        "line2": "over, then, adventurer. Let me see what all",
+        "line3": "the hubbub is about. Just some crude amulet,",
+        "line4": "I'll wager.",
+        "next": 19,
+        "npcId": 5034
+    },
+    {
+        "id": 19,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Okay, here you go.",
+        "next": 20,
+        "npcId": 5034
+    },
+    {
+        "id": 20,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "id": 21,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You give the talisman to the wizard.",
+        "next": 22,
+        "npcId": 5034
+    },
+    {
+        "id": 22,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Wow! This is incredible! Th-this talisman",
+        "line2": "you brought me... it is the last piece of",
+        "line3": "the puzzle. Finally! The legacy of our",
+        "line4": "ancestors will return to us once more!",
+        "next": 23,
+        "npcId": 5034
+    },
+    {
+        "id": 23,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "I need time to study this. Can you please",
+        "line2": "can you please perform one task while I",
+        "line3": "study this talisman? In the mighty city",
+        "line4": "of Varrock, located north-east of here",
+        "next": 24,
+        "npcId": 5034
+    },
+    {
+        "id": 24,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "is a certain shop that sells magical runes.",
+        "line2": "I have,  in this package, all of the research I",
+        "line3": "have done relating to runes, but I require",
+        "line4": "somebody to take them to a shopkeeper who can",
+        "next": 25,
+        "npcId": 5034
+    },
+    {
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "offer me his insights. Do this thing for me,",
+        "line2": "bring back what he gives you, and, if my suspicions",
+        "line3": "are correct, I will let you in on one of the",
+        "line4": "greatest secrets this world has ever known. It",
+        "next": 26,
+        "npcId": 5034
+    },
+    {
+        "id": 26,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "is a secret so powerful that it destroyed the",
+        "line2": "original Wizards' Tower many centuries ago!",
+        "line3": "Do this thing for me and you will be rewarded.",
+        "next": 28,
+        "npcId": 5034
+    },
+    {
+        "id": 27,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, certainly.",
+        "line2": "No, I'm busy.",
+        "next": -1
+    },
+    {
+        "id": 28,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Yes, certainly.",
+        "next": 29,
+        "npcId": 815
+    },
+    {
+        "id": 29,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Take this package to Varrock, the large city",
+        "line2": "north of Lumbridge. Aubury's rune shop is in",
+        "line3": "the south-east quarter. He will give you a",
+        "line4": "special item bring it back to me and I will",
+        "next": 30,
+        "npcId": 5034
+    },
+    {
+        "id": 30,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "show you the mystery of runes.",
+        "next": 31,
+        "npcId": 5034
+    },
+    {
+        "id": 31,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "id": 32,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "The head wizard gives you a research package.",
+        "next": 33,
+        "npcId": 5034
+    },
+    {
+        "id": 33,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Best of luck with your quest.",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+    	"stage": 2,
+        "id": 34,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Do you want to buy some runes?",
+        "next": 35,
+        "npcId": 11435
+    },
+    {
+        "id": 35,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 36,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Maybe later.. ",
+        "next": -1
+    },
+    {
+        "id": 37,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Yes, please.",
+        "line2": "No, thank you.",
+        "line3": "I've been sent here with a package for you.",
+        "next": -1
+    },
+    {
+        "id": 38,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "I've been sent here with a package for you.",
+        "line2": "It's from Sedridor, the head wizard at the",
+        "line3": " Wizards' Tower.",
+        "next": 39,
+        "npcId": 815
+    },
+    {
+        "id": 39,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Really? Surely he can't have...? Please,",
+        "line2": "let me have it.",
+        "next": 40,
+        "npcId": 11435
+    },
+    {
+        "id": 40,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 41,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You hand Aubury the research package.",
+        "next": 42,
+        "npcId": 815
+    },
+    {
+        "id": 42,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "My gratitude, adventurer, for bringing me ",
+        "line2": "this research package. Combined with the ",
+        "line3": "information I have already collated regarding ",
+        "line4": "rune essence, I think we have finally unlocked ",
+        "next": 43,
+        "npcId": 11435
+    },
+    {
+        "id": 43,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "the power to... No, I'm getting ahead of ",
+        "line2": "myself. Take this summary of my research ",
+        "line3": "back to Sedridor in the basement of the ",
+        "line4": "Wizards' Tower. He will know whether or ",
+        "next": 44,
+        "npcId": 11435
+    },
+    {
+        "id": 44,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "not to let you in on our little secret. ",
+        "next": 45,
+        "npcId": 11435
+     },
+     {
+        "id": 45,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 46,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Aubury gives you his research notes.",
+        "next": 47,
+        "npcId": 815
+    },
+    {
+        "id": 47,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Now, I'm sure I can spare a couple of runes",
+        "line2": "for such a worthy cause as these notes. ",
+        "line3": "I will teleport you back now..",
+        "next": 48,
+        "npcId": 11435
+    },
+    {
+        "id": 48,
+        "type": "QUEST_STAGE",
+        "next": -1
+    },
+    {
+    	"stage": 3,
+        "id": 49,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Welcome, adventurer, to the world-renowned ",
+        "line2": "Wizards' Tower. How may I help you?",
+        "next": 50,
+        "npcId": 5034
+    },
+    {
+        "id": 50,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "How goes your quest? Have you delivered the research",
+        "line2": "notes to my friend yet?",
+        "next": 51,
+        "npcId": 5034
+    },
+    {
+        "id": 51,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "id": 52,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Yes, I have. He gave me some research notes",
+        "line2": "to pass on to you.",
+        "next": 53,
+        "npcId": 5034
+    },
+    {
+        "id": 53,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "May I have them?",
+        "next": 54,
+        "npcId": 5034
+    },
+    {
+        "id": 54,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Sure. I have them here.",
+        "next": 55,
+        "npcId": 815
+    },
+    {
+        "id": 55,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "You have been nothing but helpful, adventurer. ",
+        "line2": "In return, I can let you in on the secret ",
+        "line3": "of our research. Many centuries ago, the ",
+        "line4": "wizards of the Wizards' Tower learnt the ",
+        "next": 56,
+        "npcId": 5034
+    },
+    {
+        "id": 56,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "secret of creating runes, which allowed ",
+        "line2": "them to cast magic very easily. But, when ",
+        "line3": "the tower was burnt down, the secret of ",
+        "line4": "creating runes was lost with it...or so ",
+        "next": 57,
+        "npcId": 5034
+    },
+    {
+        "id": 57,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "I thought. Some months ago, while searching ",
+        "line2": "these ruins for information, I came upon ",
+        "line3": "a scroll that made reference to a magical ",
+        "line4": "rock, deep in the ice fields of the north. ",
+        "next": 58,
+        "npcId": 5034
+    },
+    {
+        "id": 58,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "This rock was called the 'rune essence' ",
+        "line2": "by those magicians who studied its powers. ",
+        "line3": "Apparently, by simply breaking a chunk from ",
+        "line4": "it, a rune could be fashioned and taken ",
+        "next": 59,
+        "npcId": 5034
+    },
+    {
+        "id": 59,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "to certain magical altars that were scattered ",
+        "line2": "across the land. Now, this is an interesting ",
+        "line3": "little piece of history, but not much use ",
+        "line4": "to us since we do not have access to this ",
+        "next": 60,
+        "npcId": 5034
+    },
+    {
+        "id": 60,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "rune essence or these altars. This is where ",
+        "line2": "you and Aubury come in. A little while ago, ",
+        "line3": "Aubury discovered a parchment detailing ",
+        "line4": "a teleportation spell that he had never ",
+        "next": 61,
+        "npcId": 5034
+    },
+    {
+        "id": 61,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "come across before. When cast, it took him ",
+        "line2": "to a strange rock, yet it felt strangely ",
+        "line3": "familiar. As I'm sure you have guessed, ",
+        "line4": "he had discovered a spell to the mythical ",
+        "next": 62,
+        "npcId": 5034
+    },
+    {
+        "id": 62,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "rune essence. As soon as he told me of this, ",
+        "line2": "I saw the importance of the find. For, if ",
+        "line3": "we could find the altars spoken of in the ",
+        "line4": "ancient texts, we would once more be able ",
+        "next": 63,
+        "npcId": 5034
+    },
+    {
+        "id": 63,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "to create runes as our ancestors had done. ",
+        "next": 64,
+        "npcId": 5034
+    },
+    {
+        "id": 64,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I'm still not sure how I fit into this little",
+        "line2": "story of yours.",
+        "next": 65,
+        "npcId": 5034
+    },
+    {
+        "id": 65,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "You haven't guessed? This talisman you brought ",
+        "line2": "me is a key to the elemental altar of air! ",
+        "line3": "When you hold it, it directs you to the ",
+        "line4": "entrance of the long-forgotten Air Altar. ",
+        "next": 66,
+        "npcId": 5034
+    },
+    {
+        "id": 66,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "By bringing pieces of the rune essence to ",
+        "line2": "the Air Altar, you will be able to fashion ",
+        "line3": "your own air runes. That's not all! By finding ",
+        "line4": "other talismans similar to this one, you ",
+        "next": 67,
+        "npcId": 5034
+    },
+    {
+        "id": 67,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "will eventually be able to craft every rune ",
+        "line2": "that is available in this world, just as ",
+        "line3": "our ancestors did. I cannot stress enough ",
+        "line4": "what a find this is! Now, due to the risks ",
+        "next": 68,
+        "npcId": 5034
+    },
+    {
+        "id": 68,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "involved in letting this mighty power fall ",
+        "line2": "into the wrong hands, I will try to keep ",
+        "line3": "the teleport spell to the rune essence a ",
+        "line4": "closely guarded secret. This means that, ",
+        "next": 69,
+        "npcId": 5034
+    },
+    {
+        "id": 69,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "if any evil power should discover the talismans ",
+        "line2": "required to enter the elemental temples, ",
+        "line3": "we should be able to prevent their access ",
+        "line4": "to the runes essence. I know not where the ",
+        "next": 70,
+        "npcId": 5034
+    },
+    {
+        "id": 70,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "altars are located, nor do I know where ",
+        "line2": "the talismans have been scattered, but I ",
+        "line3": "now return your air talisman. Find the Air ",
+        "line4": "Altar and you will be able to craft your ",
+        "next": 71,
+        "npcId": 5034
+    },
+    {
+        "id": 71,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "blank runes into air runes at will. Any ",
+        "line2": "time you wish to visit the rune essence, ",
+        "line3": "speak to me or Aubury and we will open a ",
+        "next": 72,
+        "npcId": 5034
+    },
+    {
+        "id": 72,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "portal to that mystical place. ",
+        "next": 73,
+        "npcId": 5034
+    },
+    {
+        "id": 73,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "So, only you and Aubury know the teleport",
+        "line2": "spell to the rune essence?",
+        "next": 74,
+        "npcId": 5034
+    },
+    {
+        "id": 74,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "No, there are others. When you speak to ",
+        "line2": "them, they will know you and grant you access ",
+        "line3": "to that place when asked. Use the air talisman ",
+        "line4": "to locate the Air Altar and use any further ",
+        "next": 75,
+        "npcId": 5034
+    },
+    {
+        "id": 75,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "talismans you find to locate the other altars. ",
+        "next": 76,
+        "npcId": 5034
+    },
+    {
+        "id": 76,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Now, my research notes, please? ",
+        "next": 77,
+        "npcId": 5034
+    },
+    {
+        "id": 77,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "id": 78,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "You give the research notes to Sedridor.",
+        "next": 79,
+        "npcId": 5034
+    },
+	{
+        "id": 79,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "He gives you an air talisman.",
+        "next": 80,
+        "npcId": 5034
+    },
+    {
+        "id": 80,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "stage": 1,
+        "id": 81,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "How can I help ",
+        "next": 82,
+        "npcId": 815
+    },
+    {
+        "id": 82,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "I lost the talisman you gave me.. Do you ",
+        "line2": "have another? ",
+        "next": 83,
+        "npcId": 815
+    },
+    {
+        "id": 83,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Yes I do, here you go.. ",
+        "next": 84,
+        "npcId": 815
+    },
+    {
+        "id": 84,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "id": 85,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "The duke gives you another talisman. ",
+        "next": -1,
+        "npcId": 815
+    },
+    {
+        "stage": 2,
+        "id": 86,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "How can I help? ",
+        "next": 87,
+        "npcId": 5034
+    },
+    {
+        "id": 87,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "I lost the package you gave me, do you ",
+        "line2": "have another? ",
+        "next": 88,
+        "npcId": 5034
+    },
+    {
+        "id": 88,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Yes I do, here you go.. ",
+        "next": 89,
+        "npcId": 5034
+    },
+    {
+        "id": 89,
+        "type": "QUEST_STAGE",
+        "next": 90,
+        "npcId": 5034
+    },
+    {
+        "id": 90,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "The wizard gives you another research package. ",
+        "next": -1,
+        "npcId": 5034
+    },
+    {
+        "stage": 3,
+        "id": 91,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "How can I help? ",
+        "next": 92,
+        "npcId": 11435
+    },
+    {
+        "id": 92,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "I lost the research notes, do you have ",
+        "line2": "another? ",
+        "next": 93,
+        "npcId": 11435
+    },
+    {
+        "id": 93,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Yes I do, here you go.. ",
+        "next": 94,
+        "npcId": 11435
+    },
+    {
+        "id": 94,
+        "type": "QUEST_STAGE",
+        "next": 94,
+        "npcId": 11435
+    },
+    {
+        "id": 95,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Aubury gives you another set of research ",
+        "line2": "notes.. ",
+        "next": -1,
+        "npcId": 11435
+    },
+    {
+        "id": 96,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I lost the research notes, I be right back.",
+        "next": -1,
+        "npcId": 11435
+    }
+]

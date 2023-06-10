@@ -1,0 +1,157 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD",
+        "lines": 1,
+        "line1": "What am I to do?",
+        "next": 1,
+        "npcId": 4626
+    },
+    {
+        "id": 1,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "What's wrong?",
+        "anim": "CALM",
+        "next": 2
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "Oh dear, oh dear, oh dear, I'm in a terrible terrible",
+        "line2": "mess! It's the Duke's birthday today, and I should be",
+        "line3": "making him a lovely big birthday cake!",
+        "anim": "SAD",
+        "next": 3,
+        "npcId": 4626
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "I've forgotten to buy the ingredients. I'll never get",
+        "line2": "them in time now. He'll sack me! What will I do? I have",
+        "line3": "four children and a goat to look after. Would you help",
+        "line4": "me? Please?",
+        "anim": "SAD",
+        "next": 4,
+        "npcId": 4626
+    },
+    {
+        "id": 4,
+        "type": "QUEST_STAGE",
+        "next": -1
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I can't help right now, maybe later.",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+        "id": 6,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I'm always happy to help a cook in distress.",
+        "anim": "CALM",
+        "next": 7
+    },
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "Oh thank you, thank you. I need milk, an egg, and",
+        "line2": "flour. I'd be very grateful if you can get them for me.",
+        "anim": "HAPPY",
+        "next": -1,
+        "npcId": 4626
+    },
+    {
+    	"stage": 1,
+        "id": 8,
+        "type": "QUEST_STAGE",
+        "next": 9,
+        "npcId": 4626
+    },
+    {
+        "id": 9,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "So where do I find these ingredients then?",
+        "next": 10,
+        "npcId": 4626
+    },
+    {
+        "id": 10,
+        "type": "NPC_STATEMENT",
+        "lines": 3,
+        "line1": "You can find flour in any of the shops here.",
+        "line2": "You can find eggs by killing chickens.",
+        "line3": "You can find milk by using a bucket on a cow.",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 4626
+    },
+    {
+        "id": 11,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "You brought me everything I need! I'm saved!",
+        "line2": "Thank you!",
+        "anim": "HAPPY",
+        "next": 12,
+        "npcId": 4626
+    },
+    {
+        "id": 12,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "So do I get to go to the Duke's Party?",
+        "next": 13,
+        "npcId": 4626
+    },
+    {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "I'm agraid not, only the big cheeses get to dine with the",
+        "line2": "Duke.",
+        "anim": "HAPPY",
+        "next": 14,
+        "npcId": 4626
+    },
+    {
+        "id": 14,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "But instead I'll reward you with something else instead.",
+        "line2": "Here's 15,000 Cooking experience for helping me.",
+        "anim": "HAPPY",
+        "next": 15,
+        "npcId": 4626
+    },
+    {
+        "id": 15,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 4626
+    },
+    {
+    	"stage": 3,
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Thanks for helping me with the duke's birthday cake!",
+        "anim": "HAPPY",
+        "next": -1,
+        "npcId": 4626
+    }
+    
+]

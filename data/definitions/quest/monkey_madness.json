@@ -1,0 +1,174 @@
+[
+  {
+    "stage": 0,
+    "id": 0 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Greetings adventurer, how can I help? ",
+    "next": 1,
+    "npcId": 1423
+  },
+  {
+    "id": 1 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I am just looking around.. ",
+    "next": 2,
+    "npcId": 1423
+  },
+  {
+    "id": 2 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How about a quest? ",
+    "next": 3,
+    "npcId": 1423
+  },
+  {
+    "id": 3 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I would like one actually.. ",
+    "next": 4,
+    "npcId": 1423
+  },
+  {
+    "id": 4 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "For years, we have been tormented by ",
+    "line2": "a demon in the jungle. Gnome tree stronghold ",
+    "line3": "cannot hold back anymore and we need ",
+    "line4": "a brave adventurer to take him down once ",
+    "next": 5,
+    "npcId": 1423
+  },
+  {
+    "id": 5 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "and for all. We have him captured in our",
+    "line2": "dungeon. We will take you when you are ready.",
+    "next": 6,
+    "npcId": 1423
+  },
+  {
+    "id": 6 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I accept the quest. ",
+    "next": 7,
+    "npcId": 1423
+  },
+  {
+    "id": 7 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 8,
+    "npcId": 1423
+  },
+  {
+    "id": 8 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Excellent! We have gnome gliders so ",
+    "line2": "we are ready to take to you him at anytime ",
+    "line3": "you want. ",
+    "next": -1,
+    "npcId": 1423
+  },
+  {
+    "stage": 1,
+    "id": 9 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Are you ready? ",
+    "next": 10,
+    "npcId": 1423
+  },
+  {
+    "id": 10 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I am ready. ",
+    "next": 11,
+    "npcId": 1423
+  },
+
+  {
+    "id": 11 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 12,
+    "npcId": 1423
+  },
+  {
+    "stage": 2,
+    "id": 12 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How is it going? ",
+    "next": 13,
+    "npcId": 1423
+  },
+  {
+    "id": 13 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I have defeated the demon! ",
+    "next": 14,
+    "npcId": 1423
+  },
+  {
+    "id": 14 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Brilliant, perhaps it's time to reward ",
+    "line2": "you then! ",
+    "next": 15,
+    "npcId": 1423
+  },
+  {
+    "id": 15 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 16,
+    "npcId": 1423
+  },
+  {
+    "stage": 3,
+    "id": 16 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Thank you for defeating that Jungle ",
+    "line2": "Demon! ",
+    "next": 17,
+    "npcId": 1423
+  },
+  {
+    "id": 17 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No problem! ",
+    "next": -1,
+    "npcId": 1423
+  }
+]

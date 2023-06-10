@@ -1,0 +1,538 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Welcome to the church of holy Saradomin. ",
+        "next": 2,
+        "npcId": 5038
+    },
+    {
+        "id": 1,
+        "type": OPTION,
+        "line1": "Who's saradomin?",
+        "line2": "Nice place you've got here.",
+        "line3": "I'm looking for a quest!",
+        "line4": "Can you tell me about the crater?",
+        "lines": 4,
+        "next": -1
+    },
+        {
+        "id": 2,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I'm looking for a quest! ",
+        "next": 3,
+        "npcId": 5038
+    },
+  	{
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "That's lucky, I need someone to do a quest ",
+        "line2": "for me. ",
+        "next": 4,
+        "npcId": 5038
+    },
+    {
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "The problem is there's a ghost ",
+        "line2": "in the graveyard just south of this church. ",
+        "line3": "I would like you to get rid of it. You'll ",
+        "line4": "need the help of my friend, Father Uhrney, ",
+        "next": 5,
+        "npcId": 5038
+    },
+    {
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "who is a bit of a ghost expert. He's currently ",
+        "line2": "living in a little shack in the south of ",
+        "line3": "Lumbridge Swamps, near the coast. My name ",
+        "line4": "is Father Lawrence, by the way. Pleased to meet. ",
+        "next": 6,
+        "npcId": 5038
+    },
+    
+    {
+        "id": 6,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Likewise. ",
+        "next": 7,
+        "npcId": 5038
+    },
+
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Take care travelling through the swamps. ",
+        "line2": "To get there just follow the path south, ",
+        "line3": "through the graveyard. ",
+        "next": 8,
+        "npcId": 5038
+    },
+
+    {
+        "id": 8,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I will, thanks. ",
+        "next": 51,
+        "npcId": 5038
+    },
+   	{
+   		"stage": 1,
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Have you gotten rid of the ghost yet? ",
+        "next": 11,
+        "npcId": 5038
+    },
+    {
+        "id": 10,
+        "type": "QUEST_STAGE",
+        "next": 11,
+        "npcId": 5038
+    },
+        {
+        "id": 11,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "How was I supposed to do that? ",
+        "next": 12,
+        4"npcId": 5038
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Well, you should go find Father Uhrney as ",
+        "line2": "he knows all about ghosts. You can get to ",
+        "line3": "the swamp he lives in by going south through ",
+        "line4": "the cemetery. You'll have to head south ",
+        "next": 13,
+        "npcId": 5038
+    },
+    {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "through the swamp - stick to the coastline ",
+        "line2": "and you'll find his house in no time. ",
+        "next": -1,
+        "npcId": 5038
+    },
+    
+    {
+    	"stage": 2,
+        "id": 14,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Hello, ghost, how are you? ",
+        "next": 15,
+        "npcId": 922
+    },
+    {
+        "id": 15,
+        "type": QUEST_STAGE,
+        "npcId": -154,
+        "next": -1
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Wooo wooo wooooo! ",
+        "next": 17,
+        "npcId": 922
+    },
+        {
+        "id": 17,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Why can't I understand you? Oh, yeah, it ",
+        "line2": "might help if I wear this amulet! ",
+        "next": -1,
+        "npcId": 922
+    },
+        {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Not very good, actually. ",
+        "next": 19,
+        "npcId": 922
+    },
+    {
+        "id": 19,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "What's the problem? ",
+        "next": 20,
+        "npcId": 922
+    },
+    {
+        "id": 20,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Did you just understand what I said? ",
+        "next": 21,
+        "npcId": 922
+    },
+    {
+        "id": 21,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Yep. Now tell me what the problem is. ",
+        "next": 22,
+        "npcId": 922
+    },
+    {
+        "id": 22,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Wow! This is incredible! I didn't expect ",
+        "line2": "anyone to ever understand me! ",
+        "next": 23,
+        "npcId": 922
+    },
+    {
+        "id": 23,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Okay, okay, I can understand you. ",
+        "next": 24,
+        "npcId": 922
+    },
+    {
+        "id": 24,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "But have you any idea why you're doomed ",
+        "line2": "to be a ghost? ",
+        "next": 25,
+        "npcId": 922
+    },
+    {
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Well, to be honest, I'm not sure. I should ",
+        "line2": "think it's because I've lost my head. ",
+        "next": 26,
+        "npcId": 922
+    },
+    {
+        "id": 26,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "What? I can see your head perfectly fine. ",
+        "line2": "Well, see through it at least. ",
+        "next": 27,
+        "npcId": 922
+    },
+    {
+        "id": 27,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "No, no, I mean from my REAL body. If you ",
+        "line2": "look in my coffin you'll see my corpse is ",
+        "line3": "without its skull. Last thing I remember ",
+        "line4": "was being attacked by a warlock while I ",
+        "next": 28,
+        "npcId": 922
+    },    {
+        "id": 28,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "was mining. It was at the mine just south ",
+        "line2": "of this graveyard. ",
+        "next": 29,
+        "npcId": 922
+    },
+    {
+        "id": 29,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Okay. I'll try to get your skull back for ",
+        "line2": "you so you can rest in peace. ",
+        "next": 30,
+        "npcId": 922
+    },
+    {
+        "id": 30,
+        "type": QUEST_STAGE,
+        "npcId": 922,
+        "next": -1
+    },
+    {
+    	"stage": 0,
+        "id": 31,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Woo!",
+        "next": -1,
+        "npcId": 922
+    },
+    {
+        "id": 32,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Sorry, I can't find it at the moment. ",
+        "next": 33,
+        "npcId": 922
+    },
+    {
+        "id": 33,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Ah, well. Keep on looking. I'm pretty sure ",
+        "line2": "it's somewhere near the mining spot south ",
+        "line3": "of here. I really hope it's still there ",
+        "line4": "somewhere. ",
+        "next": -1,
+        "npcId": 922
+    },
+        {
+        "id": 34,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I found it! ",
+        "next": 35,
+        "npcId": 922
+    },
+    {
+        "id": 35,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Hurrah! Now I can stop being a ghost! You ",
+        "line2": "just need to put it in my coffin there, ",
+        "line3": "then I'll be free! ",
+        "next": -1,
+        "npcId": 922
+    },
+    {
+    	"stage":1,
+        "id": 36,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Go away! I'm meditating! ",
+        "next": 37,
+        "npcId": 923
+    },
+    {
+        "id": 37,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Father Lawrence sent me to talk to you. ",
+        "next": 38,
+        "npcId": 923
+    },
+    {
+        "id": 38,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I suppose I'd better talk to you then. What ",
+        "line2": "has he got himself into this time? ",
+        "next": 39,
+        "npcId": 923
+    },
+    {
+        "id": 39,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "A ghost is haunting his graveyard. ",
+        "next": 40,
+        "npcId": 923
+    },
+    {
+        "id": 40,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Oh. The silly fool. I leave town for five ",
+        "line2": "months and he's already having problems. ",
+        "line3": "*sigh* Well, I can't go back and exorcise ",
+        "line4": "it - I vowed not to leave this place until ",
+        "next": 41,
+        "npcId": 923
+    },    {
+        "id": 41,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "I've spent a full two years praying and ",
+        "line2": "meditating. I'll tell you want I can do, ",
+        "line3": "though - take this amulet. ",
+        "next": 42,
+        "npcId": 923
+    },
+    {
+        "id": 42,
+        "type": QUEST_STAGE,
+        "npcId": 923,
+        "next": -1
+    },
+    {
+        "id": 43,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "It is a ghostspeak amulet. It's called that ",
+        "line2": "because, when you wear it, you can speak ",
+        "line3": "to ghosts. Many ghosts are doomed to remain ",
+        "line4": "in this world because they have some important ",
+        "next": 44,
+        "npcId": 923
+    },    {
+        "id": 44,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "task left uncompleted. If you know what ",
+        "line2": "this task is, you can get rid of the ghost. ",
+        "line3": "I'm not making any guarantees, mind you, ",
+        "line4": "but it's the best I can do right now. ",
+        "next": 45,
+        "npcId": 923
+    },
+    {
+        "id": 45,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Thank you. I'll give it a try. ",
+        "next": -1,
+        "npcId": 923
+    },
+    {
+        "id": 46,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I had a talk with Father Urhney. He has ",
+        "line2": "given me a funny amulet for talking to ghosts. ",
+        "next": 47,
+        "npcId": 922
+    },
+    {
+        "id": 47,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "I always wondered what that amulet was. ",
+        "line2": "Well, I hope it's useful. Tell me when you ",
+        "line3": "get rid of the ghost. ",
+        "next": -1,
+        "npcId": 922
+    },
+    {
+        "id": 48,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Father Urhney gives you an amulet.",
+        "next": 43,
+        "npcId": 922
+    },
+        {
+    	"stage": 3,
+        "id": 49,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "How are you doing finding my skull? ",
+        "next": 50,
+        "npcId": 922
+    },
+    
+     {
+        "id": 50,
+        "type": QUEST_STAGE,
+        "npcId": 922,
+        "next": -1
+    },
+    {
+        "id": 51,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 5038
+    },
+    {
+        "stage":2,
+        "id": 52,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Go away! I'm meditating! ",
+        "next": 53,
+        "npcId": 923
+    },
+    {
+        "id": 53,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I lost the ghostspeak amulet.. ",
+        "next": 54,
+        "npcId": 923
+    },
+    {
+        "id": 54,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 923
+    },
+    {
+        "id": 55,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Father gives you another ghostpeak amulet..",
+        "next": -1,
+        "npcId": 923
+    }
+]

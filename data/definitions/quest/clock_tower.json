@@ -1,0 +1,116 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Hello adventurer. My name is Brother ",
+        "line2": "Kojo. Do you happen to know the time? ",
+        "next": 1,
+        "npcId": 3606
+    },
+    {
+        "id": 1,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "No, sorry, I don't.",
+        "anim": "CALM",
+        "next": 2
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "Exactly! This clock tower has recently ",
+        "line2": "broken down, and without it nobody can ",
+        "line3": "tell the correct time. I must fix it before ",
+        "line4": "the town people become too angry! ",
+        "anim": "CALM",
+        "next": 3,
+        "npcId": 3606
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "lines": 2,
+        "line1": "I don't suppose you could assist me in ",
+        "line2": "the repairs? I'll pay you for your help. ",
+        "anim": "CALM",
+        "next": 4,
+        "npcId": 3606
+    },
+    {
+        "id": 4,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3606
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "OK old monk, what can I do?",
+        "anim": "CALM",
+        "next": 6
+    },
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "lines": 4,
+        "line1": "Oh, thank you kind sir! In the cellar ",
+        "line2": "below, you'll find four cogs. They're ",
+        "line3": "too heavy for me, but you should be able ",
+        "line4": "to carry them. Bring them to me.",
+        "anim": "CALM",
+        "next": -1,
+        "npcId": 3606
+    },
+    {
+        "stage": 1,
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "Do you have all the cogs?",
+        "anim": "CALM",
+        "next": 8,
+        "npcId": 3606
+    },
+    {
+        "id": 8,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3606
+    },
+    {
+        "id": 9,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "No, sorry, I don't.",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+        "id": 10,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I have all the cogs!",
+        "anim": "CALM",
+        "next": 11
+    },
+    {
+        "id": 11,
+        "type": "NPC_STATEMENT",
+        "lines": 1,
+        "line1": "I suppose I will reward you now.",
+        "anim": "CALM",
+        "next": 12,
+        "npcId": 3606
+    },
+    {
+        "id": 12,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3606
+    }
+]

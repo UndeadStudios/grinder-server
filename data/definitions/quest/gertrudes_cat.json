@@ -1,0 +1,259 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Do I look okay? Those kids drive me crazy.",
+    "next": 1,
+    "npcId": 3528
+  },
+  {
+    "id": 1,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I'm sorry. It's just that I've lost her.",
+    "next": 2,
+    "npcId": 3528
+  },
+  {
+    "id": 2,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Lost who?",
+    "anim": "CALM",
+    "next": 3
+  },
+  {
+    "id": 3,
+    "type": "NPC_STATEMENT",
+    "lines": 1,
+    "line1": "Fluffs, poor Fluffs. She never hurt anyone.",
+    "anim": "CALM",
+    "next": 4,
+    "npcId": 3528
+  },
+  {
+    "id": 4,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Who's Fluffs?",
+    "anim": "CALM",
+    "next": 5
+  },
+  {
+    "id": 5,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "My beloved feline friend Fluffs. She's ",
+    "line2": "been purring by my side for almost a decade. ",
+    "line3": "Please, could you go search for her while ",
+    "line4": "I look over the kids? ",
+    "anim": "CALM",
+    "next": 6,
+    "npcId": 3528
+  },
+  {
+    "id": 6,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3528
+  },
+  {
+    "id": 7,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Well, I suppose I could.",
+    "anim": "CALM",
+    "next": 8
+  },
+  {
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "lines": 2,
+    "line1": "Really? Thank you so much! I really have ",
+    "line2": "no idea where she could be! ",
+    "anim": "CALM",
+    "next": 9,
+    "npcId": 3528
+  },
+  {
+    "id": 9,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "I think my sons, Shilop and Wilough, ",
+    "line2": "saw the cat last. They'll be out in the ",
+    "line3": "market place. ",
+    "anim": "CALM",
+    "next": 10,
+    "npcId": 3528
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Alright then, I'll see what I can do.",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "stage": 1,
+    "id": 11,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I didn't mean to take it! I just forgot to pay.",
+    "next": 12,
+    "npcId": 3501
+  },
+  {
+    "id": 12,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "What? I'm trying to help your mum find ",
+    "line2": "Fluffs. ",
+    "anim": "CALM",
+    "next": 13
+  },
+  {
+    "id": 13,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Ohh...well, in that case I might be able ",
+    "line2": "to help. Fluffs followed me to my secret ",
+    "line3": "play area, I haven't seen her since. ",
+    "next": 14,
+    "npcId": 3501
+  },
+  {
+    "id": 14,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Where is this play area?",
+    "anim": "CALM",
+    "next": 15
+  },
+  {
+    "id": 15,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "If I told you that, it wouldn't be a secret.",
+    "next": 16,
+    "npcId": 3501
+  },
+  {
+    "id": 16,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "What will make you tell me?",
+    "anim": "CALM",
+    "next": 17
+  },
+  {
+    "id": 17,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "100 coins should cover it.",
+    "next": 18,
+    "npcId": 3501
+  },
+  {
+    "id": 18,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3528
+  },
+  {
+    "id": 19,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Here you go..",
+    "anim": "CALM",
+    "next": 21
+  },
+  {
+    "id": 20,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I be right back..",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "id": 21,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Now where did you see Fluffs?",
+    "anim": "CALM",
+    "next": 22
+  },
+  {
+    "id": 22,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "I play at an abandoned lumber mill to ",
+    "line2": "the north east. Just beyond the Jolly ",
+    "line3": "Boar Inn. I saw Fluffs running around ",
+    "line4": "in there. ",
+    "next": 23,
+    "npcId": 3501
+  },
+  {
+    "id": 23,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3501
+  },
+  {
+    "stage": 5,
+    "id": 24,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "You're back! Thank you! Thank you! Fluffs ",
+    "line2": "just came back! I think she was just upset ",
+    "line3": "as she couldn't find her kitten. ",
+    "next": 25,
+    "npcId": 3528
+  },
+  {
+    "id": 25,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "That's okay, I like to do my bit.",
+    "anim": "CALM",
+    "next": 26
+  },
+  {
+    "id": 26,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "I don't know how to thank you. I have no ",
+    "line2": "real material possessions. I do have ",
+    "line3": "kittens! I can only really look after ",
+    "line4": "one. ",
+    "next": 27,
+    "npcId": 3528
+  },
+  {
+    "id": 27,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Well, if it needs a home.",
+    "anim": "CALM",
+    "next": 28
+  },
+  {
+    "id": 28,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3528
+  }
+]

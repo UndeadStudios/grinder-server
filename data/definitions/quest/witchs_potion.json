@@ -1,0 +1,292 @@
+[
+     {
+     	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "What could you want with an old woman like ",
+        "line2": "me? ",
+        "next": 1,
+        "npcId": 4619
+    },
+    {
+        "id": 1,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I'm looking for work. ",
+        "next": 2,
+        "npcId": 4619
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Hmmm ... Perhaps you could do something ",
+        "line2": "that would help both of us. ",
+        "next": 3,
+        "npcId": 4619
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Would you like to become more proficient ",
+        "line2": "in the dark arts? ",
+        "next": 4,
+        "npcId": 4619
+    },
+    {
+        "id": 4,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "What, you mean improve my magic? ",
+        "next": 5,
+        "npcId": 4619
+    },
+    {
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Yes, improve your magic... Do you have no ",
+        "line2": "sense of drama? ",
+        "next": 6,
+        "npcId": 4619
+    },
+    {
+        "id": 6,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Yes, I'd like to improve my magic. ",
+        "next": 7,
+        "npcId": 4619
+    },
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "OK, I'm going to make a potion to help bring ",
+        "line2": "out your darker self. You will need certain ",
+        "line3": "ingredients. ",
+        "next": 8,
+        "npcId": 4619
+    },
+    {
+        "id": 8,
+        "type": QUEST_STAGE,
+        "npcId": 4619,
+        "next": -1
+    },
+    {
+        "id": 9,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "What do I need? ",
+        "next": 10,
+        "npcId": 4619
+    },
+    {
+        "id": 10,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "You need an eye of new, a rat's tail, an ",
+        "line2": "onion ... Oh, and a piece of burnt meat. ",
+        "next": -1,
+        "npcId": 4619
+    },
+        {
+        "id": 11,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Where can I find a rat's tail? ",
+        "next": 12,
+        "npcId": 4619
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "On a rat! There are lots of rodents around ",
+        "line2": "here: try killing one. ",
+        "next": 13,
+        "npcId": 4619
+    },
+    {
+        "id": 13,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Where can I find burnt meat? ",
+        "next": 14,
+        "npcId": 4619
+    },
+    {
+        "id": 14,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "find yourself a piece of meat and cook it ",
+        "line2": "twice. It'll burn. ",
+        "next": 15,
+        "npcId": 4619
+    },
+    {
+        "id": 15,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Where can I find an onion? ",
+        "next": 16,
+        "npcId": 4619
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "There's a field of onions just north of ",
+        "line2": "here. No-one will mind if you borrow a few. ",
+        "next": 17,
+        "npcId": 4619
+    },
+    {
+        "id": 17,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Where can I find an eye of newt? ",
+        "next": 18,
+        "npcId": 4619
+    },
+    {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "There's a shop in Port Sarim, east of here. ",
+        "line2": "You can buy newt eyes there. ",
+        "next": 19,
+        "npcId": 4619
+    },
+    {
+        "id": 19,
+        "type": OPTION,
+        "line1": "Where can I find a rat's tail?",
+        "line2": "Where can I find burnt meat?",
+        "line3": "Where can I find an onion?",
+        "line4": "Where can I find an eye of newt?",
+        "lines": 4,
+        "next": -1
+    },
+     {
+     	"stage": 1,
+        "id": 20,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "So have you found the things for the potion? ",
+        "next": 21,
+        "npcId": 4619
+    },
+    {
+        "id": 21,
+        "type": QUEST_STAGE,
+        "npcId": 4619,
+        "next": -1
+    },
+    {
+        "id": 22,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Yes, I have everything! ",
+        "next": 23,
+        "npcId": 4619
+    },
+    {
+        "id": 23,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Excellent, can I have them then? ",
+        "next": 24,
+        "npcId": 4619
+    },
+    {
+        "id": 24,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "You pass the ingredients to Hetty and she ",
+        "line2": "puts them all into her cauldron. Hetty closes ",
+        "line3": "her eyes and begins to chant. The cauldron ",
+        "line4": "bubbles mysteriously. ",
+        "next": 25,
+        "npcId": 4619
+    },
+    {
+    	"stage": 2,
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Okay, now drink from the cauldron. ",
+        "next": -1,
+        "npcId": 4619
+    },
+    {
+        "id": 26,
+        "type": "STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "You drink from the cauldron. It tastes horrible! ",
+        "line2": "You feel yourself imbued with power ",
+        "next": 27,
+        "npcId": 4619
+    },
+    {
+        "id": 27,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Well done! You should find you're a bit ",
+        "line2": "more experienced in the magical arts now. ",
+        "next": 28,
+        "npcId": 4619
+    },
+    {
+        "id": 28,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Thanks! ",
+        "next": 29,
+        "npcId": 4619
+    },
+    {
+        "id": 29,
+        "type": QUEST_STAGE,
+        "npcId": 4619,
+        "next": -1
+    },
+    {
+        "id": 30,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "No, I'll be back soon! ",
+        "next": -1,
+        "npcId": 4619
+    }
+]

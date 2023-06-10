@@ -1,0 +1,158 @@
+		case 9000:
+			definition.copy(lookup(3451));
+			definition.name = "Aquais Neige";
+			definition.actions = new String[] { "Talk-to", null, "Exchange", null, null, null, null };
+			break;
+		case 9001: // Water elemental 2
+			definition.copy(lookup(1370));
+			definition.recolourTarget = new int[] { -22052, -22052 };
+			definition.recolourOriginal = new int[] { 38350, 37460 };
+			break;
+		case 9002: // Water wizard
+			definition.copy(lookup(1557));
+			definition.combatLevel = 54;
+			definition.size = 2;
+			definition.scaleXZ *= 1.25;
+			definition.scaleY *= 1.20;
+			break;
+		case 9003: // Water wizard 2
+			definition.copy(lookup(1557));
+			definition.combatLevel = 54;
+			definition.size = 2;
+			definition.scaleXZ *= 1.25;
+			definition.scaleY *= 1.20;
+			definition.recolourTarget = new int[] { -22052, -22052, 7700, -22052, 11200, -22052};
+			definition.recolourOriginal = new int[] {-25047,-25047,-25706,-21612,-21612,-21568};
+			break;
+		case 9004: // Icefiend
+			definition.copy(lookup(4813));
+			definition.combatLevel = 75;
+			definition.size = 2;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			break;
+		case 9005: // Icefiend 2
+			definition.copy(lookup(4813));
+			definition.combatLevel = 75;
+			definition.size = 2;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.recolourTarget = new int[] { 33354, 33354, 33354, 33354, -22052, -22052, -22052, 33364, -22052, -22052, 33368, 33368, 33368, -22052, -22052, -22052, -22052, -29744 };
+			definition.recolourOriginal = new int[] { 33354, 33346, 33364, 33341, 33348, 33339, 33463, 33707, 33455, 334697, 33368, 34142, 32995, 33701, 33703, 33585, 33697, 34140 };
+			break;
+		case 9006:
+			definition.copy(lookup(5824));
+			definition.combatLevel = 117;
+			definition.name = "Ice troll";
+			definition.recolourTarget = new int[] { -29744, 21570, 122 };
+			definition.recolourOriginal = new int[] { 61, 21570, 6430 };
+			break;
+		case 9007: // Ice troll 2
+			definition.copy(lookup(5824));
+			definition.combatLevel = 117;
+			definition.name = "Ice troll";
+			definition.recolourTarget = new int[] { -22052, 21570, 122 };
+			definition.recolourOriginal = new int[] { 61, 21570, 6430 };
+			break;
+		case 9008: // Ice spider
+			definition.copy(lookup(3022));
+			definition.combatLevel = 97;
+			break;
+		case 9009: // Ice spider 2
+			definition.copy(lookup(3022));
+			definition.combatLevel = 97;
+			definition.recolourTarget = new int[] { -22052, -22052, -22052, -22052, -22052, -22052};
+			definition.recolourOriginal = new int[] { 33228, 33088, 33098, 33104, 33112, 34223};
+			break;
+		case 9010: // Ice giant
+			definition.copy(lookup(7880));
+			definition.combatLevel = 144;
+			definition.size = 3;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			break;
+		case 9011: // Ice giant 2
+			definition.copy(lookup(7880));
+			definition.combatLevel = 144;
+			definition.size = 3;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.recolourTarget = new int[] { -22052, -22052, -22052, -22052, -22052};
+			definition.recolourOriginal = new int[] { 33228, 33112, 33088, 33075, 33112};
+			break;
+		case 9012: // Armaros
+			definition.copy(lookup(3477));
+			definition.combatLevel = 244;
+			definition.size = 3;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.name = "Armaros";
+			definition.recolourTarget = new int[] { -29744, -29744, -29744, -29744, -29744, -29744, -29744, -29744, -29744, -29744, 125, 125 };
+			definition.recolourOriginal = new int[] { 3261, 3266, 301, 293, 3369, 3373, 3365, 3377, 202, 214, 206, 198 };
+			break;
+		case 9013: // Armaros 22
+			definition.copy(lookup(3477));
+			definition.combatLevel = 244;
+			definition.size = 3;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.name = "Armaros";
+			definition.recolourTarget = new int[] { -22052, -22052, -22052, -22052, -22052, -22052, -22052, -22052, -22052, -22052, 125, 125 };
+			definition.recolourOriginal = new int[] { 3261, 3266, 301, 293, 3369, 3373, 3365, 3377, 202, 214, 206, 198 };
+			break;
+		case 9014: // Hydro warrior
+			definition.copy(lookup(2851));
+			definition.combatLevel = 167;
+			definition.size = 2;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.name = "Hydro warrior";
+			definition.recolourTarget = new int[] { -29744, 125, -29744, -29744, -29744, 120 };
+			definition.recolourOriginal = new int[] { 61, 41, 4550, 57, 12, 24 };
+			break;
+		case 9015: // Hydro warrior 2
+			definition.copy(lookup(2851));
+			definition.combatLevel = 167;
+			definition.size = 2;
+			definition.scaleXZ *= 1.55;
+			definition.scaleY *= 1.30;
+			definition.name = "Hydro warrior";
+			definition.recolourTarget = new int[] { -22052, 125, -22052, -22052, -22052, 120 };
+			definition.recolourOriginal = new int[] { 61, 41, 4550, 57, 12, 24 };
+			break;
+		case 9016: // Krampus
+			definition.copy(lookup(1443));
+			definition.combatLevel = 381;
+			definition.actions = new String[] { "Attack", null, null, null, null, null, null };
+			definition.name = "Krampus";
+			definition.recolourTarget = new int[] { -29744, 125, -29744, -29744, -29744, 120 };
+			definition.recolourOriginal = new int[] { 910, 912, 1938, 1814, 1690, 0 };
+			break;
+		case 9017: // Krampus 2
+			definition.copy(lookup(1443));
+			definition.combatLevel = 381;
+			definition.actions = new String[] { "Attack", null, null, null, null, null, null };
+			definition.name = "Krampus";
+			definition.recolourTarget = new int[] { -22052, 125, -22052, -22052, -22052, 120 };
+			definition.recolourOriginal = new int[] { 910, 912, 1938, 1814, 1690, 0 };
+			break;
+		case 9018: // Nykur
+			definition.copy(lookup(3474));
+			definition.combatLevel = 325;
+			definition.actions = new String[] { "Attack", null, null, null, null, null, null };
+			definition.name = "Nykur";
+			definition.recolourTarget = new int[] { 120, 120, 120, 120, 120, -22052, 8390, 8369 };
+			definition.recolourOriginal = new int[] { 284, 280, 404, 289, 165, 51078, 278, 274 };
+			break;
+		case 9019: // Nykur 2
+			definition.copy(lookup(3474));
+			definition.combatLevel = 325;
+			definition.actions = new String[] { "Attack", null, null, null, null, null, null };
+			definition.name = "Nykur";
+			definition.recolourTarget = new int[] { 120, 120, 120, 120, 120, -22052, -22052, -22052 };
+			definition.recolourOriginal = new int[] { 284, 280, 404, 289, 165, 51078, 278, 274 };
+			break;
+			// 3462 cyrius
+			// 3463 cyrius
+			// 3464 cyrius
+			// 3473 boss (enrage, whirlpools of water attack from tons of locations you gotta move, water waves on the floor that spawns minions) strong melee attack, magic water surge and range attack

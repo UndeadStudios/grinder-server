@@ -1,0 +1,368 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Can you please help me? I'm in a terrible ",
+        "line2": "spot of trouble. My fianc�, Ernest, and ",
+        "line3": "I came upon this house. Seeing as we were ",
+        "line4": "a little lost, Ernest decided to go in and..",
+        "next": 1,
+        "npcId": 3561
+    },
+    {
+        "id": 1,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "ask for directions. That was an hour ago...and ",
+        "line2": "that house looks spooky. Can you go and ",
+        "line3": "see if you can find him for me? ",
+        "next": 2,
+        "npcId": 3561
+    },
+    {
+        "id": 2,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, I am willing to help you..",
+        "line2": "I can't right now, maybe later.",
+        "next": -1
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Thank you, thank you. I'm very grateful. ",
+        "line2": "I think I spotted some lights flashing in ",
+        "line3": "one of the top floor windows, so you may ",
+        "line4": "want to head up there first. ",
+        "next": -1,
+        "npcId": 3561
+    },
+    {
+        "stage": 1,
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Be careful in here, there's lots of dangerous ",
+        "line2": "equipment. ",
+        "next": 5,
+        "npcId": 3562
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I'm looking for a guy called Ernest. ",
+        "next": 6,
+        "npcId": 3562
+    },
+
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Ah, Ernest - top notch bloke - he's helping ",
+        "line2": "me with my experiments. ",
+        "next": 7,
+        "npcId": 3562
+    },
+
+    {
+        "id": 7,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "So you know where he is? ",
+        "next": 8,
+        "npcId": 3562
+    },
+
+    {
+        "id": 8,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "He's that chicken over there. ",
+        "next": 9,
+        "npcId": 3562
+    },
+
+    {
+        "id": 9,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Ernest is a chicken? Are you sure? ",
+        "next": 10,
+        "npcId": 3562
+    },
+
+    {
+        "id": 10,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Oh, he isn't normally a chicken, or, at ",
+        "line2": "least, he wasn't until he helped me test ",
+        "line3": "my pouletmorph machine. It was originally ",
+        "line4": "going to be called a transmutation machine, ",
+        "next": 11,
+        "npcId": 3562
+    },
+    {
+        "id": 11,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "but after testing it, pouletmorph seems ",
+        "line2": "more appropriate. ",
+        "next": 12,
+        "npcId": 3562
+    },
+
+    {
+        "id": 12,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I'm glad Veronica didn't actually get engaged ",
+        "line2": "to a chicken. ",
+        "next": 13,
+        "npcId": 3562
+    },
+
+    {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Who's Veronica? ",
+        "next": 14,
+        "npcId": 3562
+    },
+
+    {
+        "id": 14,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Ernest's fianc�e. She probably doesn't want ",
+        "line2": "to marry a chicken. ",
+        "next": 15,
+        "npcId": 3562
+    },
+
+    {
+        "id": 15,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Oh, I dunno. She could have free eggs for ",
+        "line2": "breakfast every morning. ",
+        "next": 16,
+        "npcId": 3562
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Umm... It's not so easy... My machine is ",
+        "line2": "broken, and this house has long been pestered ",
+        "line3": "by poltergeists. They seem to reap joy from ",
+        "line4": "hiding my belongings and, in this case, ",
+        "next": 17,
+        "npcId": 3562
+    },
+
+    {
+        "id": 17,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Well, I can look for them. ",
+        "next": 18,
+        "npcId": 3562
+    },
+
+    {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "That would be a huge help. They'll be somewhere ",
+        "line2": "in the manor house or its grounds outside. ",
+        "line3": "I'm missing the pressure gauge and a rubber ",
+        "line4": "tube. They've also taken my oil can, which ",
+        "next": 19,
+        "npcId": 3562
+    },
+    {
+        "id": 19,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "I'm going to need to get this thing started ",
+        "line2": "again. ",
+        "next": 20,
+        "npcId": 3562
+    },
+
+    {
+        "id": 20,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Any clues? ",
+        "next": 21,
+        "npcId": 3562
+    },
+
+    {
+        "id": 21,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 4,
+        "line1": "Well, I wouldn't be surprised if you found ",
+        "line2": "something in my IQ-testing room under the ",
+        "line3": "manor where I test my...creations. Oh, and ",
+        "line4": "if I were you, I'd stay away from the coffin ",
+        "next": 22,
+        "npcId": 3562
+    },
+    {
+        "id": 22,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "in the basement. Even the poltergeists daren't ",
+        "line2": "go near it. ",
+        "next": 23,
+        "npcId": 3562
+    },
+    
+    {
+        "id": 23,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3562
+    },
+
+    {
+    	"stage": 2,
+        "id": 24,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Have you found anything yet? ",
+        "next": 25,
+        "npcId": 3562
+    },
+
+    {
+        "id": 25,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3562
+    },
+
+    {
+        "id": 26,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I'm afraid I don't have any of them yet. ",
+        "next": 27,
+        "npcId": 3562
+    },
+
+    {
+        "id": 27,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "I need a rubber tube, a pressure gauge and ",
+        "line2": "a can of oil. Then your friend can stop ",
+        "line3": "being a chicken. ",
+        "next": -1,
+        "npcId": 3562
+    },
+    {
+        "id": 28,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Here got it all!",
+        "next": 29,
+        "npcId": 3562
+    },
+    {
+        "id": 29,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3562
+    },
+    {
+        "id": 30,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Thank you. It was dreadfully irritating ",
+        "line2": "being a chicken. How can *cluck* I ever ",
+        "line3": "thank you? ",
+        "next": 31,
+        "npcId": 3563
+    },
+    {
+        "id": 31,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "A cash reward is always nice... ",
+        "next": 32,
+        "npcId": 3563
+    },
+    {
+        "id": 32,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 3,
+        "line1": "Of course, of course. You may as well have ",
+        "line2": "these eggs and *cluck* feathers I mysteriously ",
+        "line3": "*bwark* found in my pockets. ",
+        "next": 33,
+        "npcId": 3563
+    },
+    {
+        "id": 33,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3562
+    },
+    {
+        "id": 34,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Have you found my sweetheart yet?",
+        "next": 35,
+        "npcId": 3561
+    },
+    {
+        "id": 35,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "No, not yet. ",
+        "next": -1,
+        "npcId": 3561
+    }
+]

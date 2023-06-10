@@ -1,0 +1,136 @@
+  {
+    "npcIds": [
+      1227,
+      1228,
+      1229,
+      1230,
+      1231,
+      1232,
+      1233,
+      1234,
+      1235
+    ],
+    "rdtChance": -1,
+    "specialDrops": [
+      {
+        "itemId": 22625,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22628,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22631,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22622,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22616,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22619,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22613,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22610,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22650,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22653,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22656,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22647,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22638,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22641,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22644,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 25
+      },
+      {
+        "itemId": 22634,
+        "minAmount": 30,
+        "maxAmount": 100,
+        "chance": 15
+      },
+      {
+        "itemId": 22636,
+        "minAmount": 35,
+        "maxAmount": 100,
+        "chance": 15
+      }
+    ]
+  },
+  {
+    "npcIds": [
+      1261,
+      1262,
+      1263,
+      1264,
+      1265
+    ],
+    "rdtChance": -1,
+    "alwaysDrops": [
+      {
+        "itemId": 526,
+        "minAmount": 1,
+        "maxAmount": 1,
+        "chance": 0
+      }
+    ]
+  },

@@ -1,0 +1,142 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hello traveller, what brings you to my humble smithy?",
+        "next": 2,
+        "npcId": 3893
+    },
+    {
+        "id": 1,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "I wanted to use your anvils.",
+        "line2": "I want to use your whetstone.",
+        "line3": "Mind your own business, shortstuff!",
+        "line4": "I was just checking out the landscape",
+        "line5": "What do you make here?",
+        "next": -1
+    },
+    {
+        "id": 2,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I wanted to use your anvils.",
+        "anim": "CALM",
+        "next": 3
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "My anvils get enough work with my own use. I make",
+        "line2": "pickaxes, and it takes a lot of hard work. If you could",
+        "line3": "get me some more materials, then I could let you use",
+        "line4": "them.",
+        "next": 4,
+        "npcId": 3893
+    },
+    {
+        "id": 4,
+        "type": "QUEST_STAGE",
+        "next": -1
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Yes, I will get you the materials.",
+        "anim": "CALM",
+        "next": 6
+    },
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Clay is what I use more than anything, to make casts.",
+        "line2": "Could you get me 6 clay, 4 copper ore, and 2 iron ore,",
+        "line3": "please? I could pay a little, and let you use my anvils.",
+        "line4": "Take this pickaxe with you just in case you need it.",
+        "next": 8,
+        "npcId": 3893
+    },
+    {
+        "id": 7,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Where can I find those?",
+        "line2": "Certainly, I'll be right back!",
+        "next": -1
+    },
+    {
+        "id": 8,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Certainly, I'll be right back!",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+    	"stage": 1,
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Have you got my materials yet, traveller?",
+        "next": 10,
+        "npcId": 3893
+    },
+    {
+        "id": 10,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3893
+    },
+    {
+        "id": 11,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "No, I'll be back soon..",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+        "id": 12,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I have everything you need.",
+        "anim": "CALM",
+        "next": 13
+    },
+     {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Many thanks. Pass them here, please. I can spare you",
+        "line2": "some coins for your trouble, and use my anvils",
+        "line3": "any time you want.",
+        "next": 14,
+        "npcId": 3893
+    },
+    {
+        "id": 14,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You hand over the clay, copper, and iron to Doric.",
+        "next": 15,
+        "npcId": 3893
+    },
+    {
+        "id": 15,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 3893
+    }
+]

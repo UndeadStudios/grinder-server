@@ -1,0 +1,402 @@
+
+Abyssal dagger
+Stance: 3296
+special attack Anim: 3300 gfx: 1283
+stab/lunge/block anim: 3297
+slash anim: 3294
+defence anim: 3295
+
+abyssal tentacle
+special attack Anim: 1658 gfx: 1283
+slash anim: 1658
+defence anim: 1659
+
+abyssal whip
+walk anim: 1660
+run anim: 1661
+special attack Anim: 1658 gfx: 341
+slash anim: 1658
+defence anim: 1659
+
+Dragon 2h sword
+stance anim: 2561
+slash anim: 407
+crush anim: 406
+defence anim: 410
+special attack anim: 3157 gfx: 559 stance anim: 2562
+
+dragon hasta
+stab anim: 428
+slash anim: 440
+crush anim: 429
+defence anim: 430
+stance anim: 813
+special attack anim: 7515 gfx: 1369 stance anim 1210
+
+Dragon claws
+stab anim: 1067
+slash anim: 393
+defence anim: 424
+special attack anim: 7514 gfx: 1171
+
+Crystal halberd
+the stance anims are same as dragon hunter lance below
+stab anim: 428
+slash anim: 440
+defence anim: 430
+special attack anim: 1203 stance anim: 1209 enemy tile gfx: 1235
+
+Abyssal bludgeon
+crush anim: 3298
+defence anim: 1666
+stance anim: 1652
+special attack anim: 3299 enemy entity gfx: 1284
+
+Dragon axe
+special attack anim: 2876 gfx: 479
+
+Crystal axe
+special attack anim: 2876 gfx: 1689
+
+Dragon pickaxe
+special attack anim: 7138
+stab anim: 401
+crush anim: 400
+defence anim: 397
+
+Crystal pickaxe
+special attack anim: 8329
+
+Sara's blessed sword
+stance anim: 7053
+slash anim: 7045
+crush anim: 7054
+defence anim: 7056
+special attack anim: 1133 gfx: 1213 enemy entity gfx: 1196
+
+Dragon longsword
+stance anim: 809
+slash anim: 390
+stab anim: 386
+defence anim: 4177
+special attack anim: 1058 gfx: 248
+
+Dragon scimitar
+stance anim: 808
+slash anim: 390
+stab anim: 386
+defence anim: 4177
+special attack anim: 1872 gfx: 347
+
+Blade of saeldor
+stance anim: 809
+slash anim: 390
+stab anim: 386
+defence anim: 4177
+
+dragon dagger
+stab anim: 376
+slash anim: 377
+defence anim: 4177
+special attack anim: 1062 gfx: 252
+
+dragon warhammer
+crush anim: 401
+defence anim: 403
+special attack anim: 1378 gfx: 1292
+
+Dragon mace
+stab anim: 400
+crush anim: 401
+defence anim: 403
+special attack anim: 1060 gfx: 251
+
+Dragon spear
+stance anim: 813
+stab anim: 381
+slash anim: 380
+crush anim: 382
+defence anim: 383
+special attack anim: 1064 gfx: 253 stance anim: 1209 enemy entity gfx: 254
+
+Barrelchest anchor
+stance anim: 5869
+walk anim: 5867
+run anim: 5868
+stab anim: 5865
+crush anim: 5865
+special attack anim: 5870 gfx: 1027
+
+Dinh's bulwark
+stance anim: 7508
+walk anim: 7510
+run anim: 7509
+crush anim: 7511
+defence anim: 7512
+special attack anim: 7511 gfx: 1336
+
+Dark bow
+attack anim: 426
+special attack anim: 426 gfx: 1111
+
+dragon knife / dragon knives
+attack anim: 8194
+projectile id: 28
+special attack anim: 8291 projectile id 699
+
+dragon darts
+attack anim: 7554
+projectile id: 1122
+
+dragon thrownaxe
+attack anim: 7617
+projectile id: 1319
+special attack anim: 7521 gfx: 1317 projectile id: 1318
+
+Ghrazi rapier
+stance anim: 809
+stab anim: 8145
+slash anim: 390
+defence anim: 4177
+
+Dragon sword
+stab anim: 386
+slash anim: 390
+defence anim: 4177
+special attack anim: 7515 gfx: 1369
+
+toxic blowpipe
+attack anim: 5061
+defence anim: 430
+special attack anim: 5061 gfx: 1043
+
+Elysian spirit shield
+defence anim: 1156
+gfx: 321
+
+elder maul
+stance anim: 7518
+walk anim: 7520
+run anim: 7519
+crush anim: 7516
+defence anim: 7517
+
+bone dagger
+special attack anim: 4198 gfx: 704
+
+dragon hunter lance
+stance anim: 813
+walk anim: 1205
+run anim: 2563
+turn left/right: 1209
+Walk Back: 1206
+Walk Left: 1207
+Walk Right: 1208
+stab anim: 8288
+slash anim: 8289
+crush anim: 8290
+defence anim: 420
+
+Granite hammer
+special attack anim: 1378 gfx 1450
+
+Granite maul (ornate) same as reg granite maul
+stance anim: 1662
+walk anim: 1663
+run anim: 1664
+crush anim: 1665
+defence anim: 1666
+special attack anim: 1667 gfx: 340
+
+Leaf-bladed battleaxe
+slash anim: 7004
+crush anim: 3852
+defence anim: 397
+
+Ivandis flail
+stance anim: 8009
+walk anim: 8011
+run anim: 8016
+turn left/right: 8015
+walk back: 8012
+walk left: 8013
+walk right: 8014
+crush anim: 8010
+
+Scythe of vitur
+stance anim: 8057
+slash/crush anim: 8056
+defence anim: 435
+gfx on entity tile: one of these (it varies): 435, 506, 1231, 478, 1172
+
+staff of the dead / toxic staff of the dead
+stance: same as dragon hunter lance
+stab anim: 428
+slash anim: 440
+crush anim: 419
+defence anim: 420
+special attack anim: 7083 gfx: 1228 green game chat msg: Spirits of deceased evildoers offer you their protection.
+when special fades green game msg: Your protection fades away.
+
+Kodai wand / 3rd age wand
+stance: same as dragon hunter lance
+crush anim: 414
+defence anim: 415
+
+Inquisitor's mace
+crush anim: 4503
+stab anim: 400
+defence anim: 403
+
+Sanguinesti staff
+stance: same as dragon hunter lance
+attack anim: 1167
+defence anim: 420
+projectile id: 1539
+enemy entity gfx normal: 1541 gfx heal: 1542
+
+Staff of light
+stance: same as dragon hunter lance
+stab anim: 428
+slash anim: 440
+crush anim: 419
+defence anim: 420
+special attack anim: 7967 gfx: 1516 green game chat msg: Spirits of deceased evildoers offer you their protection.
+when special fades green game msg: Your protection fades away.
+
+Heavy ballista / Light ballista
+stance anim: 7220
+walk anim: 7223
+run anim: 7221
+attack anim: 7555
+defence anim: 7219
+special attack anim: 7556
+
+Javelin projectile ids
+dragon: 1301
+amethyst: 1386
+rune: 205
+adamant: 204
+
+Craw's bow projectile id: 1574
+
+Trident of the swamp
+stance: same as dragon hunter lance
+attack anim: 1167
+defence anim: 420
+projectile id: 1040
+
+godsword
+stance anim: 7053
+walk anim: 7052
+run anim: 7043
+turn left/right: 7044
+walk left: 7048
+walk back: 7052
+walk right: 7047
+slash anim: 7045
+crush anim: 7054
+defence anim: 7056
+
+ags special attack anim: 7644 gfx: 1211
+bgs special attack anim: 7642 gfx: 1212
+sgs special attack anim: 7640 gfx: 1209
+zgs special attack anim: 7638 gfx: 1210 enemy entity gfx: 369
+
+Viggora's chainmace
+stance anim: 244
+walk anim: 247
+run anim: 248
+crush/stab anim: 245
+defence anim: 7200
+
+Thammaron's sceptre
+stance: same as dragon hunter lance
+crush anim: 1058
+defence anim: 420
+
+blach chinchompa
+stance anim: 3175
+walk anim: 3177
+run anim: 3178
+attack anim: 7618
+defence anim: 3176
+projectile id: 1272
+exploding gfx: 157
+
+ancient wyvern shield on equip anim: 3996 gfx: 1395
+special attack anim: 7700 gfx: 1402 enemy entity gfx: 367
+
+dragonfire ward special attack anim: 6696 gfx: 1165 enemy entity gfx: 1167
+
+dragonfire shield special attack anim: 6696 gfx: 1165 enemy entity gfx: 1167
+
+crossbow
+stance anim: 4591
+walk anim: 4226
+run anim: 4228
+attack anim: 7552
+defence anim: 424
+
+dragon hunter crossbow special attack anim: 4230 enemy entity gfx: 157
+
+Karil's crossbow
+stance anim: 2074
+walk anim: 2076
+run anim: 2077
+attack anim: 2075
+defence anim: 424
+
+Torag's hammers
+crush anim: 2068
+defence anim: 424
+
+verac's flail
+stance anim: 2061
+walk anim: 2060
+crush/stab anim: 2062
+defence anim: 2063
+
+Guthan's spear
+stance: same as dragon hunter lance
+stab anim: 2080
+slash anim: 2081
+crush anim: 2082
+defence anim: 430
+
+Dharok's greataxe
+stance anim: 2065
+walk anim: 2064
+slash anim: 2067
+crush anim: 2066
+defence anim: 424
+
+Ahrim's staff
+stance: same as dragon hunter lance
+crush anim: 2078
+defence anim: 2079
+
+nightmare staff
+stance anim: 4504
+walk anim 1205:
+run anim: 1210
+turn left/right: 1209
+walk back: 1206
+walk left: 1207
+walk right: 1208
+crush anim: 4505
+defence anim: 420
+
+volatile nightmare staff special attack anim: 8532 gfx: 1760 enemy entity gfx: 1759
+eldritch nightmare staff special attack anim: 8532 gfx: 1762 enemy entity gfx: 1761
+
+arrow projectile ids
+rune: 15
+amethyst: 1384
+
+dragon bolts projectile ids: 1468 same for all tipped variants
+
+Other
+Max cape emote anim: 7121 gfx: 1286
+barehanded impling catching anim: 7171
+Ornate pool of rejuvenation drink anim: 7305

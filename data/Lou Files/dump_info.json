@@ -1,0 +1,25 @@
+{
+  "playerCount": 1,
+  "nulledPlayerCount": 2047,
+  "nulledChannelCount": 0,
+  "activeChannelCount": 1,
+  "playersInHomeCount": 1,
+  "botCount": 0,
+  "botsInHomeCount": 0,
+  "playersInHome": [
+    {
+      "name": "Stan",
+      "position": "Position values: [x, y, z] - [3091, 3502, 0].",
+      "queuedPacketsCount": 0,
+      "lastPacketReceived": {
+        "info": "op(103) size \u003d 10",
+        "time": 368
+      },
+      "lastPacketSend": {
+        "info": "op(65) size \u003d 195",
+        "time": 723
+      }
+    }
+  ],
+  "playersNotInHome": []
+}

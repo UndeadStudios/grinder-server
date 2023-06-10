@@ -1,0 +1,88 @@
+[
+  {
+    "p1Name": "3lou 55",
+    "p1Combat": 126,
+    "p2Name": "3lou 55g",
+    "p2Combat": 126,
+    "draw": false
+  },
+  {
+    "p1Name": "Lou",
+    "p1Combat": 126,
+    "p2Name": "3lou 55",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "BOTH_HOST"
+  },
+  {
+    "p1Name": "Lou",
+    "p1Combat": 126,
+    "p2Name": "3lou 55",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "BLACKJACK"
+  },
+  {
+    "p1Name": "Lou",
+    "p1Combat": 126,
+    "p2Name": "3lou 55",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "FLOWER_POKER",
+    "finalModel": "Flower Poker"
+  },
+  {
+    "p1Name": "3lou 55",
+    "p1Combat": 126,
+    "p2Name": "Lou",
+    "p2Combat": 126,
+    "draw": true,
+    "mode": "FLOWER_POKER",
+    "finalModel": "Flower Poker"
+  },
+  {
+    "p1Name": "3lou 55",
+    "p1Combat": 126,
+    "p2Name": "Lou",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "YOU_HOST",
+    "finalModel": "You Host"
+  },
+  {
+    "p1Name": "3lou 55",
+    "p1Combat": 126,
+    "p2Name": "Lou",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "YOU_HOST",
+    "finalModel": "You Host"
+  },
+  {
+    "p1Name": "Lou",
+    "p1Combat": 126,
+    "p2Name": "3lou 55",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "YOU_HOST",
+    "finalModel": "You Host"
+  },
+  {
+    "p1Name": "Lou",
+    "p1Combat": 126,
+    "p2Name": "3lou 55",
+    "p2Combat": 126,
+    "draw": false,
+    "mode": "BOTH_HOST",
+    "finalModel": "Both Host"
+  },
+  {
+    "p1Name": "3lou 55",
+    "p1Combat": 126,
+    "p2Name": "3lou 55ttgc",
+    "p2Combat": 3,
+    "draw": false,
+    "mode": "BOTH_HOST",
+    "finalModel": "Both Host"
+  }
+]

@@ -1,0 +1,52 @@
+1370, 9001 Water elemental (Melee/Magic): Throws water magic damage. Reduces defence based on damage dealt.
+9002, 9003 Water wizard (Magic): Throws water blast.
+9004, 9005 Ice fiend (Melee): Drains prayer based on damage dealt.
+
+9006, 9007 Hyrdo Troll (Range/Melee): Throws stones at the enemy when not in close range, or always melee when in close range.
+9008, 9009 Ice spider (Melee): Venoms the player.
+
+
+9010, 9011 Ice giant (Melee): Melee
+9014, 9015 Hydro warrior (Melee/Magic): Melee attacks and ice barrages like kamil sometimes.
+
+
+
+9012, 9013 Armaros (Melee/Ranged): Heavy melee attacks and throws range fangs, and heals himself. Always uses melee attacks when in close range, and ranged when not in close range.
+
+
+
+9016, 9017 Krampus (Melee/Magic): Water waves throwing and attacks from close range. Uses magic attack types most of the time.
+9018, 9019 Nykur (Magic): Heavy magical attacks thrown at player.
+
+
+
+
+
+
+------------FINAL BOSS BELOW-------------------------------
+
+Cyrius 3462: Supporters and minions of the boss, uses pure range damage with chance of special attack.
+Cyrius 3463: Supporters and minions of the boss, uses pure melee damage with chance of special attack.
+Cyrius 3464: Supporters and minions of the boss, uses pure magic damage.
+
+
+The Inadequacy: Final boss, 4 phases:
+Phase 1:
+
+Phase 2:
+
+Phase 3:
+
+Phase 4:
+
+
+
+
+Sounds:
+The Inadequacy
+Troll
+Ice lord
+Water elemental
+
+
+Ice lord: Transforms to different npcs upon death up to 3 times, id 852 > 853 > 855

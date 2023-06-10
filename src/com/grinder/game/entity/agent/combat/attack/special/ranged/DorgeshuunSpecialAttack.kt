@@ -1,0 +1,115 @@
+package com.grinder.game.entity.agent.combat.attack.special.ranged
+
+import com.grinder.game.entity.agent.combat.attack.AttackContext
+import com.grinder.game.entity.agent.combat.attack.AttackType
+import com.grinder.game.entity.agent.combat.attack.special.RangedSpecialAttack
+import com.grinder.game.entity.agent.combat.attack.special.RangedSpecialAttackProvider
+import com.grinder.game.entity.agent.combat.attack.special.SpecialAttackType
+import com.grinder.game.entity.agent.combat.attack.weapon.ranged.Ammunition
+import com.grinder.game.entity.agent.combat.attack.weapon.ranged.RangedWeaponType
+import com.grinder.game.entity.agent.combat.hit.Hit
+import com.grinder.game.entity.agent.combat.hit.HitTemplate
+import com.grinder.game.entity.agent.player.message
+import com.grinder.game.model.Animation
+import com.grinder.game.model.Graphic
+import com.grinder.game.model.Skill
+import com.grinder.game.model.projectile.ProjectileTemplate
+import com.grinder.game.model.sound.Sound
+import com.grinder.game.model.sound.Sounds
+import com.grinder.util.Priority
+import java.util.*
+import java.util.stream.Stream
+import kotlin.collections.HashSet
+import kotlin.math.max
+
+/**
+ * https://oldschool.runescape.wiki/w/Dorgeshuun_crossbow
+ *
+ * he Dorgeshuun crossbow has a special attack, Snipe, (75%) which has a guaranteed hit if you weren't the last one to attack the target, and lowers the
+ * target's Defence by the amount of damage dealt, similar to the Bandos godsword's and bone dagger's special attacks.
+ * Note that a successful Backstab can still deal 0 damage, as a guaranteed hit is not the same as guaranteed damage.
+ * This is because Backstab guarantees a success on the hit accuracy roll, but does not guarantee an above-zero value on the hit damage roll.
+ *
+ *
+ */
+class DorgeshuunSpecialAttack
+    : RangedSpecialAttack(Provider()) {
+
+    override fun special() = SpecialAttackType.SNIPE
+
+    override fun secondaryAccuracyModifier(context: AttackContext) = 1.00
+
+    override fun secondaryDamageModifier(context: AttackContext) = 1.00
+
+    override fun tertiaryDamageModifier(context: AttackContext) = 1.00
+
+    override fun weaponType() = RangedWeaponType.DORGESHUUN_CBOW
+
+    override fun postHitEffect(hit: Hit) {
+
+        if (hit.isAccurate) {
+
+            val target = hit.target
+            val targetSkills = target.skills
+
+            var drainAmount = hit.totalDamage
+
+            if (drainAmount > 0) {
+
+                val drainedSkills = HashSet<Skill>()
+
+
+                val currentLevel = targetSkills.getLevel(Skill.DEFENCE)
+                val maxLevel = targetSkills.getMaximumLevel(Skill.DEFENCE)
+                val maxDecrease = currentLevel.coerceAtMost(drainAmount)
+
+                if (maxDecrease > 0)
+                    drainedSkills.add(Skill.DEFENCE)
+
+                targetSkills.set(Skill.DEFENCE, max(1, currentLevel - maxDecrease), maxLevel)
+
+                drainAmount -= maxDecrease
+
+                if (drainAmount <= 0)
+                    return
+
+                target.ifPlayer {
+                    if (drainAmount < hit.totalDamage) {
+                        for (skill in drainedSkills)
+                            it.skillManager.updateSkill(skill)
+                        it.message("You feel drained!", 1000)
+                    }
+                }
+            }
+        }
+    }
+
+    class Provider : RangedSpecialAttackProvider() {
+
+        override fun fetchHits(type: AttackType?) = HitTemplate
+                .builder(type)
+                .setIgnoreAttackStats(true)
+                .setDelay(2)
+                .buildAsStream()
+
+        override fun fetchProjectiles(type: AttackType, ammunition: Ammunition): Stream<ProjectileTemplate> = ProjectileTemplate
+                .builder(698)
+                .setSourceOffset(0)
+                .setDelay(33)
+                .setSpeed(8)
+                .setStartHeight(28)
+                .setEndHeight(28)
+                .setCurve(5)
+                .buildAsStream()
+
+        override fun getAttackAnimation(type: AttackType?) =
+                Animation(7557, Priority.HIGH)
+
+        override fun fetchAttackGraphic(type: AttackType?) = Optional.of(
+                Graphic(705, Priority.HIGH))
+
+        override fun fetchAttackSound(type: AttackType?) = Optional.of(
+                Sound(Sounds.DOGRESHUUN_CBOW_SPECIAL_SOUND))
+
+    }
+}

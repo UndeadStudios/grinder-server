@@ -1,0 +1,238 @@
+  "15372": {
+    "items_name": "Midnight h'ween mask",
+    "items_value": 10000,
+    "item_prices_value": 58201077,
+    "price_checker_value": 7000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "15536": {
+    "items_name": "Midnight h'ween mask",
+    "items_value": 10000,
+    "item_prices_value": 58201077,
+    "price_checker_value": 7000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+  "15537": {
+    "items_name": "Midnight santa hat",
+    "items_value": 10000,
+    "item_prices_value": 58201077,
+    "price_checker_value": 7000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+  "15538": {
+    "items_name": "Midnight partyhat",
+    "items_value": 10000,
+    "item_prices_value": 58201077,
+    "price_checker_value": 7000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+  "15539": {
+    "items_name": "Invader h'ween mask",
+    "items_value": 10000,
+    "item_prices_value": 24201025,
+    "price_checker_value": 4000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+  "15540": {
+    "items_name": "Dracula h'ween mask",
+    "items_value": 10000,
+    "item_prices_value": 24201025,
+    "price_checker_value": 4000000000,
+    "low_alch_value": 64,
+    "high_alch_value": 96,
+    "osrs_store_value": 2147000000
+  },
+  "15541": {
+    "items_name": "Water cape",
+    "items_value": 5000,
+    "item_prices_value": 0,
+    "price_checker_value": 115000000,
+    "low_alch_value": 96000,
+    "high_alch_value": 69000,
+    "osrs_store_value": 115000000
+  },
+  "15545": {
+    "items_name": "Gilded dragon full helm",
+    "items_value": 12000,
+    "item_prices_value": 725187535,
+    "price_checker_value": 2500000000,
+    "low_alch_value": 60000,
+    "high_alch_value": 90000,
+    "osrs_store_value": 1600000000
+  },
+  "15546": {
+    "items_name": "Gilded dragon platebody",
+    "items_value": 14935464,
+    "item_prices_value": 1649354640,
+    "price_checker_value": 3600000000,
+    "low_alch_value": 800000,
+    "high_alch_value": 1200000,
+    "osrs_store_value": 2100000000
+  },
+  "15547": {
+    "items_name": "Gilded dragon platelegs",
+    "items_value": 8000,
+    "item_prices_value": 525184667,
+    "price_checker_value": 2800000000,
+    "low_alch_value": 0,
+    "high_alch_value": 0,
+    "osrs_store_value": 1600000000
+  },
+  "15548": {
+    "items_name": "Gilded dragon chainbody",
+    "items_value": 16000,
+    "item_prices_value": 588184997,
+    "price_checker_value": 2750000000,
+    "low_alch_value": 100000,
+    "high_alch_value": 150000,
+    "osrs_store_value": 1950000000
+  },
+  "15549": {
+    "items_name": "Gilded dragon kiteshield",
+    "items_value": 19171962,
+    "item_prices_value": 49171962,
+    "price_checker_value": 3250000000,
+    "low_alch_value": 640000,
+    "high_alch_value": 960000,
+    "osrs_store_value": 2100000000
+  },
+  "15550": {
+    "items_name": "Gilded dragon sq shield",
+    "items_value": 12000,
+    "item_prices_value": 42377962,
+    "price_checker_value": 2755000000,
+    "low_alch_value": 640000,
+    "high_alch_value": 960000,
+    "osrs_store_value": 1980000000
+  },
+  "15551": {
+    "items_name": "Gilded dragon plateskirt",
+    "items_value": 6000,
+    "item_prices_value": 544677511,
+    "price_checker_value": 2360000000,
+    "low_alch_value": 640000,
+    "high_alch_value": 960000,
+    "osrs_store_value": 1950000000
+  },
+
+  "15552": {
+    "items_name": "Gilded dragon med helm",
+    "items_value": 1000,
+    "item_prices_value": 317559258,
+    "price_checker_value": 450000000,
+    "low_alch_value": 40000,
+    "high_alch_value": 60000,
+    "osrs_store_value": 450000000
+  },
+  "15552": {
+    "items_name": "Gilded dragon med helm",
+    "items_value": 1000,
+    "item_prices_value": 317559258,
+    "price_checker_value": 450000000,
+    "low_alch_value": 40000,
+    "high_alch_value": 60000,
+    "osrs_store_value": 450000000
+  },
+  "15553": {
+    "items_name": "Yellow beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15554": {
+    "items_name": "Blue beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15555": {
+    "items_name": "Green beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15556": {
+    "items_name": "Violet beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15557": {
+    "items_name": "Purple beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15558": {
+    "items_name": "Orange beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15559": {
+    "items_name": "Gum beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },
+  "15560": {
+    "items_name": "Coffee beret",
+    "items_value": 41169,
+    "item_prices_value": 567769,
+    "price_checker_value": 150000000,
+    "low_alch_value": 32,
+    "high_alch_value": 48,
+    "osrs_store_value": 150000000
+  },

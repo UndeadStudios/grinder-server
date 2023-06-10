@@ -1,0 +1,282 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello there traveller. ",
+    "next": 1,
+    "npcId": 1157
+  },
+  {
+    "id": 1,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "What are you camped here for?",
+    "anim": "CALM",
+    "next": 2
+  },
+  {
+    "id": 2,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "We're looking for Zanaris...GAH! I ",
+    "line2": "mean we're not here for any particular ",
+    "line3": "reason at all. ",
+    "anim": "CALM",
+    "next": 3,
+    "npcId": 1157
+  },
+  {
+    "id": 3,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Who's Zanaris?",
+    "anim": "CALM",
+    "next": 4
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Ahahahaha! Zanaris isn't a person! ",
+    "line2": "It's a magical hidden city filled with ",
+    "line3": "treasures and rich.. uh, nothing. It's ",
+    "line4": "nothing. ",
+    "anim": "CALM",
+    "next": 5,
+    "npcId": 1157
+  },
+  {
+    "id": 5,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "If it's hidden how are you planning to ",
+    "line2": "find it? ",
+    "anim": "CALM",
+    "next": 6
+  },
+  {
+    "id": 6,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "Well, we don't want to tell anyone else ",
+    "line2": "about that, because we don't want anyone ",
+    "line3": "else sharing in all that glory and treasure. ",
+    "anim": "CALM",
+    "next": 7,
+    "npcId": 1157
+  },
+  {
+    "id": 7,
+    "type": "PLAYER_STATEMENT",
+    "lines": 3,
+    "line1": "Well, it looks to me like YOU don't know ",
+    "line2": "EITHER seeing as you're all just sat ",
+    "line3": "around here. ",
+    "anim": "CALM",
+    "next": 8
+  },
+  {
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "Of course we know! We just haven't found ",
+    "line2": "which tree the stupid leprechaun's ",
+    "line3": "hiding in yet! ",
+    "anim": "CALM",
+    "next": 9,
+    "npcId": 1157
+  },
+  {
+    "id": 9,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 1157
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Leprechaun? ",
+    "anim": "CALM",
+    "next": 11
+  },
+  {
+    "id": 11,
+    "type": "NPC_STATEMENT",
+    "lines": 2,
+    "line1": "GAH! I didn't mean to tell you that! Look, ",
+    "line2": "just forget I said anything okay? ",
+    "anim": "CALM",
+    "next": 12,
+    "npcId": 1157
+  },
+  {
+    "id": 12,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "So a leprechaun knows where Zanaris ",
+    "line2": "is eh? ",
+    "anim": "CALM",
+    "next": 13
+  },
+  {
+    "id": 13,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Ye.. uh, no. No, not at all. And even if ",
+    "line2": "he did - which he doesn't - he DEFINITELY ",
+    "line3": "ISN'T hiding in some tree around here. ",
+    "line4": "Nope, definitely not. Honestly. ",
+    "anim": "CALM",
+    "next": 14,
+    "npcId": 1157
+  },
+  {
+    "id": 14,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Thanks for the help!",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "stage": 1,
+    "id": 15,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Ay yer big elephant! Yer've caught me, ",
+    "line2": "to be sure! What would an elephant like ",
+    "line3": "yer be wanting wid ol' Shamus then? ",
+    "next": 16,
+    "npcId": 1162
+  },
+  {
+    "id": 16,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": " I want to find Zanaris.",
+    "anim": "CALM",
+    "next": 17
+  },
+  {
+    "id": 17,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Zanaris is it now? Well well well... ",
+    "line2": "Yer'll be needing to be going to that ",
+    "line3": "funny little shed out there in the swamp, ",
+    "line4": "so you will. ",
+    "next": 18,
+    "npcId": 1162
+  },
+  {
+    "id": 18,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "...but... I thought... Zanaris was a city...?",
+    "anim": "CALM",
+    "next": 19
+  },
+  {
+    "id": 19,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Aye that it is!",
+    "next": 20,
+    "npcId": 1162
+  },
+  {
+    "id": 20,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "..How does it fit in a shed then?",
+    "anim": "CALM",
+    "next": 21
+  },
+  {
+    "id": 21,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Ah yer stupid elephant! The city isn't ",
+    "line2": "IN the shed! The doorway to the shed is ",
+    "line3": "being a portal to Zanaris, so it is. ",
+    "next": 22,
+    "npcId": 1162
+  },
+  {
+    "id": 22,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "So I just walk into the shed and end up ",
+    "line2": "in Zanaris then? ",
+    "anim": "CALM",
+    "next": 23
+  },
+  {
+    "id": 23,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Oh, was I fergetting to say? Yer need ",
+    "line2": "to be carrying a Dramenwood staff to ",
+    "line3": "be getting there! Otherwise Yer'll ",
+    "line4": "just be ending up in the shed. ",
+    "next": 24,
+    "npcId": 1162
+  },
+  {
+    "id": 24,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "So where would I get a staff?",
+    "anim": "CALM",
+    "next": 25
+  },
+  {
+    "id": 25,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Dramenwood staffs are crafted from ",
+    "line2": "branches of the Dramen tree, so they ",
+    "line3": "are. I hear there's a Dramen tree over ",
+    "line4": "on the island of Entrana in a cave..",
+    "next": 26,
+    "npcId": 1162
+  },
+  {
+    "id": 26,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "or some such. There would probably be ",
+    "line2": "a good place for an elephant like yer ",
+    "line3": "to be starting looking I reckon. ",
+    "next": 27,
+    "npcId": 1162
+  },
+  {
+    "id": 27,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "The monks are running a ship from Port ",
+    "line2": "Sarim to Entrana, I hear too. Now leave ",
+    "line3": "me alone yer elephant! ",
+    "next": 28,
+    "npcId": 1162
+  },
+  {
+    "id": 28,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 1162
+  }
+]

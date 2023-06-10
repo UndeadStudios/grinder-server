@@ -1,0 +1,257 @@
+package com.grinder.game.entity.agent.combat.formula
+
+import com.grinder.game.entity.agent.combat.attack.AttackType
+import com.grinder.game.entity.agent.combat.attack.special.SpecialAttackType
+import com.grinder.game.entity.agent.combat.attack.weapon.WeaponEffectType
+import com.grinder.game.entity.agent.combat.attack.weapon.ranged.RangedWeapon
+import com.grinder.game.model.Skill
+import kotlin.math.pow
+import kotlin.math.roundToInt
+
+/**
+ * TODO: accuracy special attack bonuses (Sec 5.4 http://services.runescape.com/m=forum/forums.ws?317,318,712,65587452,goto,1)
+ *
+ * archive: https://www.rune-server.ee/runescape-development/rs2-server/informative-threads/688072-archive-combat-formulas.html
+ *
+ * @author Stan van der Bend (https://www.rune-server.ee/members/StanDev/)
+ * @version 1.0
+ * @since 2019-07-13
+ */
+enum class CombatFormulaType : CombatFormula {
+    MELEE {
+        override fun calculateMaxAttackRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val attackLevel = snapshot.attackLevel.toDouble()
+            return calculateAccuracyRoll(snapshot, targetSnapshot, calculateMaximumAccuracyRoll(snapshot, attackLevel))
+        }
+
+        override fun calculateStrength(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val bonuses = snapshot.bonuses
+            val details = snapshot.context
+            var maximumHit = bonuses.customMaxHit
+                .apply(snapshot)
+                .orElse(calculateMaximumBaseHit(snapshot, snapshot.strengthLevel.toDouble()))
+            val firstBonus = bonuses.primarySpecialDamageBonus.apply(details)
+            var secondBonus = bonuses.secondarySpecialDamageBonus.apply(targetSnapshot)
+            if (details.used(SpecialAttackType.PENANCE)) {
+                secondBonus = 1.0 + snapshot.prayerPointsLost * 0.5 / 100
+            }
+            maximumHit = (firstBonus * maximumHit.toDouble()).roundToInt()
+            maximumHit = (secondBonus * maximumHit.toDouble()).roundToInt()
+            if (!details.isDefilerSetEffectActivated) {
+                if (details.applyProtectivePVPDamageReduction()) {
+                    maximumHit = (0.6 * maximumHit.toDouble()).roundToInt()
+                }
+            }
+            val finalEffect = bonuses.itemEffect
+            if (finalEffect == WeaponEffectType.VERACS) // There is also a guaranteed bonus of one extra damage, making it impossible to hit 0 when the effect occurs.
+                maximumHit++ else {
+                var tertiaryBonus = bonuses.tertiarySpecialDamageBonus.apply(snapshot.agent, snapshot)
+                if (finalEffect == WeaponEffectType.DHAROKS) tertiaryBonus =
+                    1.0 + snapshot.hitPointsLost / 100.0 * (snapshot.maxHitPoints / 100.0)
+                maximumHit = (tertiaryBonus * maximumHit.toDouble()).roundToInt()
+                }
+
+
+            return maximumHit.toDouble()
+        }
+
+        override fun calculateMaxDefenceRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            var defenceLevel = targetSnapshot.defenceLevel.toDouble()
+            if (snapshot.isMagicalMelee) {
+                defenceLevel *= 0.3
+                defenceLevel += targetSnapshot.magicLevel * 0.7
+            }
+            return calculateMaximumDefenceRoll(targetSnapshot, defenceLevel)
+        }
+    },
+    RANGED {
+        override fun calculateMaxAttackRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val rangedLevel = snapshot.rangedLevel.toDouble()
+            return calculateAccuracyRoll(snapshot, targetSnapshot, calculateMaximumAccuracyRoll(snapshot, rangedLevel))
+        }
+
+        override fun calculateStrength(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val bonuses = snapshot.bonuses
+            val details = snapshot.context
+            val skills = snapshot.skills
+            val rangedLevel = skills.getLevel(Skill.RANGED).toDouble()
+            var maximumHit = bonuses
+                .customMaxHit
+                .apply(snapshot)
+                .orElseGet {
+                    var baseHit = calculateMaximumBaseHit(snapshot, rangedLevel)
+                    val firstBonus = bonuses.primarySpecialDamageBonus.apply(details)
+                    val secondBonus = bonuses.secondarySpecialDamageBonus.apply(targetSnapshot)
+                    baseHit = Math.round(firstBonus * baseHit.toDouble()).toInt()
+                    baseHit = Math.round(secondBonus * baseHit.toDouble()).toInt()
+                    baseHit
+                }
+
+            // Twisted bow damage formula
+            if (details.used(RangedWeapon.TWISTED_BOW)) {
+
+                var toUse = 0.0
+                var magicStats = targetSnapshot.magicLevel.toDouble().coerceAtMost(250.0)
+
+                var magicAccuracy = calculateMagicMaxAttackRoll(snapshot, targetSnapshot).coerceAtMost(250.0)
+
+                maximumHit = (250.0
+                        + ((((10.0 * 3.0 * maxOf(magicStats, magicAccuracy)) / 10.0) - 14) / 100.0)
+                        - ((((3.0 * maxOf(magicStats, magicAccuracy)) / 10) - 140.0).pow(2.0) / 100.0))
+                    .coerceIn(0.0, 250.0).toInt()
+
+                println("max hit: " + maximumHit)
+            }
+
+            // Twisted bow max hit cap
+            if (details.used(RangedWeapon.TWISTED_BOW) && maximumHit > 89) maximumHit = 89
+
+            if (details.applyProtectivePVPDamageReduction()) maximumHit = (0.6 * maximumHit.toDouble()).roundToInt()
+
+            return maximumHit.toDouble()
+        }
+
+        override fun calculateMaxDefenceRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val defenceLevel = targetSnapshot.defenceLevel.toDouble()
+            return calculateMaximumDefenceRoll(targetSnapshot, defenceLevel)
+        }
+    },
+    MAGIC {
+
+        override fun calculateMaxAttackRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val context = snapshot.context
+            val magicLevel = snapshot.magicLevel.toDouble()
+            if (context.isPlayer) return calculateAccuracyRoll(
+                snapshot, targetSnapshot,
+                calculateMaximumAccuracyRoll(snapshot, magicLevel)
+            )
+            val attackRoll = snapshot.stats.getAttackBonus(context)
+            return (magicLevel + 9) * (attackRoll + 64.0)
+        }
+
+        override fun calculateStrength(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val bonuses = snapshot.bonuses
+            val details = snapshot.context
+            var maxHit = bonuses.customMaxHit.apply(snapshot)
+                .orElse(calculateMaximumBaseHit(snapshot, snapshot.magicLevel.toDouble()))
+            val stackedBonus = bonuses.magicStrengthBonus.apply(details)
+            val hitMultiplier = bonuses.magicMaxHitMultiplier.apply(details)
+            maxHit = Math.round(maxHit.toDouble() * stackedBonus).toInt()
+            maxHit = Math.round(maxHit.toDouble() * hitMultiplier).toInt()
+            return maxHit.toDouble()
+        }
+
+        override fun calculateMaxDefenceRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double {
+            val details = snapshot.context
+            val targetBonuses = targetSnapshot.bonuses
+            val targetStats = targetSnapshot.stats
+            val magicLevel = targetSnapshot.magicLevel.toDouble()
+            return if (targetSnapshot.context.isPlayer) {
+                val defenceLevel = targetSnapshot.defenceLevel.toDouble()
+                val prayerAdjustment = targetBonuses.prayerDefenceAdjustment
+                val stanceBonus = targetBonuses.stanceDefenceBonus
+                val defenceEffectiveLevel = defenceLevel * prayerAdjustment + stanceBonus + 8
+                val equipmentBonus = targetStats.getDefenceBonus(details)
+                val baseRoll = Math.toIntExact(Math.round(defenceEffectiveLevel * 0.30))
+                var effectiveLevel =
+                    Math.toIntExact(Math.round(magicLevel * targetBonuses.prayerMagicAdjustment))
+                effectiveLevel = (effectiveLevel.toDouble() * 0.70).toInt()
+                effectiveLevel += baseRoll
+                effectiveLevel.toDouble() * (equipmentBonus + 64.0)
+            } else {
+                val monsterMagicDefenceBonus = targetStats.getDefenceBonus(details)
+                (magicLevel + 8) * (monsterMagicDefenceBonus + 64.0)
+            }
+        }
+    };
+
+    companion object {
+        @JvmStatic
+        fun getFormula(type: AttackType?): CombatFormulaType {
+            return when (type) {
+                AttackType.RANGED -> RANGED
+                AttackType.MAGIC -> MAGIC
+                else -> MELEE
+            }
+        }
+
+        private fun calculateMaximumBaseHit(snapshot: CombatSnapshot, level: Double): Int {
+            val stats = snapshot.stats
+            val bonuses = snapshot.bonuses
+            val details = snapshot.context
+            val prayerAdjustment = bonuses.prayerStrengthAdjustment.apply(details)
+            val stanceBonus = bonuses.stanceStrengthBonus
+            val armourBonus = bonuses.armourStrengthBonus
+            val effectiveLevel = armourBonus * (level * prayerAdjustment + stanceBonus + 8)
+            val equipmentBonus = stats.getStrengthBonus(details)
+            return Math.toIntExact(Math.round(0.5 + effectiveLevel * (equipmentBonus + 64.0) / 640.0))
+        }
+
+        private fun calculateMaximumAccuracyRoll(snapshot: CombatSnapshot, level: Double): Double {
+            val stats = snapshot.stats
+            val bonuses = snapshot.bonuses
+            val details = snapshot.context
+            val prayerAdjustment = bonuses.prayerAccuracyAdjustment.apply(details)
+            val stanceBonus = bonuses.stanceAccuracyBonus
+            val armourBonus = bonuses.armourAccuracyBonus
+            val effectiveLevel = armourBonus * (level * prayerAdjustment + stanceBonus + 8)
+            val equipmentBonus = stats.getAttackBonus(details)
+            return effectiveLevel * (equipmentBonus + 64.0)
+        }
+
+        private fun calculateMaximumDefenceRoll(targetSnapshot: CombatSnapshot, level: Double): Double {
+            val context = targetSnapshot.context
+            val targetStats = targetSnapshot.stats
+            val targetBonuses = targetSnapshot.bonuses
+            val prayerAdjustment = targetBonuses.prayerDefenceAdjustment
+            val stanceBonus = targetBonuses.stanceDefenceBonus
+            val effectiveLevel = level * prayerAdjustment + stanceBonus + 8
+            val equipmentBonus = targetStats.getDefenceBonus(context)
+            return effectiveLevel * (equipmentBonus + 64.0)
+        }
+
+        fun calculateAccuracyRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot?, baseRoll: Double): Double {
+            var baseRoll = baseRoll
+            val bonuses = snapshot.bonuses
+            val context = snapshot.context
+            val firstMod = bonuses.primaryAccuracyModifier.apply(context)
+            val secondMod = bonuses.secondaryAccuracyModifier.apply(targetSnapshot)
+            val thirdMod = bonuses.tertiaryAccuracyModifier.apply(snapshot.agent, targetSnapshot)
+            baseRoll = (firstMod * baseRoll).roundToInt().toDouble()
+            baseRoll = (secondMod * baseRoll).roundToInt().toDouble()
+            baseRoll = (thirdMod * baseRoll).roundToInt().toDouble()
+
+            /*if (snapshot.context.used(RangedWeapon.TWISTED_BOW)) {
+
+                var magicStats = targetSnapshot?.magicLevel?.toDouble()?.coerceAtMost(250.0)
+
+                var magicAccuracy = calculateMaximumAccuracyRoll(snapshot, magicStats!!).coerceAtMost(250.0)
+
+                println("Magic stats: $magicStats")
+                println("Magic Accuracy: $magicAccuracy")
+                println("Formula: " + (140.0
+                        + ((((10.0 * 3.0 * maxOf(magicStats!!, magicAccuracy!!)) / 10.0) - 10) / 100.0)
+                        - ((((3.0 * maxOf(magicStats!!, magicAccuracy!!)) / 10) - 100.0).pow(2.0) / 100.0))
+                    .coerceIn(0.0, 140.0))
+
+                return (140.0
+                        + ((((10.0 * 3.0 * maxOf(magicStats!!, magicAccuracy!!)) / 10.0) - 10) / 100.0)
+                        - ((((3.0 * maxOf(magicStats!!, magicAccuracy!!)) / 10) - 100.0).pow(2.0) / 100.0))
+                    .coerceIn(0.0, 140.0)
+            }*/
+            println(baseRoll)
+            return baseRoll
+        }
+
+        private fun calculateMagicMaxAttackRoll(snapshot: CombatSnapshot, targetSnapshot: CombatSnapshot): Double { // Used for Twised bow only
+            val context = snapshot.context
+            val magicLevel = snapshot.magicLevel.toDouble()
+            if (context.isPlayer) return calculateAccuracyRoll(
+                snapshot, targetSnapshot,
+                calculateMaximumAccuracyRoll(snapshot, magicLevel)
+            )
+            val attackRoll = snapshot.stats.getAttackBonus(context)
+            return (magicLevel + 9) * (attackRoll + 64.0)
+        }
+    }
+}

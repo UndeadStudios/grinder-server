@@ -1,0 +1,2 @@
+ren *.gz *.dat
+pause

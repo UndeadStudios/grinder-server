@@ -1,0 +1,301 @@
+[
+  {
+    "stage": 0,
+    "id": 0 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Who's there? Hello? ",
+    "next": 1,
+    "npcId": 2975
+  },
+  {
+    "id": 1 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Hello? ",
+    "next": 2,
+    "npcId": 2975
+  },
+  {
+    "id": 2 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Who are you? ",
+    "next": 3,
+    "npcId": 2975
+  },
+  {
+    "id": 3 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "There's something familiar about you. ",
+    "next": 4,
+    "npcId": 2975
+  },
+  {
+    "id": 4 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "I'm Mizaru. ",
+    "next": 5,
+    "npcId": 2975
+  },
+  {
+    "id": 5 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Not very bright, that one. ",
+    "next": 6,
+    "npcId": 2975
+  },
+  {
+    "id": 6 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Do you know anything about Awowogei's ",
+    "line2": "favourite dish? ",
+    "next": 7,
+    "npcId": 2975
+  },
+  {
+    "id": 7 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Oof! He liked it so much he married the ",
+    "line2": "cook! YEAH? Have some of this! *poke* ",
+    "next": 8,
+    "npcId": 2975
+  },
+  {
+    "id": 8 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 4,
+    "line1": "Ha! Serves you right! Anyway. The priest ",
+    "line2": "only had enough ingredients for one ",
+    "line3": "curse, so, when he tried to keep us all ",
+    "line4": "from telling anyone the recipe, each ",
+    "next": 9,
+    "npcId": 2975
+  },
+  {
+    "id": 9 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "of us only got part of the curse. That's ",
+    "line2": "why I can't hear anything now. ",
+    "next": 10,
+    "npcId": 2975
+  },
+  {
+    "id": 10 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Can you tell me what this recipe is, then? ",
+    "next": 11,
+    "npcId": 2975
+  },
+  {
+    "id": 11 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "How do you know about that? It's top secret ",
+    "line2": "information, you know. ",
+    "next": 12,
+    "npcId": 2975
+  },
+  {
+    "id": 12 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Well, I am also on a top secret mission. ",
+    "next": 13,
+    "npcId": 2975
+  },
+  {
+    "id": 13 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Ah, I see. Can you tell me what the mission ",
+    "line2": "is? ",
+    "next": 14,
+    "npcId": 2975
+  },
+  {
+    "id": 14 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Well, it's on a strict need-to-know ",
+    "line2": "basis. I'm sure you understand. ",
+    "next": 15,
+    "npcId": 2975
+  },
+  {
+    "id": 15 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Of course, of course. ",
+    "next": 16,
+    "npcId": 2975
+  },
+  {
+    "id": 16 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "However, I think I can trust you with ",
+    "line2": "sensitive material. ",
+    "next": 17,
+    "npcId": 2975
+  },
+  {
+    "id": 17 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 4,
+    "line1": "I've been charged with organising a ",
+    "line2": "secret party to celebrate the king's ",
+    "line3": "birthday. Keep it quiet, though, don't ",
+    "line4": "let a single monkey know. ",
+    "next": 18,
+    "npcId": 2975
+  },
+  {
+    "id": 18 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Well, in that case, you definitely need ",
+    "line2": "to know the recipe. ",
+    "next": 19,
+    "npcId": 2975
+  },
+  {
+    "id": 19 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 3,
+    "line1": "The king has a real soft spot for roasted ",
+    "line2": "giant snake, stuffed with sliced banana ",
+    "line3": "and monkey nut paste. ",
+    "next": 20,
+    "npcId": 2975
+  },
+  {
+    "id": 20 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 3,
+    "line1": "Yup! You need to find some bananas and ",
+    "line2": "monkey nuts, and stuff a giant snake ",
+    "line3": "with them. It's as simple as that. ",
+    "next": 21,
+    "npcId": 2975
+  },
+  {
+    "id": 21 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Where do I find this stuff, then? ",
+    "next": 22,
+    "npcId": 2975
+  },
+  {
+    "id": 22 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 4,
+    "line1": "Every monkey knows where to get hold ",
+    "line2": "of nuts and bananas, but I believe that ",
+    "line3": "the snakes live on a nearby island. Never ",
+    "line4": "seen one myself. ",
+    "next": 24,
+    "npcId": 2975
+  },
+  {
+    "stage": 1,
+    "id": 23 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "Hey, have you got all the ingredients? ",
+    "next": 24,
+    "npcId": 4626
+  },
+  {
+    "id": 24 ,
+    "type": "QUEST_STAGE",
+    "anim": "CALM",
+    "lines": 0,
+    "next": 25,
+    "npcId": 4626
+  },
+  {
+    "id": 25 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "No, I be right back.. ",
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "id": 26 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "I do! Here you go.. ",
+    "next": 27,
+    "npcId": 4626
+  },
+  {
+    "id": 27 ,
+    "type": "QUEST_STAGE",
+    "anim": "CALM",
+    "lines": 0,
+    "next": 28,
+    "npcId": 4626
+  },
+  {
+    "id": 28 ,
+    "type": "STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "You give the ingredients to the cook.. ",
+    "next": 29,
+    "npcId": 4626
+  },
+  {
+    "id": 29 ,
+    "type": "QUEST_STAGE",
+    "anim": "CALM",
+    "lines": 0,
+    "next": 30,
+    "npcId": 4626
+  },
+  {
+    "id": 30 ,
+    "type": "STATEMENT",
+    "anim": "CALM",
+    "lines": 1,
+    "line1": "He cooks the food for you.. ",
+    "next": -1,
+    "npcId": 4626
+  }
+]

@@ -1,0 +1,785 @@
+[
+    {
+        "stage": 0,
+        "id": 0 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Go away human, me's busy here! ",
+        "next": 1,
+        "npcId": 4850
+    },
+    {
+        "id": 1 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Busy doing what? ",
+        "next": 2,
+        "npcId": 4850
+    },
+    {
+        "id": 2 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Me's working on new way of cooking. Will ",
+        "line2": "be most famous-est goblin cook ever. ",
+        "next": 3,
+        "npcId": 4850
+    },
+    {
+        "id": 3 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "I need your help. Wartface and Bentnoze ",
+        "line2": "have been trapped by a terrible curse! ",
+        "next": 4,
+        "npcId": 4850
+    },
+    {
+        "id": 4 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "Oh, maybe that why Mudknuckles not been ",
+        "line2": "shouted at recently. Hmmm, s'pose me ",
+        "line3": "should help. But first Mudknuckles ",
+        "line4": "must finish experiment. Unfortunately ",
+        "next": 5,
+        "npcId": 4850
+    },
+    {
+        "id": 5 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "is missing one vital ingredient. ",
+        "next": 6,
+        "npcId": 4850
+    },
+    {
+        "id": 6 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "What do you need? Maybe I can get it for ",
+        "line2": "you. ",
+        "next": 7,
+        "npcId": 4850
+    },
+    {
+        "id": 7 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "Is called charcoal. Mudknuckles hear ",
+        "line2": "you can get it from shops on Karamja, ",
+        "line3": "but the customs officers, they no like ",
+        "line4": "goblins any more. Burnt trees, they ",
+        "next": 8,
+        "npcId": 4850
+    },
+    {
+        "id": 8 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "good too. Smash 'em up with hatchets. ",
+        "line2": "But Mudknuckles only knows of burnt ",
+        "line3": "trees in the wilderness, and Mudknuckles ",
+        "line4": "too afraid to go there. ",
+        "next": 9,
+        "npcId": 4850
+    },
+    {
+        "id": 9 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Ok, I'll see what I can do. ",
+        "next": 10,
+        "npcId": 4850
+    },
+    {
+        "id": 10,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 11,
+        "npcId": 4850
+    },
+    {
+        "stage": 1,
+        "id": 11 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Have you got the charcoal yet? ",
+        "next": 15,
+        "npcId": 4850
+    },
+    {
+        "id": 12 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "No, I don't.. ",
+        "next": -1,
+        "npcId": 4850
+    },
+    {
+        "id": 13 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I've got the charcoal you were after. ",
+        "next": 17,
+        "npcId": 4850
+    },
+    {
+        "id": 14 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 15,
+        "npcId": 4850
+    },
+    {
+        "id": 15 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 16,
+        "npcId": 4850
+    },
+    {
+        "id": 16 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 17,
+        "npcId": 4850
+    },
+    {
+        "id": 17 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Really? Then no time to lose. Mudknuckles ",
+        "line2": "already have everything else. Sulphur ",
+        "line3": "'n stuff. ",
+        "next": 18,
+        "npcId": 4850
+    },
+    {
+        "id": 18 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Sulphur? Er... ",
+        "next": 19,
+        "npcId": 4850
+    },
+    {
+        "id": 19 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Must be moving. Follow me. ",
+        "next": 20,
+        "npcId": 4850
+    },
+    {
+        "id": 20 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Are you sure this is a good idea? ",
+        "next": 21,
+        "npcId": 4850
+    },
+    {
+        "id": 21 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Absolutely, best idea Mudknuckles ",
+        "line2": "ever had. ",
+        "next": 22,
+        "npcId": 4850
+    },
+    {
+        "id": 22 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I'm really not convinced that... ",
+        "next": 23,
+        "npcId": 4850
+    },
+    {
+        "id": 23 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Should it shake like that? ",
+        "next": 24,
+        "npcId": 4850
+    },
+    {
+        "id": 24 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 25,
+        "npcId": 4850
+    },
+    {
+        "id": 25 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "It fine, it... ",
+        "next": 26,
+        "npcId": 4850
+    },
+    {
+        "id": 26 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "What that noise? ",
+        "next": 27,
+        "npcId": 4850
+    },
+    {
+        "id": 27 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 28,
+        "npcId": 4850
+    },
+    {
+        "id": 28 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You just hear that? ",
+        "next": 29,
+        "npcId": 4850
+    },
+    {
+        "id": 29 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Now there shaking too! ",
+        "next": 30,
+        "npcId": 4850
+    },
+    {
+        "id": 30 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 31,
+        "npcId": 4850
+    },
+    {
+        "id": 31 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Ah. That'd be Mudknuckles again then. ",
+        "next": 32,
+        "npcId": 4850
+    },
+    {
+        "id": 32 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Mudknuckles? ",
+        "next": 33,
+        "npcId": 4850
+    },
+    {
+        "id": 33 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "It... ",
+        "next": 35,
+        "npcId": 4850
+    },
+    {
+        "id": 34 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 35,
+        "npcId": 4850
+    },
+    {
+        "id": 35 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "It worked! ",
+        "next": 36,
+        "npcId": 4850
+    },
+    {
+        "id": 36 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "It did... ?! ",
+        "next": 37,
+        "npcId": 4850
+    },
+    {
+        "id": 37 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "You the human who helped me. Mudknuckles ",
+        "line2": "is very grateful, will be famous real ",
+        "line3": "soon now. Is just collecting results. ",
+        "line4": "And so many results! On walls, on ceiling, ",
+        "next": 38,
+        "npcId": 4850
+    },
+    {
+        "id": 38 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "everywhere! I thinking of calling it ",
+        "line2": "fast food, 'cos of how fast it goes from ",
+        "line3": "raw to burnt, see? ",
+        "next": 39,
+        "npcId": 4850
+    },
+    {
+        "id": 39 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I need your help... ",
+        "next": 40,
+        "npcId": 4850
+    },
+    {
+        "id": 40 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Yes, yes, Mudknuckles very grateful, ",
+        "line2": "how can I help? ",
+        "next": 41,
+        "npcId": 4850
+    },
+    {
+        "id": 41 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Your leaders, Wartface and Bentnoze, ",
+        "line2": "have been trapped by a terrible curse! ",
+        "next": 42,
+        "npcId": 4850
+    },
+    {
+        "id": 42 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "So that's why Mudknuckles not been shouted ",
+        "line2": "at recently. But how can I be helping? ",
+        "line3": "Cooking and magic no mix. Tried that ",
+        "line4": "before, Mudknuckles had some very angry ",
+        "next": 43,
+        "npcId": 4850
+    },
+    {
+        "id": 43 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "wizards at door after trying to burn ",
+        "line2": "staffs to cook on. ",
+        "next": 44,
+        "npcId": 4850
+    },
+    {
+        "id": 44 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "I need to create a dish that both of the ",
+        "line2": "Generals would eat to save them from ",
+        "line3": "the curse. ",
+        "next": 46,
+        "npcId": 4850
+    },
+    {
+        "id": 45 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 46,
+        "npcId": 4850
+    },
+    {
+        "id": 46 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Oh... ",
+        "next": 47,
+        "npcId": 4850
+    },
+    {
+        "id": 47 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "What? ",
+        "next": 49,
+        "npcId": 4850
+    },
+    {
+        "id": 48 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 49,
+        "npcId": 4850
+    },
+    {
+        "id": 49 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Is impossible. Mudknuckles try it before, ",
+        "line2": "but their requests, they make no sense. ",
+        "next": 50,
+        "npcId": 4850
+    },
+    {
+        "id": 50 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Why, what did they want? ",
+        "next": 51,
+        "npcId": 4850
+    },
+    {
+        "id": 51 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Well Bentnoze wanted fruit in the dish. ",
+        "line2": "But Wartface, only fruit he eat is sliced ",
+        "line3": "oranges. ",
+        "next": 52,
+        "npcId": 4850
+    },
+    {
+        "id": 52 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "That doesn't sound too bad. ",
+        "next": 54,
+        "npcId": 4850
+    },
+    {
+        "id": 53 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 54,
+        "npcId": 4850
+    },
+    {
+        "id": 54 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Maybe, but Bentnoze objects to the colour. ",
+        "next": 55,
+        "npcId": 4850
+    },
+    {
+        "id": 55 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Anything else? ",
+        "next": 56,
+        "npcId": 4850
+    },
+    {
+        "id": 56 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Wartface, he want some nice juicy maggots. ",
+        "next": 57,
+        "npcId": 4850
+    },
+    {
+        "id": 57 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Where can I get maggots? ",
+        "next": 58,
+        "npcId": 4850
+    },
+    {
+        "id": 58 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Humans use them all the time for fishing. ",
+        "line2": "Mudknuckles think this a crazy waste ",
+        "line3": "of maggots mind, but each to their own. ",
+        "next": 59,
+        "npcId": 4850
+    },
+    {
+        "id": 59 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Each to their own indeed, but what's ",
+        "line2": "the problem? ",
+        "next": 60,
+        "npcId": 4850
+    },
+    {
+        "id": 60 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Bentnoze not like maggots, say they're ",
+        "line2": "too bland. Would only eat them if they ",
+        "line3": "spicier. ",
+        "next": 61,
+        "npcId": 4850
+    },
+    {
+        "id": 61 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Ok, is there anything other than orange ",
+        "line2": "slices and maggots? ",
+        "next": 62,
+        "npcId": 4850
+    },
+    {
+        "id": 62 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Bentnoze asked for some bread in the ",
+        "line2": "mix. ",
+        "next": 63,
+        "npcId": 4850
+    },
+    {
+        "id": 63 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Let me guess, Wartface complained right? ",
+        "next": 64,
+        "npcId": 4850
+    },
+    {
+        "id": 64 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Yep, Wartface think bread too crunchy. ",
+        "line2": "He prefer slimier soggier food, like ",
+        "line3": "the maggots. ",
+        "next": 65,
+        "npcId": 4850
+    },
+    {
+        "id": 65 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "So let me get this straight. I need orange ",
+        "line2": "slices which aren't orange, maggots ",
+        "line3": "that aren't bland, and bread which isn't ",
+        "line4": "crunchy? ",
+        "next": 66,
+        "npcId": 4850
+    },
+    {
+        "id": 66 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 3,
+        "line1": "Yep, 'bout sums it up. Bring 'em all to ",
+        "line2": "me and Mudknuckles will make suitable ",
+        "line3": "dish. ",
+        "next": 67,
+        "npcId": 4850
+    },
+    {
+        "id": 67 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Wonderful. Well, I guess I'll have to ",
+        "line2": "see what I can do. ",
+        "next": 68,
+        "npcId": 4850
+    },
+    {
+        "id": 68 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 69,
+        "npcId": 4850
+    },
+    {
+        "stage": 2,
+        "id": 69 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "Do you have all the ingredients I asked ",
+        "line2": "for? ",
+        "next": 70,
+        "npcId": 4850
+    },
+    {
+        "id": 70 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 71,
+        "npcId": 4850
+    },
+    {
+        "id": 71 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I do not... ",
+        "next": -1,
+        "npcId": 4850
+    },
+    {
+        "id": 72 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Yes, I have all of them! ",
+        "next": 73,
+        "npcId": 4850
+    },
+    {
+        "id": 73 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 74,
+        "npcId": 4850
+    },
+    {
+        "id": 74 ,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You give all the ingredients to the cook.. ",
+        "next": 75,
+        "npcId": 4850
+    },
+    {
+        "id": 75 ,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "He combines it together and creates ",
+        "line2": "some kind of mush.. ",
+        "next": 76,
+        "npcId": 4850
+    },
+    {
+        "id": 76 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 77,
+        "npcId": 4850
+    },
+    {
+        "stage": 3,
+        "id": 77 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Hello there.. ",
+        "next": 78,
+        "npcId": 4850
+    },
+    {
+        "id": 78 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 2,
+        "line1": "I lost the slot of compromise, do you ",
+        "line2": "have another? ",
+        "next": 80,
+        "npcId": 4850
+    },
+    {
+        "id": 79 ,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 80,
+        "npcId": 4850
+    },
+    {
+        "id": 80 ,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Yes of course! ",
+        "next": 81,
+        "npcId": 4850
+    },
+    {
+        "id": 81 ,
+        "type": "QUEST_STAGE",
+        "anim": "HAPPY",
+        "lines": 0,
+        "next": 82,
+        "npcId": 4850
+    },
+    {
+        "id": 82 ,
+        "type": "STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "The cook gives you another one. ",
+        "next": -1,
+        "npcId": 4850
+    }
+]

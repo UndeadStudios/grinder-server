@@ -1,0 +1,574 @@
+[
+  {
+    "stage": 0,
+    "id": 0 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Ah, hello there. Nice to see an outsider ",
+    "line2": "for a change, are you busy? I have a problem. ",
+    "next": 1,
+    "npcId": 4181
+  },
+  {
+    "id": 1 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How can I help? ",
+    "next": 2,
+    "npcId": 4181
+  },
+  {
+    "id": 2 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "It's my son Hudon, he's always getting ",
+    "line2": "into trouble, the boy's convinced there's ",
+    "line3": "hidden treasure in the river and I'm ",
+    "line4": "worried about his safety, the poor lad ",
+    "next": 3,
+    "npcId": 4181
+  },
+  {
+    "id": 3 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "can't even swim. ",
+    "next": 4,
+    "npcId": 4181
+  },
+  {
+    "id": 4 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I could go and take a look for you if you ",
+    "line2": "like? ",
+    "next": 5,
+    "npcId": 4181
+  },
+  {
+    "id": 5 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Would you? You are kind. You can use the ",
+    "line2": "small raft out back if you wish, do be ",
+    "line3": "careful, the current down stream is ",
+    "line4": "very strong. ",
+    "next": 6,
+    "npcId": 4181
+  },
+  {
+    "id": 6 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 7,
+    "npcId": 4181
+  },
+  {
+    "stage": 1,
+    "id": 7 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Hello brave adventurer, have you seen ",
+    "line2": "my boy yet? ",
+    "next": 8,
+    "npcId": 4181
+  },
+  {
+    "id": 8 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I'm afraid not, but I'm sure he hasn't ",
+    "line2": "gone far. ",
+    "next": 9,
+    "npcId": 4181
+  },
+  {
+    "id": 9 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I do hope so, you can't be too careful ",
+    "line2": "these days. ",
+    "next": -1,
+    "npcId": 4181
+  },
+  {
+    "stage": 1,
+    "id": 10 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What do you want? ",
+    "next": 11,
+    "npcId": 4182
+  },
+  {
+    "id": 11 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello son, are you okay? You need help? ",
+    "next": 12,
+    "npcId": 4182
+  },
+  {
+    "id": 12 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "It looks like you need the help. ",
+    "next": 13,
+    "npcId": 4182
+  },
+  {
+    "id": 13 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Your mum sent me to find you. ",
+    "next": 14,
+    "npcId": 4182
+  },
+  {
+    "id": 14 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Don't play nice with me, I know you're ",
+    "line2": "looking for the treasure too. ",
+    "next": 15,
+    "npcId": 4182
+  },
+  {
+    "id": 15 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Where is this treasure you talk of? ",
+    "next": 16,
+    "npcId": 4182
+  },
+  {
+    "id": 16 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Just because I'm small doesn't mean ",
+    "line2": "I'm dumb! If I told you, you would take ",
+    "line3": "it all for yourself. ",
+    "next": 17,
+    "npcId": 4182
+  },
+  {
+    "id": 17 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Maybe I could help. ",
+    "next": 18,
+    "npcId": 4182
+  },
+  {
+    "id": 18 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I'm fine alone. ",
+    "next": 19,
+    "npcId": 4182
+  },
+  {
+    "id": 19 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 20,
+    "npcId": 4182
+  },
+  {
+    "stage": 2,
+    "id": 20 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Not you still, why don't you give up? ",
+    "next": 21,
+    "npcId": 4182
+  },
+  {
+    "id": 21 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "And miss all the fun! ",
+    "next": 22,
+    "npcId": 4182
+  },
+  {
+    "id": 22 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "You do understand that anything you ",
+    "line2": "find you have to share with me. ",
+    "next": 23,
+    "npcId": 4182
+  },
+  {
+    "id": 23 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Why's that? ",
+    "next": 24,
+    "npcId": 4182
+  },
+  {
+    "id": 24 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Because I told you about the treasure. ",
+    "next": 25,
+    "npcId": 4182
+  },
+  {
+    "id": 25 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Well, I wouldn't count on it. ",
+    "next": 26,
+    "npcId": 4182
+  },
+  {
+    "id": 26 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "That's not fair. ",
+    "next": 27,
+    "npcId": 4182
+  },
+  {
+    "id": 27 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Neither is life, kid. ",
+    "next": -1,
+    "npcId": 4182
+  },
+  {
+    "stage": 2,
+    "id": 28 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Well hello, you're still around then. ",
+    "next": 29,
+    "npcId": 4181
+  },
+  {
+    "id": 29 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I saw Hudon by the river but he refused ",
+    "line2": "to come back with me. ",
+    "next": 30,
+    "npcId": 4181
+  },
+  {
+    "id": 30 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Yes he told me, the foolish lad came in ",
+    "line2": "drenched to the bone, he had fallen into ",
+    "line3": "the waterfall, lucky he wasn't killed! ",
+    "line4": "Now he can spend the rest of the summer ",
+    "next": 31,
+    "npcId": 4181
+  },
+  {
+    "id": 31 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "in his room. ",
+    "next": 32,
+    "npcId": 4181
+  },
+  {
+    "id": 32 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Any ideas on what I could do while I'm ",
+    "line2": "here? ",
+    "next": 33,
+    "npcId": 4181
+  },
+  {
+    "id": 33 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Why don't you visit the tourist centre ",
+    "line2": "south of the waterfall? ",
+    "next": 34,
+    "npcId": 4181
+  },
+  {
+    "id": 34 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 35,
+    "npcId": 4181
+  },
+  {
+    "stage": 3,
+    "id": 35 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Are you on holiday? If so you've come ",
+    "line2": "to the right place. I'm Hadley the tourist ",
+    "line3": "guide, anything you need to know just ",
+    "line4": "ask me we have some of the most unspoilt ",
+    "next": 36,
+    "npcId": 4179
+  },
+  {
+    "id": 36 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "wildlife and scenery in Gielinor. People ",
+    "line2": "come from miles around to fish in the ",
+    "line3": "clear lakes or to wander the beautiful ",
+    "line4": "hillsides. ",
+    "next": 37,
+    "npcId": 4179
+  },
+  {
+    "id": 37 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "It is quite pretty. ",
+    "next": 38,
+    "npcId": 4179
+  },
+  {
+    "id": 38 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Surely pretty is an understatement ",
+    "line2": "kind [Sir/Ma'am]. Beautiful, amazing ",
+    "line3": "or possibly life-changing would be ",
+    "line4": "some suitable wording. Have you seen ",
+    "next": 39,
+    "npcId": 4179
+  },
+  {
+    "id": 39 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "the Baxtorian waterfall? Named after ",
+    "line2": "the elf king who was buried beneath. ",
+    "next": 40,
+    "npcId": 4179
+  },
+  {
+    "id": 40 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Can you tell me what happened to the elf ",
+    "line2": "king? ",
+    "next": 41,
+    "npcId": 4179
+  },
+  {
+    "id": 41 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "There are many myths about Baxtorian. ",
+    "line2": "One popular story is that after defending ",
+    "line3": "his kingdom against the invading dark ",
+    "line4": "forces from the west, Baxtorian returned ",
+    "next": 42,
+    "npcId": 4179
+  },
+  {
+    "id": 42 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "to find his wife Glarial had been captured ",
+    "line2": "by the enemy! This destroyed Baxtorian, ",
+    "line3": "after years of searching he became a ",
+    "line4": "recluse. In the secret home he had made ",
+    "next": 43,
+    "npcId": 4179
+  },
+  {
+    "id": 43 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "for Glarial under the waterfall, he ",
+    "line2": "never cae out and it is told that only ",
+    "line3": "Glarial could enter. ",
+    "next": 44,
+    "npcId": 4179
+  },
+  {
+    "id": 44 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What happened to him? ",
+    "next": 45,
+    "npcId": 4179
+  },
+  {
+    "id": 45 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Oh, I don't know. I believe we have some ",
+    "line2": "pages on him upstairs in our archives. ",
+    "line3": "If you wish to look at them please be careful, ",
+    "line4": "they're all pretty delicate. ",
+    "next": 46,
+    "npcId": 4179
+  },
+  {
+    "id": 46 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Where else is worth visiting around ",
+    "line2": "here? ",
+    "next": 47,
+    "npcId": 4179
+  },
+  {
+    "id": 47 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "There is a lovely spot for a picnic on ",
+    "line2": "the hill to the north east, there lies ",
+    "line3": "a monument to the deceased elven queen ",
+    "line4": "Glarial. It really is quite pretty. ",
+    "next": 48,
+    "npcId": 4179
+  },
+  {
+    "id": 48 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Who was queen Glarial? ",
+    "next": 49,
+    "npcId": 4179
+  },
+  {
+    "id": 49 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Baxtorian's wife, the only person who ",
+    "line2": "could also enter the waterfall. She ",
+    "line3": "was queen when this land was inhabited ",
+    "line4": "by elven kind. Glarial was kidnapped ",
+    "next": 50,
+    "npcId": 4179
+  },
+  {
+    "id": 50 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "while Baxtorian was away, but they eventually ",
+    "line2": "recovered her body and brought her home ",
+    "line3": "to rest. ",
+    "next": 51,
+    "npcId": 4179
+  },
+  {
+    "id": 51 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "That's sad. ",
+    "next": 52,
+    "npcId": 4179
+  },
+  {
+    "id": 52 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "True, I believe there's some information ",
+    "line2": "about her upstairs, if you look at them ",
+    "line3": "please be careful. ",
+    "next": 53,
+    "npcId": 4179
+  },
+  {
+    "id": 53 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Is there treasure under the waterfall? ",
+    "next": 54,
+    "npcId": 4179
+  },
+  {
+    "id": 54 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Ha ha... Another treasure hunter. Well ",
+    "line2": "if there is no one's been able to get to ",
+    "line3": "it. They've been searching that river ",
+    "line4": "for decades, all to no avail. ",
+    "next": 55,
+    "npcId": 4179
+  },
+  {
+    "id": 55 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Thanks then, goodbye. ",
+    "next": 56,
+    "npcId": 4179
+  },
+  {
+    "id": 56 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 57,
+    "npcId": 4179
+  }
+]

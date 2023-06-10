@@ -1,0 +1,83 @@
+
+
+================================================================================
+Emotes / Sounds / Stats / Spawns / Addition to Slayer tasks
+NEW NPCS : MOGRE / SHADOW WARRIOR / SHADE / OGRE/ EARTH WARRIOR / MONKEY / TWISTED BANSHEE / HARPIE BUG SWARM / KILLERWATT / FEVER SPIDER / MUTATED BLOODVELD
+WARPED JELLY / MUTATED ZYGOMITE / DEVIANT SPECTRE /  SPIRITUAL RANGER / SPIRITUAL WARRIOR / BRUTAL BLACK DRAGON
+GREATER NECHRYAEL / SPIRITUAL MAGE / THERMONUCLEAR SMOKE DEVIl / BANDITS / BATTLE MAGE / DAD / ANKOU / CATABLEPEON
+DAGANNOTH / ABYSSAL LEECH / ABYSSAL GUARDIAN / GIANT BAT / BANDIT CHAMPION
+
+SUPERIOR SLAYER with master "kONAR QUO MATEN" / new big big zone: CRUSHING HAND / CHASM CRAWLER / SCREAMING TWISTED BANSHEE / GIANT ROCKSLUG
+COCKATHRICE / FLAMING PYRELORD / MONSTEROUS BASILISK / MALEVOLENT MAGE / INSATIABLE BLOODVELD / VITREOUS WARPED JELLY
+CAVE ABOMINATION / ABHORRENT SPECTRE / REPUGNANT SPECTRE / KING KURASK / MARBLE GARGOYLE
+GREATER NECHRYAEL / GREATER ABYSSAL DEMON / NIGHT BEAST / NUCLEAR SMOKE DEVIL
+
+BOSS SLAYER ASSIGNMENTS: KRYSTILIA/NIEVE (Count 5/25): CALLISTO / CERBERUS / CHAOS ELE / FANATIC / ZILYANA / GRAARDOR / KRIL TSARUTH / KREE ARRA
+CRAZY ARCHAELOGIST / DAGGANOTH KINGS / GIANT MOLE / KQ / KBD / BLACK KNIGHT TITAN
+THE UNTOUCHABLE / CORP / ZULRAH / VORKATH / VETION / VENENATIS / TERMONUCLEAR SMOKE DEVIL
+SCORPIA / SLASH BASH / SEA TROLL QUEEN
+
+MAKE ALL SLAYER EQUIPMENT AND NPCS WORK PERFECTLY
+===================================================================================
+
+
+
+
+Rangers guild: You shoot through a target with arrows, you can miss/hit and u get archery tickets 20-35 per game. Should be able to farm
+500 points in around 15-20 minutes
+
+
+Ava accumulator: 300 points
+Ava attractor: 500 points
+Ava's assembler: 7,000 points
+Magic shortbow (i): 300 points
+Rune crossbow: 150 points
+Crystal bow (i): 1,500 points
+Dragon crossbow: 3,000 points
+Armadyl crossbow: 15,000 points
+Archer's helm: 100 points
+Ranger boots: 4,500 points
+Ranger gloves: 6,500 points
+Ranger's tunic: 8,000 points
+Twisted Buckler: 8,500 points
+Black d'hide shield: 2,500 points
+Karils set: 7,500 points
+Light Ballista: 25,00 points
+Ice arrows: 1 point
+Rune knives (p++): 2 points
+Runite bolts (p++): 2 points
+Emerald bolts (e): 1 point
+Ruby bolts (e): 2 point
+Diamond bolts (e): 2 points
+Dragon bolts (e): 4 points
+Onyx bolts (e): 5 points
+Pack of rune arrows: 5 (Contains 250)
+Dragon arrows: 3 points
+Dragon arrows (p++): 7 points
+Amethyst arrows: 5 points
+Amethyst arrows (p++): 12 points
+Dragon bolts: 2 points
+Dragon bolts (p++): 5 points
+Dragon thrownaxe: 3 point
+Dragon knive: 5 points
+Dragon knive (p++): 10 points
+Dragon javelin: 4 points
+Dragon javelin (p++): 8 points
+Dragon dart: 2 points
+Dragon darts (p++): 5 points
+Opal: 4 points
+Jade: 5 points
+Pearl: 6 points
+Topaz: 7 points
+Shapphire: 8 points
+Emerald: 9 points
+Ruby: 12 points
+Diamond: 12 points
+Dragon: 15 points
+Onyx: 18 points
+
+
+
+
+Blood scimitar: 40 attack requirement, tradeable, very good for training it got high accuracy, participation points 300
+Lava blade (c): 60 attack, lasts 30 minutes in combat, participation points

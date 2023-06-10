@@ -1,0 +1,8 @@
+* New interface required
+* Attributable items support
+* Untradeable items support
+* Broken items support
+* Support for changing item id on death, then checking it as normal item for the new version of the item (upon death, if it is counted to drop)
+* Degradeable items support (all degradeables should not be tradeable, and on drop it should reset your count for the item, and support multiple items)
+
+https://oldschool.runescape.wiki/w/Saradomin%27s_blessed_sword

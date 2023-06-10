@@ -1,0 +1,104 @@
+Lumbridge:
+* Small Net: Shrimp/Anchovies
+* Fishing Rod: Sardine/Herring
+-----------------
+* Fly Fishing Rod: Trout/Salmon/Rainbow Fish
+* Fishing Rod: Sardine/Herring
+
+Catherby:
+* Small Net: Shrimp/Anchovies
+* Fishing Rod: Sardine/Herring
+-----------------
+* Lobster Pot: Lobsters
+* Harpoon: Tuna/Swordfish
+-----------------
+* Big Net: Mackerel/Oyster/Cod/Bass/Casket
+* Harpoon: Shark
+-----------------
+
+Karamja:
+* Small Net: Shrimp/Anchovies
+* Fishing Rod: Sardine/Herring
+-----------------
+* Lobster Pot: Lobsters
+* Harpoon: Tuna/Swordfish
+-----------------
+* Small Net: Karambwanji
+
+Fishing Guild:
+* Lobster Pot: Dark Crab
+-----------------
+* Big Fishing Net: Manta Ray/Sea Turtle
+-----------------
+* Barbarian Rod: Leaping Trout/Leaping Salmon/Leaping Sturgeon
+-----------------
+* Big Fishing Net: Mackerel/Cod/Bass
+* Harpoon: Shark/Big Shark
+-----------------
+* Lobster Pot: Lobsters
+* Harpoon: Tuna/Swordfish
+-----------------
+* Karambwan Vessel: Karambwan
+
+
+
+Wilderness Resource Area:
+* Fishing Rod: Angler Fish
+-----------------
+* Big Fishing Net: Manta Ray/Sea Turtle
+-----------------
+
+
+Tai Wai Bannai:
+* Small Net: Karambwanji
+
+
+Al Kharid:
+* Small Net: Shrimp/Anchovies
+* Fishing Rod: Sardine/Herring
+
+
+Draynor:
+* Small Net: Shrimp/Anchovies
+* Fishing Rod: Sardine/Herring
+
+Edgeville:
+* Fly Fishing Rod: Trout/Salmon/Rainbow Fish
+* Fishing Rod: Pike
+
+Lumbridge Cave:
+* Small Net: Frog Spawn
+* Fishing Rod: Slimy Eel/Cave Eel
+
+Zul-Andra:
+* Fishing Rod: Sacred Eel
+
+Taverly Dungeon:
+* Oily Fishing Rod: Infernal Eel/Lava Eel
+
+
+
+
+
+
+
+
+Notes:
+Harpoon/Net: Swordfish-Monkfish 5234
+Net: MantaRay-Sea turtle 5233
+
+Net/Bait:  Slimy eel-cave eel 1497/1498 (Lumbridge caves)
+bait- infernal eel/lava eel 7676 (lava)
+Fish - karambwan 4714/4712 + 1 karamwanji 4710
+rod - leaping 1542
+Bait: Anglerfish 6825
+cage - dark crab  1536
+
+
+Teleports to add: Fishing Guild / Lumbridge Swamp Caves
+
+* 2 New Fishing spots teleport!
+
+Lumbridge / Catherby / Karamja / Draynor / Al Kharid / West Kharid / Entrana / Seers / Port Sarim / Ardougne
+Fishing Guild / Tirannwn / Castle Wars / Shilo Village / Tai Wai Bannai / Ape Atoll / Zul Andra / Harpie Bug Swarm
+Lumbridge Swamp Caves / Brimhaven / Wilderness Resource Area / Wilderness Fishing spots!

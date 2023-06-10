@@ -1,0 +1,112 @@
+plugins {
+    id 'java'
+    id 'idea'
+    id 'maven'
+    id 'application'
+    id "nebula.lint" version "16.7.0"
+    id 'org.jetbrains.kotlin.jvm' version '1.6.0'
+}
+
+group = "GS-server"
+version = "0.0.1"
+mainClassName = 'com.grinder.Server'
+sourceCompatibility = 11
+targetCompatibility = 11
+
+sourceSets {
+    main.java.srcDirs = ['src']
+    test.java.srcDirs = ['src-test']
+}
+
+repositories {
+    mavenCentral()
+    maven { url = uri("https://repo.maven.apache.org/maven2") }
+    maven { url = uri("https://jitpack.io") }
+    maven { url = uri("https://repo.runelite.net") }
+}
+
+dependencies {
+    implementation 'com.maxmind.geoip2:geoip2:4.0.0'
+    implementation 'commons-lang:commons-lang:2.6'
+    implementation 'org.reflections:reflections:0.9.11'
+    implementation 'com.google.code.gson:gson:2.9.0'
+    implementation 'org.jsoup:jsoup:1.15.3'
+    /* Used netty 4.1.17 before :) */
+    implementation 'io.netty:netty-all:4.1.86.Final'
+    implementation 'com.thoughtworks.xstream:xstream:1.4.20'
+    implementation 'com.google.guava:guava:32.0.1-jre'
+    implementation 'com.mysql:mysql-connector-j:8.0.33'
+    implementation 'com.intellij:annotations:12.0'
+// https://mvnrepository.com/artifact/net.dv8tion/JDA
+    implementation 'net.dv8tion:JDA:5.0.0-alpha.12'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.7.0-RC"
+    implementation "org.jetbrains.kotlin:kotlin-reflect:1.7.0-RC"
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0.pr2'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.7.1'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.10.0.pr3'
+    implementation 'javax.activation:javax.activation-api:1.2.0'
+    implementation 'com.sun.activation:javax.activation:1.2.0'
+    implementation 'org.apache.commons:commons-compress:1.21'
+    implementation 'net.runelite:cache:1.9.12'
+    implementation 'com.zaxxer:HikariCP:2.7.4'
+    implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
+    implementation 'org.projectlombok:lombok:1.18.22'
+    compile group: 'joda-time', name: 'joda-time', version: '2.10.6'
+    compile group: 'ca.pjer', name: 'chatter-bot-api', version: '2.0.1'
+    compile group: 'com.github.jponge', name: 'lzma-java', version: '1.2'
+    compile group: 'org.apache.ant', name: 'ant', version: '1.9.16'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.6.2'
+    testImplementation 'io.mockk:mockk:1.10.0'
+}
+
+test {
+    useJUnit()
+    maxHeapSize = '1G'
+}
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+
+    archiveBaseName = "${rootProject.name}"
+    from {
+        (configurations.compile.findAll { !it.path.endsWith(".pom") }).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+
+    with jar
+}
+jar {
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+}
+task copyJarToBin{
+    doLast{
+        copy{
+            from "bin/libs/GrinderScapeSource2-0.0.1.jar"
+            into "S:\\Github\\GrinderScapeSource2"
+        }
+    }
+}
+
+task buildApp(dependsOn: [clean, fatJar, copyJarToBin])
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "11"
+}
+
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "11"
+}
+
+compileJava.options.encoding = 'UTF-8'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}

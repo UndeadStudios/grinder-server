@@ -1,0 +1,758 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Guthix be praised, the cavalry ",
+    "line2": "has arrived! Hero, how would ",
+    "line3": "you like to be made an honorary ",
+    "line4": "member of the Black Guard? ",
+    "next": 1,
+    "npcId": 5191
+  },
+  {
+    "id": 1,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "The Black Guard? What's that?",
+    "anim": "CALM",
+    "next": 2
+  },
+  {
+    "id": 2,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Hawhaw! 'What's that' he ",
+    "line2": "asks, what a sense of humour! ",
+    "line3": "The Black Guard is the finest ",
+    "line4": "regiment in the dwarven.. ",
+    "anim": "CALM",
+    "next": 3,
+    "npcId": 5191
+  },
+  {
+    "id": 3,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "army. Only the best of the ",
+    "line2": "best are allowed to join.. ",
+    "line3": "it and then they receive ",
+    "line4": "months of rigorous training. ",
+    "anim": "CALM",
+    "next": 4,
+    "npcId": 5191
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "However, we are currently ",
+    "line2": "in need of a hero, so for a ",
+    "line3": "limited time only I'm offering ",
+    "line4": "you, a human, a chance to join",
+    "anim": "CALM",
+    "next": 5,
+    "npcId": 5191
+  },
+  {
+    "id": 5,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Sure, I'd be honoured to join.",
+    "anim": "CALM",
+    "next": 6
+  },
+  {
+    "id": 6,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "id": 7,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "That's the spirit! Now trooper, ",
+    "line2": "we have no time to waste - ",
+    "line3": "the goblins are attacking ",
+    "line4": "from the forests to the South. ",
+    "anim": "CALM",
+    "next": 8,
+    "npcId": 5191
+  },
+  {
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "There are so many of them, ",
+    "line2": "they are overwhelming my ",
+    "line3": "men and breaking through.. ",
+    "anim": "CALM",
+    "next": 9,
+    "npcId": 5191
+  },
+  {
+    "id": 9,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "perimeter defences; could ",
+    "line2": "you please try to fix the ",
+    "line3": "stockade by replacing the ",
+    "line4": "broken rails with these. ",
+    "anim": "CALM",
+    "next": 10,
+    "npcId": 5191
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Sure, sounds easy enough...",
+    "anim": "CALM",
+    "next": 11
+  },
+  {
+    "id": 11,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "id": 12,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "The Dwarf Captain gives you six railings and a hammer.",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "stage": 1,
+    "id": 13,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Hello, trooper, how are you doing with",
+    "line2": "those railings?",
+    "next": 14,
+    "npcId": 5191
+  },
+  {
+    "id": 14,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "id": 15,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I lost the railings..",
+    "anim": "CALM",
+    "next": 12
+  },
+  {
+    "id": 16,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I am getting there..",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "id": 17,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I am done!",
+    "anim": "CALM",
+    "next": 18
+  },
+  {
+    "id": 18,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Well done, trooper! The goblins seems ",
+    "line2": "to have stopped getting in. I think you've done it.",
+    "next": 19,
+    "npcId": 5191
+  },
+  {
+    "id": 19,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Great, I'll be getting on then.",
+    "anim": "CALM",
+    "next": 20
+  },
+  {
+    "id": 20,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What? I'll have you jailed for desertion!",
+    "next": 21,
+    "npcId": 5191
+  },
+  {
+    "id": 21,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Besides, I have another commission ",
+    "line2": "for you. Just before the goblins over-ran ",
+    "line3": "us we lost contact with our watch tower ",
+    "line4": "to the South, that's why the goblins.. ",
+    "next": 22,
+    "npcId": 5191
+  },
+  {
+    "id": 22,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "managed to catch us unawares. I'd like ",
+    "line2": "you to perform a covert operation into ",
+    "line3": "enemy territory, to check up on the guards ",
+    "line4": "we have stationed there.",
+    "next": 23,
+    "npcId": 5191
+  },
+  {
+    "id": 23,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "They should have reported in by now ...",
+    "next": 24,
+    "npcId": 5191
+  },
+  {
+    "id": 24,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Okay, I'll see what I can find out.",
+    "anim": "CALM",
+    "next": 25
+  },
+  {
+    "id": 25,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Excellent! I have two men there, the ",
+    "line2": "dwarf-in-charge is called Gilob, find ",
+    "line3": "him and tell him that I'll send him a relief ",
+    "line4": "guard just as soon as we mop up these remaining goblins.",
+    "next": 26,
+    "npcId": 5191
+  },
+  {
+    "id": 26,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "stage": 2,
+    "id": 27,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello, any news from the watchman?",
+    "next": 28,
+    "npcId": 5191
+  },
+  {
+    "id": 28,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "id": 29,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Not yet...",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "id": 30,
+    "type": "PLAYER_STATEMENT",
+    "lines": 3,
+    "line1": "I have some terrible news for you Captain, ",
+    "line2": "the goblins over ran the tower, your ",
+    "line3": "guards fought well but were overwhelmed. ",
+    "anim": "CALM",
+    "next": 31
+  },
+  {
+    "id": 31,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "You give the Dwarf Captain his subordinate's remains...",
+    "anim": "CALM",
+    "next": 32
+  },
+  {
+    "id": 32,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "I can't believe it, Gilob was the finest ",
+    "line2": "lieutenant I had! We'll give him a fitting ",
+    "line3": "funeral, but what of his command? His ",
+    "line4": "son, Lollk, was with him. Did you find his body too?",
+    "next": 33,
+    "npcId": 5191
+  },
+  {
+    "id": 33,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "No, there was only one body there, I searched pretty well.",
+    "anim": "CALM",
+    "next": 34
+  },
+  {
+    "id": 34,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "The goblins must have taken him. Please ",
+    "line2": "traveler, seek out the goblins' hideout ",
+    "line3": "and return the lad to us. They always ",
+    "line4": "attack from the South-east, so they must be based down there.",
+    "next": 35,
+    "npcId": 5191
+  },
+  {
+    "id": 35,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Okay, I'll see if I can find their hideout.",
+    "anim": "CALM",
+    "next": 36
+  },
+  {
+    "id": 36,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "stage": 4,
+    "id": 37,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Thank the heavens, you saved me! I thought ",
+    "line2": "I'd be goblin lunch for sure!",
+    "next": 38,
+    "npcId": 5190
+  },
+  {
+    "id": 38,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Are you okay?",
+    "anim": "CALM",
+    "next": 39
+  },
+  {
+    "id": 39,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I think so, I'd better run off home.",
+    "next": 40,
+    "npcId": 5190
+  },
+  {
+    "id": 40,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "That's right, you get going, I'll catch up.",
+    "anim": "CALM",
+    "next": 41
+  },
+  {
+    "id": 41,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Thanks again, brave adventurer.",
+    "next": 42,
+    "npcId": 5190
+  },
+  {
+    "id": 42,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "stage": 5,
+    "id": 43,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Lollk has returned and I thank you from ",
+    "line2": "the bottom of my heart - without you he'd ",
+    "line3": "be a goblin barbecue!",
+    "next": 44,
+    "npcId": 5191
+  },
+  {
+    "id": 44,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Always a pleasure to help.",
+    "anim": "CALM",
+    "next": 45
+  },
+  {
+    "id": 45,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "In that case could I ask one more favour of you...",
+    "next": 46,
+    "npcId": 5191
+  },
+  {
+    "id": 46,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "In that case could I ask one more favour of you...",
+    "next": 47,
+    "npcId": 5191
+  },
+  {
+    "id": 47,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "When the goblins attacked us some of ",
+    "line2": "them managed to slip past my guards and ",
+    "line3": "sabotage our cannon. I don't have anybody ",
+    "line4": "who understands how it works, could..",
+    "next": 48,
+    "npcId": 5191
+  },
+  {
+    "id": 48,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "You get it working for us?",
+    "next": 49,
+    "npcId": 5191
+  },
+  {
+    "id": 49,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "The Dwarf Captain gives you a mechanical piece..",
+    "anim": "CALM",
+    "next": 50
+  },
+  {
+    "id": 50,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "..You piece it together and hand it back.",
+    "anim": "CALM",
+    "next": 51
+  },
+  {
+    "id": 51,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "That's fantastic, well done!",
+    "next": 52,
+    "npcId": 5191
+  },
+  {
+    "id": 52,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Well I don't believe it, it seems to be ",
+    "line2": "working perfectly! I seem to have underestimated you",
+    "next": 53,
+    "npcId": 5191
+  },
+  {
+    "id": 53,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Not bad at all, your effort is appreciated, ",
+    "line2": "my friend. Now, if I could figure what ",
+    "line3": "the thing uses as ammo... ",
+    "next": 54,
+    "npcId": 5191
+  },
+  {
+    "id": 54,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "The Black Guard forgot to send instructions. ",
+    "line2": "I know I said that was the last favour, ",
+    "line3": "but... ",
+    "next": 55,
+    "npcId": 5191
+  },
+  {
+    "id": 55,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "What now?",
+    "anim": "CALM",
+    "next": 56
+  },
+  {
+    "id": 56,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "I can't leave this post, could you go ",
+    "line2": "to the Black Guard base and find out what ",
+    "line3": "this thing actually shoots? ",
+    "next": 57,
+    "npcId": 5191
+  },
+  {
+    "id": 57,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Okay then, just for you!",
+    "anim": "CALM",
+    "next": 58
+  },
+  {
+    "id": 58,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "That's great, we were lucky you came ",
+    "line2": "along when you did. The base is located ",
+    "line3": "just South of the Ice Mountain. ",
+    "next": 59,
+    "npcId": 5191
+  },
+  {
+    "id": 59,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "You'll need to speak to Nulodion, the ",
+    "line2": "Dwarf Cannon engineer. He's the Weapons ",
+    "line3": "Development Chief for the Black Guard, ",
+    "line4": "so if anyone knows how to fire this thing, ",
+    "next": 60,
+    "npcId": 5191
+  },
+  {
+    "id": 60,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "It'll be him. ",
+    "next": 61,
+    "npcId": 5191
+  },
+  {
+    "id": 61,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Okay, I'll see what I can do.",
+    "anim": "CALM",
+    "next": 62
+  },
+  {
+    "id": 62,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  },
+  {
+    "stage": 6,
+    "id": 63,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Can I help you?",
+    "next": 64,
+    "npcId": 1400
+  },
+  {
+    "id": 64,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "Captain Lawgof sent me. He's having ",
+    "line2": "trouble with his cannon. ",
+    "anim": "CALM",
+    "next": 65
+  },
+  {
+    "id": 65,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Of course, we forgot to send the ammo ",
+    "line2": "mould! ",
+    "next": 66,
+    "npcId": 1400
+  },
+  {
+    "id": 66,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "It fires mould?",
+    "anim": "CALM",
+    "next": 67
+  },
+  {
+    "id": 67,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Don't be silly - the ammo's made by using ",
+    "line2": "a mould. Here, take these to him. The ",
+    "line3": "instructions explain everything. ",
+    "next": 68,
+    "npcId": 1400
+  },
+  {
+    "id": 68,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 1400
+  },
+  {
+    "id": 69,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "The Cannon Engineer gives you some notes and a mould.",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "id": 70,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Can I help you?",
+    "next": 71,
+    "npcId": 1400
+  },
+  {
+    "id": 71,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I lost the mould and notes.",
+    "anim": "CALM",
+    "next": 67
+  },
+  {
+    "stage": 7,
+    "id": 72,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello trooper, any word from the Cannon Engineer?",
+    "next": 73,
+    "npcId": 5191
+  },
+  {
+    "id": 73,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Yes, I have spoken to him.",
+    "anim": "CALM",
+    "next": 74
+  },
+  {
+    "id": 74,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "He gave me an ammo mould and some notes ",
+    "line2": "to give to you... ",
+    "anim": "CALM",
+    "next": 75
+  },
+  {
+    "id": 75,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Aah, of course, we make the ammo! This ",
+    "line2": "is great, now we will be able to defend ",
+    "line3": "ourselves. I don't know how to thank ",
+    "line4": "you... ",
+    "next": 76,
+    "npcId": 5191
+  },
+  {
+    "id": 76,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "You could give me a cannon...",
+    "anim": "CALM",
+    "next": 77
+  },
+  {
+    "id": 77,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hah! You'd be lucky, those things are worth a fortune.",
+    "next": 78,
+    "npcId": 5191
+  },
+  {
+    "id": 78,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "I'll tell you what though, I'll write ",
+    "line2": "to the Cannon Engineer requesting him ",
+    "line3": "to sell you one. He controls production ",
+    "line4": "of the cannons. ",
+    "next": 79,
+    "npcId": 5191
+  },
+  {
+    "id": 79,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "He won't be able to give you one, but for ",
+    "line2": "the right price, I'm sure he'll sell ",
+    "line3": "one to you. ",
+    "next": 80,
+    "npcId": 5191
+  },
+  {
+    "id": 80,
+    "type": "PLAYER_STATEMENT",
+    "lines": 2,
+    "line1": "Hmmm... sounds interesting, I might ",
+    "line2": "take you up on that. ",
+    "anim": "CALM",
+    "next": 81
+  },
+  {
+    "id": 81,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5191
+  }
+]

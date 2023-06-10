@@ -1,0 +1,140 @@
+		/*
+		* Combat Training
+		 */
+
+		LUMBRIDGE_FARM(47352, new Position(3254, 3266, 0), false),
+
+		NEITIZNOT_YAKS(47360, new Position(2323, 3793), false),
+
+		RELLEKA_CRABS(47376, new Position(2673, 3712), false),
+
+		SOUTH_HOSIDIUS(47368, new Position(1715, 3462), false),
+
+		FENKENSTRAIN_CASTLE(47384, new Position(3574, 9929), false),
+
+		AL_KHARID_TEMPLE(47392, new Position(3293, 3181), false),
+
+		//MUSHROOM_FOREST
+
+		//CRAWCLAW_CAVES
+
+		//VARROCK_SEWERS
+
+		//WATERFALL_DUNGEON
+
+		//GNOME_TORTOISE
+
+		//CANIFIS_WEREWOLVES
+
+		//FALADOR_MOLE_LAIR
+
+		//JOGRE_DUNGEON
+
+		//KHAZARD_BATTLEFIELD
+
+		//HAM_DUNGEON
+
+		KARAMJA_DUNGEON(47464, new Position(2856, 3167), false),
+
+		//FREMENNIK_ISLES(47496, new Position(2348, 3883), false),
+
+		TAVERLEY_DUNGEON(47504, new Position(2884, 3401), false),
+
+		BRIMHAVEN_DUNGEON(47512, new Position(2757, 3177), false), //2713, 9564
+
+		KALPHITE_LAIR(47400, new Position(3312, 9503), false),
+
+		EDGEVILLE_DUNGEON(47408, new Position(3115, 3449), false),
+
+		//TARNS_LAIR
+
+		//FOSSIL ISLAND
+
+		ASGARNIAN_ICE_CAVE(47416, new Position(3048, 9581), false),
+
+		//POLLNIVNEACH(47424, new Position(3345, 2942), false),
+
+		//SOPHANEM_DUNGEON
+
+		//TEMPLE_OF_MARIMBO
+
+		//POTHOLE_DUNGEON
+
+		//QUIDAMORTEM_CAVE
+
+		//TZHAAR
+
+		//MOR_UI_REK
+
+		//KRUKS_DUNGEON
+
+		//APE_ATOLL_DUNGEON
+
+		//FORTHOS_DUNGEON
+
+		//CRASH_ISLAND(47440, new Position(2894, 2724), false),
+
+		BANDITS_CAMP(47432, new Position(3170, 2979), false),
+
+		SMOKE_TUNNELS(47448, new Position(3371, 2903), false),
+
+		SMOKE_DEVIL_DUNGEON(47536, new Position(2404, 9415, 0), false), // SMOKE DEVIL DUNGEON & THERMO
+
+		STRONGHOLD_SECURITY(47456, new Position(1860, 5244), false),
+
+		//LIZARDMAN_CAVES
+
+		DAGANNOTHS_LAIR(47480, new Position(2453, 10145), false),
+
+		//LUNAR_ISLE(47488, new Position(2134, 3856), false),
+
+		ANCIENT_DUNGEON(47520, new Position(1764, 5366, 1), false),
+
+		//MOUNT_FIREWAKE
+
+		//GODWARS_DUNGEON
+
+		//WYVERNS_CAVE
+
+
+
+
+
+		/**
+		 * Monsters
+		 */
+		String[][] MONSTERS = { { "Lumbridge Farm", "Low lvl" }, { "Neitiznot Yaks", "Low lvl" },
+				{ "Relleka Crabs", "Low lvl" }, { "South Hosidius", "Low lvl" },
+				{ "Fenkenstrain Castle", "Low lvl" }, { "Al Kharid Temple", "Low lvl" },
+				{ "Mushroom Forest", "Med lvl" }, { "Crabclaw Caves", "Med lvl" },
+				{ "Varrock Sewers", "Med lvl" }, { "Waterfall Dungeon", "Med lvl" },
+				{ "Gnome Tortoise", "Med lvl" }, { "Canifis Werewolves", "Med lvl" },
+				{ "Falador Mole Lair", "Med lvl"}, { "Jogre Dungeon", "Med lvl" },
+				{ "Khazard Battlefield", "Med lvl" }, { "H.A.M Dungeon ", "Med lvl"},
+				{ "Karamja's Dungeon", "Med lvl" }, { "Fremennik Isles", "Med lvl" },
+				{ "Taverly Dungeon", "Med-high lvl" }, { "Brimhaven Dungeon", "Med-high lvl" },
+				{ "Kalphite's Lair", "Med lvl" }, { "Edgeville Dungeon", "Med lvl" },
+				{ "Tarn's Lair", "Med lvl"}, { "Fossil Island", "Med-high lvl" },
+				{ "Asgarnian Ice Cave", "Med lvl" }, { "Pollnivneach", "Med lvl" },
+				{ "Sophanem Dungeon", "Med-high lvl"}, { "Temple of Marimbo", "Med-high lvl"},
+				{ "Pothole Dungeon", "Med lvl" }, { "Quidamortem Cave", "Med-high lvl"},
+				{ "Tzhaar", "High lvl" }, { "Mor Ul Rek", "High lvl"},
+				{ "Kruk's Dungeon", "High lvl" }, { "Ape Atoll Dungeon", "Med-high lvl" },
+				{ "Forthos Dungeon", "High lvl" }, { "Jormungans Prison", "Med-high lvl" },
+				{ "Bandit's Camp", "Med-high lvl" }, { "Crash Island", "Med lvl" },
+			 	{ "Smoke Tunnels", "Med lvl" }, { "Smoke Devil Dungeon", "High lvl" },
+				{ "Stronghold Security", "All levels" }, { "Lizardman Temple", "Med-high lvl" },
+				{ "Dagannoth's Lair", "Med-high lvl" },{ "Lunar Isle", "High lvl" },
+				{ "Ancient Dungeon", "High lvl" }, { "Mount Firewake", "High lvl" },
+				{ "Godwars Dungeon", "High lvl" }, { "Wyverns Cave", "High lvl" }
+
+		};
+		teleportScroll(89000, MONSTERS, tda);
+
+
+
+
+
+
+
+

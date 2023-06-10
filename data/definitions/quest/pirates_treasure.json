@@ -1,0 +1,208 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Arr, Matey!",
+    "next": 1,
+    "npcId": 3643
+  },
+  {
+    "id": 1,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I'm in search of treasure.",
+    "anim": "CALM",
+    "next": 2
+  },
+  {
+    "id": 2,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "Arr, treasure you be after eh? Well I ",
+    "line2": "might be able to tell you where to find ",
+    "line3": "some... For a price... ",
+    "anim": "CALM",
+    "next": 3,
+    "npcId": 3643
+  },
+  {
+    "id": 3,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "What sort of price?",
+    "anim": "CALM",
+    "next": 4
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "lines": 2,
+    "line1": "Well for example if you can get me a bottle ",
+    "line2": "of rum... Not just any rum mind... ",
+    "anim": "CALM",
+    "next": 5,
+    "npcId": 3643
+  },
+  {
+    "id": 5,
+    "type": "NPC_STATEMENT",
+    "lines": 2,
+    "line1": "I'd like some rum made on Karamja Island. ",
+    "line2": "There's no rum like Karamja Rum! ",
+    "anim": "CALM",
+    "next": 6,
+    "npcId": 3643
+  },
+  {
+    "id": 6,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3643
+  },
+  {
+    "id": 7,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Ok, I will bring you some rum.",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "stage": 1,
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Have ye brought some rum for yer ol' mate Frank?",
+    "next": 9,
+    "npcId": 3643
+  },
+  {
+    "id": 9,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3643
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "No, not yet.",
+    "anim": "CALM",
+    "next": -1
+  },
+  {
+    "id": 11,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Yes, I've got some.",
+    "anim": "CALM",
+    "next": 12
+  },
+  {
+    "id": 12,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Now a deal's a deal, I'll tell ye about ",
+    "line2": "the treasure. I used to serve under a ",
+    "line3": "pirate captain called One-Eyed Hector. ",
+    "next": 13,
+    "npcId": 3643
+  },
+  {
+    "id": 13,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Hector were very successful and became ",
+    "line2": "very rich. But about a year ago we were ",
+    "line3": "boarded by the Customs and Excise Agents. ",
+    "next": 14,
+    "npcId": 3643
+  },
+  {
+    "id": 14,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Hector were killed along with many of ",
+    "line2": "the crew, I were one of the few to escape ",
+    "line3": "and I escaped with this. ",
+    "next": 15,
+    "npcId": 3643
+  },
+  {
+    "id": 15,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3643
+  },
+  {
+    "id": 16,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Frank happily takes the rum... and hands you a key.",
+    "next": 17,
+    "npcId": 3643
+  },
+  {
+    "id": 17,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "This be Hector's key. I believe it opens ",
+    "line2": "his chest in his old room in the Blue Moon ",
+    "line3": "Inn in Varrock. ",
+    "next": 18,
+    "npcId": 3643
+  },
+  {
+    "id": 18,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "With any luck his treasure will be in ",
+    "line2": "there. ",
+    "next": -1,
+    "npcId": 3643
+  },
+  {
+    "stage": 2,
+    "id": 19,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Arr, Matey!",
+    "next": 20,
+    "npcId": 3643
+  },
+  {
+    "id": 20,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": " I seem to have lost my chest key...",
+    "anim": "CALM",
+    "next": 21
+  },
+  {
+    "id": 21,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Arr, silly you. Fortunately I took the ",
+    "line2": "precaution to have another one made. ",
+    "next": 22,
+    "npcId": 3643
+  },
+  {
+    "id": 22,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3643
+  }
+]

@@ -1,0 +1,207 @@
+
+@@@@@Easy:@@@@@ 1 achievement point
+Communicating - Say something.
+Vainglorious - Change your character appearance.
+Duel Icious - Win a duel against a player.
+Fearless - Defeat a player in the deep wilderness.
+Friendly - add over 25 friends to your friends list.
+Getting ready - Complete the starter guide tutorial.
+Hat Trick - Equip the Top hat.
+Ammo Conservation - Defeat a player with one arrow remaining.
+Assistance Required - Defeat a player while in multi area wilderness.
+Betrayed - Be killed by someone from your clan.
+Clan Warfare - Defeat a player while you are in a clan chat.
+Collector - Ask Piles to note an item for you at the wilderness resource area.
+Combat Ready - Get skulled.
+Safe Kill - Defeat a player with higher hit points than your hitpoints.
+Dead Man Stalking - Defeat a player when you are at one hp.
+Hiding - Appear as off-line to all your friends.
+Self Secure - Add a bank PIN to your account.
+Trouble Blocked - Get teleblocked by any player.
+On the Alert - Get an item saved by protect item prayer on death.
+Mystery Mind - Change your magic spell book.
+Owing a Life - Be saved by a ring of life.
+Panic - Be assigned as someone's target at the wilderness.
+Treasure Hunter - Complete a Clue Scroll.
+Cooking apprentice - Burn a food while attempting to cook it.
+Jewellery Enchanter - Enchant a jewellery.
+Looking for Trouble - Teleport to a target in the wilderness.
+Master at Arms - Defeat a player without wearing anything.
+Breaking Tab - Use a Runecrafting altar teleport tab.
+Brand New - Repair a piece of armour.
+Blood Money - Loot 1,000,000 coins.
+Need Food - Steal from the Bakery stall 50 times.
+Monster Killer - Slay over 50 monsters.
+Chop Chop - Chop 100 trees.
+Obstacle Free - Complete 10 agility obstacles.
+Gem Cutter - Cut 100 uncut gems.
+Slayer Novice - Complete 5 slayer tasks.
+Greenland - Plant 50 seeds.
+Lucky Trip - Get an RDT drop.
+Over Dice - Roll exactly 100 while rolling a dice.
+Initial Crystal - Open the crystal chest.
+Muddy Work - Open the muddy chest.
+
+
+@@@@@Medium:@@@@@ 2 achievement points
+Pet Collector - Aquire a cute pet from skilling.
+Barrows Enemy - Slay all the Barrows brothers.
+Skilling Addict - Exchange some skilling points.
+Dark and Hollow - Equip the Darkbow.
+Daily Feed - Receive the daily login reward 5 times.
+Important Person - Be promoted to a recruit rank in a clan chat.
+Killing Them - Defeat 25 players in the wilderness.
+All Mud - Open the muddy chest 10 times.
+Slayer Major - Complete 10 slayer tasks.
+Need Fur - Steal from the Fur stall 50 times.
+Professional Thief - Steal from a NPC 250 times.
+Need Gem - Steal from the Gem stall 100 times.
+Party Up - Claim the command trivia 10 times.
+The Charger - Charge your shield 50 times from dragons.
+Deep Focus - Unlock Rigour, Augury, and Preserve prayers.
+Yell Mania - Yell 50 times.
+Over Achiever - Obtain 1,000 participation points.
+Rampage - Reach a killstreak count of 10.
+Can't Stop Me - Block a slayer task.
+Mistakes Happen - Cancel your current slayer task.
+Chopping Away - Chop 250 willow trees.
+Monster Murderer - Slay over 250 monsters.
+Chef's taste - Cook 250 fishes.
+Hammer and Anvil - Smith 250 bars.
+Light Up - Start 250 fires.
+Grave Digger - Bury 500 bones.
+Alchemist - Herblore 250 potions.
+Wet Work - Mine 200 Iron ores.
+Mining the Essentials - Mine 300 coal ores.
+
+
+
+@@@@@Hard:@@@@@ 3 achievement points
+Over Achiever - Complete 50 tasks.
+Precise Details - Reach max level in Attack skill.
+God of War - Reach max level in Strength skill.
+Brutal Armor - Reach max level in Defence skill.
+Expert Marksman - Reach max level in Ranging skill.
+Magic Artist - Reach max level in Magic skill.
+Blessed Spirit - Reach max level in Prayer skill.
+Long Live - Reach max level in Hitpoints skill.
+Make the Cut - Reach max level in Woodcutting skill.
+Agile Tasks - Reach max level in Agility skill.
+Star Chef - Reach max level in Cooking skill.
+Surf N Turf - Reach max level in Fishing skill.
+Night Diplomacy - Reach max level in Slayer skill.
+Herbal Fresh - Reach max level in Herblore skill.
+Mine Specialist - Reach max level in Mining skill.
+Over Temperature - Reach max level in Smithing skill.
+Spread Runes - Reach max level in Runecrafting skill.
+Craftsmanship - Reach max level in Crafting skill.
+Deep Cuts - Reach max level in Fletching skill.
+Nature Preserved - Reach max level in Farming skill.
+Blazing Hot - Equip the Infernal cape.
+Armadyl Recruit - Equip full Armadyl armour.
+Ultimate Max - Reach a max level of 1,500.
+Ancient Survivor - Accumulate login time of more than three days on your account.
+Dedicated Slayer - Slay over 400 monsters of slayer tasks.
+Brave Warrior - Slay the General Graardor 10 times.
+The Enchanter - Enchant 1,000 bolts.
+Cowbow Diplomacy - Vote 10 times to the server.
+Safety First - Consume 1,000 foods.
+Skilling Champion - Complete 15 skilling tasks.
+Lucky Crystal - Open the crystal chest 25 times.
+Fire Warrior - Defeat the TzTok-Jad.
+The Road to Hell - Obtain more than 1,000,000 XP in wilderness resource area.
+Bandos Treasure - Get a rare drop from General Graador.
+Beast Slayer - Defeat the Corporal Beast while you are at full health.
+Focused Slayer - Unlock the ability to craft Slayer Helmets.
+Axe Does It - Chop 250 Magic trees.
+Random Stuff - Steal from the Miscellenous stall 250 times.
+Monster Slayer - Slay over 250 monsters.
+No Obstacles - Complete 25 agility obstacles.
+Clearing Them - Defeat 100 players in the wilderness.
+Gem Fissure - Cut 250 uncut gems.
+Over Green - Plant 100 seeds.
+Reclaiming the Ruins - Slay the Crazy Archeologist 10 times.
+Spider Slayer - Slay the Venenatis 10 times.
+Surviving the Pit - Slay Scorpia 10 times.
+Bear Hunter - Slay Callisto 30 times.
+Daily Saviour - Receive the daily login reward 10 times.
+Born to Die - Die 100 times.
+
+
+@@@@@Elite:@@@@@ 4 achievement points
+Lucky Beast - Get a rare drop from the Corporal beast.
+Insurgent - Reach a combat level of 126.
+End of Journey - Reach all skills level 99.
+Dwarf Assistance - Assist Mining Expert to obtain 2,000 mining points.
+Grave Master - Bury or sacrifice 1,000 bones.
+Spray and Pray - Bury 500 bones while you are 99 Prayer.
+Command & Conquer - Defeat 150 players in the wilderness.
+Dream Mentor - Defeat the Mutant Tarn while having no food in bag.
+Jad Head - Defeat the TzTok-Jad 10 times.
+Lucky Journey - Get 250 rare drops.
+Fire Gamble - Gamble your Fire cape to win a mini TzTok-Jad pet.
+Slayer Elite - Complete 25 slayer tasks.
+Heavy Work - Mine 1,000 ores.
+Heat Up - Smith 1,000 bars.
+Risk Activity - Steal from the Wilderness stall 250 times.
+Precise Details - Reach 50M XP in Attack skill.
+God of War - Reach 50M XP in Strength skill.
+Brutal Armor - Reach 50M XP in Defence skill.
+Expert Marksman - Reach 50M XP in Ranging skill.
+Magic Artist - Reach 50M XP in Magic skill.
+Blessed Spirit - Reach 50M XP in Prayer skill.
+Long Live - Reach 50M XP in Hitpoints skill.
+Make the Cut - Reach 50M XP in Woodcutting skill.
+Agile Tasks - Reach 50M XP in Agility skill.
+Star Chef - Reach 50M XP in Cooking skill.
+Surf N Turf - Reach 50M XP in Fishing skill.
+Night Diplomacy - Reach 50M XP in Slayer skill.
+Herbal Fresh - Reach 50M XP in Herblore skill.
+Mine Specialist - Reach 50M XP in Mining skill.
+Over Temperature - Reach 50M XP in Smithing skill.
+Spread Runes - Reach 50M XP in Runecrafting skill.
+Craftsmanship - Reach 50M XP in Crafting skill.
+Deep Cuts - Reach 50M XP in Fletching skill.
+Nature Preserved - Reach 50M XP in Farming skill.
+
+@@@@@Master:@@@@@ 5 achievement points
+Monster Obliterator - Slay 1,000 monsters.
+Boss Obliterator - Slay 500 bosses.
+Color Max - Acquire the Max cape.
+Color Artist - Gamble and win the Colorful max cape.
+Health First - Heal a total of 8,000 life hit points.
+Crystal Master - Open the crystal chest 100 times.
+A World of Pain - Inflict 10,000 damage totals.
+Daily Activist - Receive the daily login reward 30 times.
+Slayer Master - Complete 50 slayer tasks.
+Command and Control - Defeat 500 players in the wilderness.
+Godlike - Reach a max level of 2,000.
+Precise Details - Reach 100M XP in Attack skill.
+God of War - Reach 100M XP in Strength skill.
+Brutal Armor - Reach 100M XP in Defence skill.
+Expert Marksman - Reach 100M XP in Ranging skill.
+Magic Artist - Reach 100M XP in Magic skill.
+Blessed Spirit - Reach 100M XP in Prayer skill.
+Long Live - Reach 100M XP in Hitpoints skill.
+Make the Cut - Reach 100M XP in Woodcutting skill.
+Agile Tasks - Reach 100M XP in Agility skill.
+Star Chef - Reach 100M XP in Cooking skill.
+Surf N Turf - Reach 100M XP in Fishing skill.
+Night Diplomacy - Reach 100M XP in Slayer skill.
+Herbal Fresh - Reach 100M XP in Herblore skill.
+Mine Specialist - Reach 100M XP in Mining skill.
+Over Temperature - Reach 100M XP in Smithing skill.
+Spread Runes - Reach 100M XP in Runecrafting skill.
+Craftsmanship - Reach 100M XP in Crafting skill.
+Deep Cuts - Reach 100M XP in Fletching skill.
+Nature Preserved - Reach 100M XP in Farming skill.
+
+
+@@@@@Other:@@@@@ 1 achievement point
+Spread Love - Aquire the donator's rank.
+Support Master - Aquire the super donator's rank.
+Extreme Support - Aquire the extreme donator's rank.
+Friendly Attire - Donate at least one time to the server.
+Colors Fan - Unlock and change your yell title.
+Hidden - Change your primary rank from the rank chooser.
+Trusted Dicer - Become a trusted dicer.

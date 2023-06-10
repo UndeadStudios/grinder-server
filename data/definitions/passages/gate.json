@@ -1,0 +1,2886 @@
+[
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1572,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2897,
+          "Y": 9832,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1569,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2898,
+          "Y": 9832,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1568,
+        "Face": 0,
+        "Position": {
+          "X": 2898,
+          "Y": 9831,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1571,
+        "Face": 3,
+        "Position": {
+          "X": 2897,
+          "Y": 9831,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Name": "Taverly Dungeon",
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 37,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2923,
+          "Y": 9803,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2623,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2924,
+          "Y": 9803,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 38,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2596,
+          "Y": 9657,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 37,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2595,
+          "Y": 9657,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2592,
+          "Y": 9489,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2155,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2592,
+          "Y": 9490,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2154,
+        "Face": 3,
+        "Position": {
+          "X": 2593,
+          "Y": 9490,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 2,
+        "Position": {
+          "X": 2593,
+          "Y": 9489,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1548,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2578,
+          "Y": 9656,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 39,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2579,
+          "Y": 9656,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 3446,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3432,
+          "Y": 9897,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3445,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3431,
+          "Y": 9897,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 3446,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3405,
+          "Y": 9894,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3444,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3405,
+          "Y": 9895,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Name": "Woodcutting Guild",
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 28854,
+        "Sound": 62,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 1658,
+          "Y": 3504,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 28852,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1657,
+          "Y": 3504,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 28851,
+        "Face": 2,
+        "Position": {
+          "X": 1657,
+          "Y": 3505,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 28853,
+        "Face": 1,
+        "Position": {
+          "X": 1658,
+          "Y": 3505,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 28853,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1563,
+          "Y": 3488,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 28851,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1562,
+          "Y": 3488,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 28852,
+        "Face": 2,
+        "Position": {
+          "X": 1562,
+          "Y": 3487,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 28854,
+        "Face": 3,
+        "Position": {
+          "X": 1563,
+          "Y": 3487,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1572,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3104,
+          "Y": 9909,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1569,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3103,
+          "Y": 9909,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1568,
+        "Face": 2,
+        "Position": {
+          "X": 3103,
+          "Y": 9910,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1571,
+        "Face": 1,
+        "Position": {
+          "X": 3104,
+          "Y": 9910,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3132,
+          "Y": 9918,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3132,
+          "Y": 9917,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 1,
+        "Position": {
+          "X": 3131,
+          "Y": 9917,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 0,
+        "Position": {
+          "X": 3131,
+          "Y": 9918,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1572,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3106,
+          "Y": 9945,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1569,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3106,
+          "Y": 9944,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1568,
+        "Face": 1,
+        "Position": {
+          "X": 3105,
+          "Y": 9944,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1571,
+        "Face": 0,
+        "Position": {
+          "X": 3105,
+          "Y": 9945,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1572,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3146,
+          "Y": 9870,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1569,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3145,
+          "Y": 9870,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1568,
+        "Face": 2,
+        "Position": {
+          "X": 3145,
+          "Y": 9871,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1571,
+        "Face": 1,
+        "Position": {
+          "X": 3146,
+          "Y": 9871,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3007,
+          "Y": 3849,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1727,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3008,
+          "Y": 3849,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1728,
+        "Face": 0,
+        "Position": {
+          "X": 3008,
+          "Y": 3850,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 3007,
+          "Y": 3850,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4790,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2723,
+          "Y": 2767,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4788,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 10,
+        "Position": {
+          "X": 2721,
+          "Y": 2766,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2815,
+          "Y": 3182,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1727,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2816,
+          "Y": 3182,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1728,
+        "Face": 0,
+        "Position": {
+          "X": 2816,
+          "Y": 3183,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 2815,
+          "Y": 3183,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2936,
+          "Y": 3450,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2935,
+          "Y": 3450,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 2,
+        "Position": {
+          "X": 2935,
+          "Y": 3451,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 1,
+        "Position": {
+          "X": 2936,
+          "Y": 3451,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4789,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2719,
+          "Y": 2767,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4787,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 2719,
+          "Y": 2766,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3072,
+          "Y": 3856,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3071,
+          "Y": 3856,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 2,
+        "Position": {
+          "X": 3071,
+          "Y": 3857,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 1,
+        "Position": {
+          "X": 3072,
+          "Y": 3857,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2934,
+          "Y": 3319,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1727,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2934,
+          "Y": 3320,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1728,
+        "Face": 3,
+        "Position": {
+          "X": 2933,
+          "Y": 3320,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 0,
+        "Position": {
+          "X": 2933,
+          "Y": 3319,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2947,
+          "Y": 3903,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2947,
+          "Y": 3904,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 3,
+        "Position": {
+          "X": 2948,
+          "Y": 3904,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 2,
+        "Position": {
+          "X": 2948,
+          "Y": 3903,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2998,
+          "Y": 3930,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 23552,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2998,
+          "Y": 3931,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 23554,
+        "Face": 3,
+        "Position": {
+          "X": 2997,
+          "Y": 3931,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 0,
+        "Position": {
+          "X": 2997,
+          "Y": 3930,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": true,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2650,
+          "Y": 3469,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 52,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2650,
+          "Y": 3470,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 53,
+        "Face": 3,
+        "Position": {
+          "X": 2649,
+          "Y": 3470,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": -1,
+        "Face": 0,
+        "Position": {
+          "X": 2649,
+          "Y": 3469,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15606,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2567,
+          "Y": 3455,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15604,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2567,
+          "Y": 3456,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15605,
+        "Face": 3,
+        "Position": {
+          "X": 2568,
+          "Y": 3456,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15607,
+        "Face": 2,
+        "Position": {
+          "X": 2568,
+          "Y": 3455,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1571,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2635,
+          "Y": 3308,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1568,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2635,
+          "Y": 3307,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1569,
+        "Face": 1,
+        "Position": {
+          "X": 2636,
+          "Y": 3307,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1572,
+        "Face": 2,
+        "Position": {
+          "X": 2636,
+          "Y": 3308,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 26084,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2758,
+          "Y": 3483,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 26082,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2758,
+          "Y": 3482,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 26081,
+        "Face": 1,
+        "Position": {
+          "X": 2757,
+          "Y": 3482,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 26083,
+        "Face": 0,
+        "Position": {
+          "X": 2757,
+          "Y": 3483,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": true,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2750,
+          "Y": 3577,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2664,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2750,
+          "Y": 3578,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2665,
+        "Face": 3,
+        "Position": {
+          "X": 2749,
+          "Y": 3578,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": -1,
+        "Face": 0,
+        "Position": {
+          "X": 2749,
+          "Y": 3577,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 26132,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2741,
+          "Y": 3556,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 26130,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2741,
+          "Y": 3555,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 26131,
+        "Face": 1,
+        "Position": {
+          "X": 2742,
+          "Y": 3555,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 26133,
+        "Face": 2,
+        "Position": {
+          "X": 2742,
+          "Y": 3556,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": true,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1523,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2727,
+          "Y": 3495,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 1601,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2727,
+          "Y": 3494,
+          "Z": 1
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1600,
+        "Face": 1,
+        "Position": {
+          "X": 2726,
+          "Y": 3494,
+          "Z": 1
+        }
+      },
+      "Opened Data": {
+        "Id": 1522,
+        "Face": 0,
+        "Position": {
+          "X": 2726,
+          "Y": 3495,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2874,
+          "Y": 2952,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2259,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2875,
+          "Y": 2952,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2260,
+        "Face": 0,
+        "Position": {
+          "X": 2875,
+          "Y": 2953,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 2874,
+          "Y": 2953,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2395,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2382,
+          "Y": 3488,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2394,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2383,
+          "Y": 3488,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2546,
+          "Y": 3569,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2116,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2545,
+          "Y": 3569,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2115,
+        "Face": 2,
+        "Position": {
+          "X": 2545,
+          "Y": 3570,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 1,
+        "Position": {
+          "X": 2546,
+          "Y": 3570,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2042,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2518,
+          "Y": 3357,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2041,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2518,
+          "Y": 3356,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2039,
+        "Face": 1,
+        "Position": {
+          "X": 2517,
+          "Y": 3356,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 2040,
+        "Face": 0,
+        "Position": {
+          "X": 2517,
+          "Y": 3357,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15607,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2554,
+          "Y": 3474,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15605,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2555,
+          "Y": 3474,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15604,
+        "Face": 0,
+        "Position": {
+          "X": 2555,
+          "Y": 3475,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15606,
+        "Face": 1,
+        "Position": {
+          "X": 2554,
+          "Y": 3475,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 12724,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2343,
+          "Y": 3663,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 12723,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2343,
+          "Y": 3662,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 12725,
+        "Face": 1,
+        "Position": {
+          "X": 2344,
+          "Y": 3662,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 13475,
+        "Face": 2,
+        "Position": {
+          "X": 2344,
+          "Y": 3663,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2059,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2552,
+          "Y": 3325,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 2060,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2551,
+          "Y": 3325,
+          "Z": 1
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2058,
+        "Face": 2,
+        "Position": {
+          "X": 2551,
+          "Y": 3326,
+          "Z": 1
+        }
+      },
+      "Opened Data": {
+        "Id": 2061,
+        "Face": 1,
+        "Position": {
+          "X": 2552,
+          "Y": 3326,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3443,
+          "Y": 3457,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3507,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3443,
+          "Y": 3458,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 3506,
+        "Face": 3,
+        "Position": {
+          "X": 3444,
+          "Y": 3458,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 2,
+        "Position": {
+          "X": 3444,
+          "Y": 3457,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3274,
+          "Y": 3028,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2674,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3273,
+          "Y": 3028,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2673,
+        "Face": 2,
+        "Position": {
+          "X": 3273,
+          "Y": 3029,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 1,
+        "Position": {
+          "X": 3274,
+          "Y": 3029,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3201,
+          "Y": 3855,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3201,
+          "Y": 3856,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 3,
+        "Position": {
+          "X": 3202,
+          "Y": 3856,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 2,
+        "Position": {
+          "X": 3202,
+          "Y": 3855,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3225,
+          "Y": 3903,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1727,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3225,
+          "Y": 3904,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1728,
+        "Face": 3,
+        "Position": {
+          "X": 3224,
+          "Y": 3904,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 0,
+        "Position": {
+          "X": 3224,
+          "Y": 3903,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 11770,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3320,
+          "Y": 3468,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 11766,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3319,
+          "Y": 3468,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 11767,
+        "Face": 2,
+        "Position": {
+          "X": 3319,
+          "Y": 3467,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 11771,
+        "Face": 3,
+        "Position": {
+          "X": 3320,
+          "Y": 3467,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Name": "Wilderness Resource Area",
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 2500000,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1548,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3184,
+          "Y": 3945,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 26760,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3184,
+          "Y": 3944,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 11770,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3311,
+          "Y": 3331,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 11766,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3312,
+          "Y": 3331,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 11767,
+        "Face": 0,
+        "Position": {
+          "X": 3312,
+          "Y": 3332,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 11771,
+        "Face": 1,
+        "Position": {
+          "X": 3311,
+          "Y": 3332,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1572,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3076,
+          "Y": 3868,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1569,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3076,
+          "Y": 3867,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1568,
+        "Face": 1,
+        "Position": {
+          "X": 3075,
+          "Y": 3867,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1571,
+        "Face": 0,
+        "Position": {
+          "X": 3075,
+          "Y": 3868,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 24536,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3261,
+          "Y": 3447,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 24536,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3261,
+          "Y": 3446,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Name": "Al-Kharid Gate",
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 10,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3267,
+          "Y": 3227,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 44598,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3268,
+          "Y": 3227,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 44599,
+        "Face": 0,
+        "Position": {
+          "X": 3268,
+          "Y": 3228,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 3267,
+          "Y": 3228,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3228,
+          "Y": 9799,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 89,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3229,
+          "Y": 9799,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 90,
+        "Face": 0,
+        "Position": {
+          "X": 3229,
+          "Y": 9800,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 3228,
+          "Y": 9800,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3218,
+          "Y": 9799,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 89,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3219,
+          "Y": 9799,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 90,
+        "Face": 0,
+        "Position": {
+          "X": 3219,
+          "Y": 9800,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 1,
+        "Position": {
+          "X": 3218,
+          "Y": 9800,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1574,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3336,
+          "Y": 3895,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1728,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3336,
+          "Y": 3896,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1727,
+        "Face": 3,
+        "Position": {
+          "X": 3337,
+          "Y": 3896,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1573,
+        "Face": 2,
+        "Position": {
+          "X": 3337,
+          "Y": 3895,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 5173,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3548,
+          "Y": 3552,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 5172,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3548,
+          "Y": 3551,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1573,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2728,
+          "Y": 3350,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2391,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2728,
+          "Y": 3349,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2392,
+        "Face": 1,
+        "Position": {
+          "X": 2729,
+          "Y": 3349,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1574,
+        "Face": 2,
+        "Position": {
+          "X": 2729,
+          "Y": 3350,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 9140,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1937,
+          "Y": 4970,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 9141,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1937,
+          "Y": 4969,
+          "Z": 0
+        }
+      }
+    }
+  }
+]

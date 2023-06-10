@@ -1,0 +1,437 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello there matey.. ",
+    "next": 1,
+    "npcId": 4811
+  },
+  {
+    "id": 1,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 3,
+    "npcId": 4811
+  },
+  {
+    "id": 2,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Here, have a drink. ",
+    "next": 3,
+    "npcId": 4811
+  },
+  {
+    "id": 3,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "You hand the ale to the dwarf who slurps ",
+    "line2": "with a noise of a thousand seals celebrating ",
+    "line3": "a rain of fish. ",
+    "next": 4,
+    "npcId": 4811
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Is that what I think it is? ",
+    "next": 5,
+    "npcId": 4811
+  },
+  {
+    "id": 5,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Maybe! ",
+    "next": 6,
+    "npcId": 4811
+  },
+  {
+    "id": 6,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "That's from the Rising Sun, the barmaid ",
+    "line2": "there will never tell me the recipe she ",
+    "line3": "uses. It's divine! ",
+    "next": 7,
+    "npcId": 4811
+  },
+  {
+    "id": 7,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Thinking of recipes... ",
+    "next": 9,
+    "npcId": 4811
+  },
+  {
+    "id": 8,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 9,
+    "npcId": 4811
+  },
+  {
+    "id": 9,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No! I shwears I'll never tell... ",
+    "next": 10,
+    "npcId": 4811
+  },
+  {
+    "id": 10,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "The dwarf nurses the very last drops ",
+    "line2": "of the pint as if he'd really like more. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "id": 11,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I be right back..",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "stage": 1,
+    "id": 12 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Ahhh, yer me besht mate... mate. ",
+    "next": 13,
+    "npcId": 4811
+  },
+  {
+    "id": 13 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "You're a good friend Rohak, do you think ",
+    "line2": "you could do me a favour? ",
+    "next": 14,
+    "npcId": 4811
+  },
+  {
+    "id": 14 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Fer you I'd... Id... shlide down a shlope ",
+    "line2": "of thishtlesh wif no 'elmet on! ",
+    "next": 15,
+    "npcId": 4811
+  },
+  {
+    "id": 15 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": " I don't need you to do that... friend. ",
+    "line2": "Just something as simple as baking me ",
+    "line3": "some of your wonderful rock cakes. Hmm? ",
+    "line4": "For your good friend? ",
+    "next": 16,
+    "npcId": 4811
+  },
+  {
+    "id": 16 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Fer you! Anyfin'! Fer a price of course! ",
+    "next": 17,
+    "npcId": 4811
+  },
+  {
+    "id": 17 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Good. I'm sure I have some gold somewhere! ",
+    "next": 18,
+    "npcId": 4811
+  },
+  {
+    "id": 18 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How much gold do you want to make the cake? ",
+    "next": 19,
+    "npcId": 4811
+  },
+  {
+    "id": 19 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "WHAT?! That wasn't a dream? Oh my aching ",
+    "line2": "head... ",
+    "next": 20,
+    "npcId": 4811
+  },
+  {
+    "id": 20 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "No, not a dream, you agreed to make me ",
+    "line2": "your special rock cake, for a fee. ",
+    "next": 21,
+    "npcId": 4811
+  },
+  {
+    "id": 21 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oh. ",
+    "next": 22,
+    "npcId": 4811
+  },
+  {
+    "id": 22 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "100 gold, no less! ",
+    "next": 23,
+    "npcId": 4811
+  },
+  {
+    "id": 23 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Also, you'll need to get the ingredients ",
+    "line2": "too. Milk, flour, egg and bowl of water, ",
+    "line3": "mind it's a bowl and not a dirty bucket. ",
+    "next": 24,
+    "npcId": 4811
+  },
+  {
+    "id": 24 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 25,
+    "npcId": 4811
+  },
+  {
+    "id": 25 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "You hand over 100 gold. ",
+    "next": 26,
+    "npcId": 4811
+  },
+  {
+    "id": 26 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I be right back.. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "stage": 2,
+    "id": 27 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Have you got all the items? ",
+    "next": 28,
+    "npcId": 4811
+  },
+  {
+    "id": 28 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 29,
+    "npcId": 4811
+  },
+  {
+    "id": 29 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "id": 30 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, not yet. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "id": 31 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes, I do. ",
+    "next": 32,
+    "npcId": 4811
+  },
+  {
+    "id": 32 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "You hand over the ingredients and watch ",
+    "line2": "the dwarf make the cake. ",
+    "next": 33,
+    "npcId": 4811
+  },
+  {
+    "id": 33 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": " There, as good as my word. Hot rock cakes ",
+    "line2": "to my special recipe. ",
+    "next": 34,
+    "npcId": 4811
+  },
+  {
+    "id": 34,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "stage": 4,
+    "id": 35 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Hello, do you want to purchase a dwarven ",
+    "line2": "rock cake? Only 1 million coins! ",
+    "next": 36,
+    "npcId": 4811
+  },
+  {
+    "id": 36 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 37,
+    "npcId": 4811
+  },
+  {
+    "id": 37 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Maybe another time.. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "id": 38 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes I do. ",
+    "next": 39,
+    "npcId": 4811
+  },
+  {
+    "id": 39 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "stage": 3,
+    "id": 40 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How can I help you? ",
+    "next": 41,
+    "npcId": 4811
+  },
+  {
+    "id": 41 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 42,
+    "npcId": 4811
+  },
+  {
+    "id": 42 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I lost the cake you made me, do you have ",
+    "line2": "another? ",
+    "next": 44,
+    "npcId": 4811
+  },
+  {
+    "id": 43 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, nothing.. ",
+    "next": -1,
+    "npcId": 4811
+  },
+  {
+    "id": 44 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes, I do, here.. ",
+    "next": 45,
+    "npcId": 4811
+  },
+  {
+    "id": 45 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 46,
+    "npcId": 4811
+  },
+  {
+    "id": 46 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "The dwarf hands you a cake. ",
+    "next": -1,
+    "npcId": 4811
+  }
+]

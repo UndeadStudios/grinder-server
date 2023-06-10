@@ -1,0 +1,377 @@
+[
+  {
+    "stage": 0,
+    "id": 0 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How can I help you ",
+    "next": 1,
+    "npcId": 4626
+  },
+  {
+    "id": 1 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I can't quite remember how I managed ",
+    "line2": "to save that pirate... ",
+    "next": 2,
+    "npcId": 4626
+  },
+  {
+    "id": 2 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "The pirate? Yes, you used fishcakes ",
+    "line2": "didn't you? ",
+    "next": 3,
+    "npcId": 4626
+  },
+  {
+    "id": 3 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I did? Er... I mean I did. ",
+    "next": 4,
+    "npcId": 4626
+  },
+  {
+    "id": 4 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Out of interest, could you just help ",
+    "line2": "me quickly with that? ",
+    "next": 5,
+    "npcId": 4626
+  },
+  {
+    "id": 5 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Can you tell me how to make fishcakes? ",
+    "next": 6,
+    "npcId": 4626
+  },
+  {
+    "id": 6 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Fishcakes? As in with fish eggs and fish ",
+    "line2": "milk? ",
+    "next": 7,
+    "npcId": 4626
+  },
+  {
+    "id": 7 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Don't be silly, that would never work. ",
+    "next": 8,
+    "npcId": 4626
+  },
+  {
+    "id": 8 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Can you check to see if there is a recipe ",
+    "line2": "for them? ",
+    "next": 9,
+    "npcId": 4626
+  },
+  {
+    "id": 9 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Of course. ",
+    "next": 10,
+    "npcId": 4626
+  },
+  {
+    "id": 10 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "The Chef checks one of his cookbooks. ",
+    "next": 11,
+    "npcId": 4626
+  },
+  {
+    "id": 11 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Found it! ",
+    "next": 12,
+    "npcId": 4626
+  },
+  {
+    "id": 12 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Apparently you need Ground Cod, Ground ",
+    "line2": "Kelp, Ground Giant Crab Meat and Breadcrumbs. ",
+    "next": 13,
+    "npcId": 4626
+  },
+  {
+    "id": 13 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What did I do with all of it? ",
+    "next": 14,
+    "npcId": 4626
+  },
+  {
+    "id": 14 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": " I'm not entirely sure. What am I, an encyclopedia? ",
+    "next": 15,
+    "npcId": 4626
+  },
+  {
+    "id": 15 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I'll have a look through my cookbook ",
+    "line2": "while I wait for the ingredients. ",
+    "next": 16,
+    "npcId": 4626
+  },
+  {
+    "id": 16 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Ok, I'll go out and get all of the stuff ",
+    "line2": "and bring it to you. ",
+    "next": 17,
+    "npcId": 4626
+  },
+  {
+    "id": 17 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Ok. ",
+    "next": 18,
+    "npcId": 4626
+  },
+  {
+    "id": 18 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 19,
+    "npcId": 4626
+  },
+
+  {
+    "stage": 1,
+    "id": 19 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello, do you have all the ingredients? ",
+    "next": 20,
+    "npcId": 4626
+  },
+  {
+    "id": 20 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 21,
+    "npcId": 4626
+  },
+  {
+    "id": 21 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No I do not, I be right back. ",
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "id": 22 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I have all the ingredients for fishcakes! ",
+    "next": 23,
+    "npcId": 4626
+  },
+  {
+    "id": 23 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Great! Just like before! I've been reading ",
+    "line2": "the recipe and I know how to make the fishcakes ",
+    "line3": "now. ",
+    "next": 24,
+    "npcId": 4626
+  },
+  {
+    "id": 24 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "It's pretty simple actually. All you ",
+    "line2": "have to do is use the ingredients on each ",
+    "line3": "other and then cook the fishcakes on ",
+    "line4": "a range. ",
+    "next": 25,
+    "npcId": 4626
+  },
+  {
+    "id": 25 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "That's it? ",
+    "next": 26,
+    "npcId": 4626
+  },
+  {
+    "id": 26 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Yes. I thought that there was a page missing ",
+    "line2": "from the cookbook because it seemed ",
+    "line3": "so easy, but it turns out it really IS ",
+    "line4": "that easy! Here you go..",
+    "next": 27,
+    "npcId": 4626
+  },
+  {
+    "id": 27 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 28,
+    "npcId": 4626
+  },
+  {
+    "stage": 1,
+    "id": 28 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Greetings, what would you like? ",
+    "next": 29,
+    "npcId": 5607
+  },
+  {
+    "id": 29 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 30,
+    "npcId": 5607
+  },
+  {
+    "id": 30 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "A diving apparatus set. ",
+    "next": -1,
+    "npcId": 5607
+  },
+  {
+    "id": 31 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I would like to go diving. ",
+    "next": 32,
+    "npcId": 5607
+  },
+  {
+    "id": 32 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 33,
+    "npcId": 5607
+  },
+  {
+    "stage": 2,
+    "id": 33 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How can I help you? ",
+    "next": 34,
+    "npcId": 4626
+  },
+  {
+    "id": 34 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 35,
+    "npcId": 4626
+  },
+  {
+    "id": 35 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, nothing.. ",
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "id": 36 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I lost the fishcake you gave me, do you ",
+    "line2": "have another? ",
+    "next": 37,
+    "npcId": 4626
+  },
+  {
+    "id": 37 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes, I do. Here.. ",
+    "next": 38,
+    "npcId": 4626
+  },
+  {
+    "id": 38 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 39,
+    "npcId": 4626
+  },
+  {
+    "id": 39 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "The cook gives you another fishcake. ",
+    "next": -1,
+    "npcId": 4626
+  }
+]

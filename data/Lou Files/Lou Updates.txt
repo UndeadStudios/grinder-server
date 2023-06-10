@@ -1,0 +1,156 @@
+General bug fixes:
+
+- Every single npc in game was gone through several tests to bring the precise (Attack Stats, Defence Stats, Hitpoints, Respawn timer, Weakness, etc)
+- Over 150 npc drops have been reworked from scratch, took weeks to finish.
+- Implemented a full virtual eco system with few tweaks that can help to keep the economy stabilized. (1 month of work)
+- Donators have a better chance of receiving jad pet by 10%!
+- Added mystery box rewards.
+- Added random casket drops with different tiers according to npc level.
+- Added server announcement when a boss is slayed.
+- Fixed boss contract minigame.
+- Added support for a system we can use to make price checker give the real market sell price of each item.
+- Items lost on death should work properly based on the item prices from osrs database. Note: Untradeables are not counted.
+- Examining an item shows the item value ONLY as death value. (Items kept on death highest prices are kept)
+- Donators feature to show max hits in equipments tab.
+- World announcements when someone reaches max level in a stat.
+- World announcements when someone reaches 50M, 100M, 150M, and 200M exp in a skill.
+- Added monkey guard healing effect.
+- Added wizard minb bomb custom effect for donators.
+- Added kamil boss full with kill count
+- Added Mutant tarn full with kill count
+- Added Ice queen full with kill count
+- Stalls are no longer empty to everyone when someone steals, only applied to you.
+- All stall timers are now equal.
+- Major npc combat bugs fixed. (Thanks to Jinrake)
+- Npc drop table now shows the real drop chances.
+- Many items are now tradeable such as (B gloves, Firecape, Fighter Torso, Dragon defender, and many more)
+- Presets has been removed.
+- Clicking on stat to level up has been removed and EXP has been introduced to every skill precisely.
+- Exclusive supplies store on certain training areas such as Experiments, Pak Yaks, Rock crabs, and Sand crabs!
+- Fixed all slayer tasks, redone some of the rewards and streaks.
+- Added a bank on every rune crafting altar.
+- Fishing spots for level 1 now work properly.
+- You can now pickup bananas from palm trees.
+- Fixed some missing npc examines.
+- Sceptre can now be assembled using all the necessary parts with direct boss teleports. The sceptre degrades after 6 uses. (pic)
+- Amulet of glory and ring of duel should work properly now.
+- Added custom item prices for over 50 items in shops.
+- All item prices are now proper scaled to OSRS.
+- Warriors guild minigame added.
+- Experiments have 0 defence and its very rare to hit a 0 on them.
+- RDT drops introduced which some npcs have a 15% chance of dropping an extra commonly used item in game.
+- Mystery boxes, Crystal chest, Caskets (Easy-Elite) rewards.
+- Mystery boxes are tradeable.
+- PIC OF CRYSTAL CHEST REWARDS ALL ITEMS IN BANK + PIC
+- Ring of wealth costs 50,000,000 in general store and can increase your rare chance drop rate by 10%
+- Added starter pack for new players.
+- Crystal chest will reward a total of 3 items, the first item is a guranteed rare item from the pool, the second item has 25% chance of being a rare item otherwise common item, the third item is coins from 0-600k
+- Task rewards redone. pic of rewards tokkul, blood money, and coins
+- Random items from stalls.
+- Fun PK area added.
+- Addded ::commands command
+- Cooking gauntlets & cooking skillcape reduces your chance of burning food.
+- Using the risk command will now count blood money as 3x price, and will not go above 2147m;
+- You can no longer use illegal characters in your passwords, passwords are no longer case sensitive.
+
+
+
+
+
+Pre-release bug fixes: Thanks for Lil pump, Isaac, and Vutr
+
+- Corp is now multi
+- Space to skip dialogues added
+- Sea troll queen is now in multi
+- D hally OP fixed
+- Crafting EXP reduced
+- Pets now follow you again
+- Thieving tasks giving crafting stall fixed and stalls dont exists fixed
+- icefiends slayer fixed
+- crocodiles teleport added + fixed tele location in slayer
+- you now get GP instead of blood money from completing an agility course
+- nechrayel drops fixed
+- visage + shield = dfs fixed
+- the untouchable stairs fixed
+- edge stairs bug fixed
+- ghost slayer tele for slayer is fixed
+- herbs prices increased for rannar and lantadyme
+- rock climbing boots in shop is now wearable
+- premium store prices redone
+- New items added to blood store
+- chat 3 times for lou fixed
+- npc spawning on location of death fixed
+- warriors guild items not spawning fixed
+- warriors guild tokens are not stackable fixed
+- you can no longer do emotes while on demon mode
+- over 35 new npc dialogues.
+- ourg bones are now buryable from BKT
+- crystal chest showing 3 items but you get 4 fixed
+- stall giving null fixed
+- onyx ring invisible fixed
+- 
+
+
+
+
+walk to npc fixed when dead
+1 following fixed
+2 npc sizes fixed
+3 npc attack distance fix
+4 npc walk over tiles fix
+5 npc movement status fix
+6 npc flickering 2x fix
+7 player attack distances fix
+8 tile controller fix
+9 walkTO ACTIONS fixed
+10 walkToActions
+11 npc block emote and walk FIX
+12 2tile on tile combat fixed
+13 npc size walk to fixed
+14 range combat and distance combat fix
+15 clipping fixes too
+17. private object timed task for thieving18. Fixed mage and range attack distance / movement following. Also added checks so that if the npc is retreating it will chase it back into spawn so the NPC will fight back once in spawn range.
+
+
+
+Future updates:
+
+1) Blood items disappear when u kill someone and instead they should give a reward.
+2) Perks or rewards when you achieve 50m, 100m, 150m, 200m in certain skills.
+4) Add custom stats for skillcapes
+5) add dragonfire shield special
+7) fix potion mixing dupe
+8) fix 2 bosses can be far-ranged or increase their magic attack distance
+
+- Add support for long hp bars
+- Add support for auto npc target switching
+- Add support for npcs sounds in def, and the other things from gs
+- Add the music special system support
+- Prevent xlog & add shutdownhook
+- Add proper participation points.
+- Add mystery box with right click that opens an interface of possible rewards which is loaded from server.
+- Add voting sortition where it keeps rolling then stops.
+- Add google auth, security code, bank pin
+- Add donator, super, extreme features, and their pools in the same locations as gs
+- Full resource area, godwars, all bosses, ai pk bots.
+- Cons, summoning, client settings, 
+- Need to add support for npcs stuff like maximum aggression range, agression timer, attack type, sounds, slayer exp, slayer name, default hit projectile
+
+
+Written bugs:
+
+
+- add proper ring of duel teleports, phoneix necklace effect, dragon fire shield charging special, combat bracelet teleports, slayer necklace teleports
+glory teleports, glory t, slayer rings teleport, crystal shield, crystal bow charges and recharging all can be done on same place for glory osrs, 
+
+- add mystery boxes rewards
+
+1) Avatars dont drop anything, redo all npcs drops
+3) Add the missing minigames
+4) Fix the walkback bug and npc animations bug
+5) Fix overload effect
+6) Add DFS special
+7) Make jad harder with stats, respawn..etc
+12) something has to do with npcs they keep flickering as if they are being refreshed every 0.6 seconds
+13) npc walking should be based on sizes, as well as following AND going back home
+14) weird bug happens sometimes when npc is going back home like the anims get to something weird for 0.1 second

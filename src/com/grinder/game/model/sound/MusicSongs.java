@@ -1,0 +1,141 @@
+package com.grinder.game.model.sound;
+
+public class MusicSongs {
+	public final static int ATTACK_LVL_UP = 217;
+	public final static int DEFENCE_LVL_UP = 208;
+	public final static int STRENGTH_LVL_UP = 235;
+	public final static int HITPOINTS_LVL_UP = 219;
+	public final static int RANGED_LVL_UP = 202;
+	public final static int PRAYER_LVL_UP = 211;
+	public final static int MAGIC_LVL_UP = 212;
+	public final static int COOKING_LVL_UP = 196;
+	public final static int WOODCUTTING_LVL_UP = 220;
+	public final static int FLETCHING_LVL_UP = 205;
+	public final static int FISHING_LVL_UP = 226;
+	public final static int FIREMAKING_LVL_UP = 199;
+	public final static int CRAFTING_LVL_UP = 231;
+	public final static int SMITHING_LVL_UP = 232;
+	public final static int SUMMOING_LVL_UP = 211;
+	public final static int MINING_LVL_UP = 227;
+	// 149 is a fucking nice music
+	public final static int HERBLORE_LVL_UP = 206;
+	public final static int AGILITY_LVL_UP = 207;
+	public final static int THIEVING_LVL_UP = 224;
+	public final static int SLAYER_LVL_UP = 230;
+	public final static int RUNECRAFTING_LVL_UP = 215;
+	public final static int DUEL_WIN = 221; //
+	public final static int Staff_area = 704; //
+	public final static int Between_falador_barbarian = 93;
+	public final static int Lumbridge = 76;
+	public final static int Jail = 87;
+	public final static int Barbarian = 141;
+	public final static int Greater = 163;
+	public final static int Barrows = 64;
+	public final static int VarrockDown = 144;
+	public final static int BVarrockL = 107;
+	public final static int Rockcrab = 109;
+	// public final static int Jungle = 115;
+	public final static int Jungle = 706; //
+	public final static int castleWars = 160;
+	public final static int lvl3 = 182;
+	public final static int SkillingArea = 177;
+	public final static int UVarrock = 60;
+	public static final int Godwars = 399;
+	public final static int Vbank = 125;
+	public final static int Disland = 151;
+	public final static int Corp = 450;
+	// public final static int Taverly = 17;
+	// public final static int Graardor = 26;
+	// public final static int Kree = 28;
+	public final static int Kingblackdragon = 28;
+	public final static int Karamja = 750;
+	public final static int Titan = 41;
+	public final static int Alone = 34;
+	public final static int Kharid = 36;
+	public final static int Kharid2 = 751; // real 751 is g.e
+	public final static int Duelling = 47;
+	public final static int Kolodion = 48;
+	public final static int BLDraynor = 49;
+	public final static int Underfal = 54;
+	public final static int Rimmigton = 57;
+	public final static int Brimhaven = 58;
+	// public final static int Ardougne = 191;
+	public final static int Zialo = 339;
+	public final static int Ice = 349;
+	public final static int Battle = 747;
+	public final static int RockCrab = 339;
+	public final static int Slash = 754;
+	public final static int MageBank = 156;
+	public final static int EDGEVILLE = 72; // 98 //400
+	public final static int EDGEVILLE_WILDERNESS = 169; // before it was 96
+	public final static int BETWEEN_CAMELOT_AND_CATHERBY = 104;
+	public final static int CAMELOT = 7;
+	public final static int Falador = 72;
+	public final static int CATHERBY = 74;
+	// public final static int Yanille = 18;
+	// public final static int Varrock = 2; //begining music
+	public final static int Varrock = 175;
+	public final static int MID_WILDERNESS = 326;
+	public final static int DEEPER_WILDERNESS = 337;
+	public final static int VARROCK_WILDERNESS = 177;
+	public final static int KaramjaLessers = 700;
+	public final static int Monsatary = 701;
+	public final static int ShiloVillage = 702;
+	public final static int ScorpionPit = 703;
+	public final static int Mime = 704;
+	public final static int BattleField = 705;
+	public final static int PoisonSpiders = 707;
+	public final static int KhazardFightarena = 708;
+	public final static int BrimhavenAgility = 709;
+	public final static int SouthArdougne = 710;
+	public final static int BanditCamp = 711;
+	public final static int MarketPlace = 104;
+	public final static int EastArd = 713;
+	public final static int EastYanille = 18;
+	public final static int WestYanille = 714;
+	public final static int Moritania = 715;
+	public final static int SmokeTunnels = 716;
+	public final static int LumbridgeSpawmp = 717;
+	public final static int CaslteWarsArea = 718;
+	public final static int DravenMines = 719;
+	public final static int SlayerCave = 720;
+	public final static int EasternWilderness = 721;
+	public final static int VarrockDeugeon1 = 722;
+	public final static int SouthPyramid = 723;
+	public final static int RedSpidersArea = 724;
+	public final static int BurthopeGamesRoom = 725;
+	public final static int ChoasAltar = 726;
+	public final static int Taverly = 727;
+	public final static int Draynor = 728;
+	public final static int EastMorton = 729;
+	public final static int Edgevillage3 = 730;
+	public final static int UnderBarrows = 731;
+	public final static int UnderWater = 732;
+	public final static int Graveyard = 733;
+	public final static int Canifis = 734;
+	public final static int SlayerTower = 735;
+	public final static int Nineto15 = 736;
+	public final static int Pollivanch = 737;
+	public final static int CookingGuild = 738;
+	public final static int EarthAltar = 739;
+	public final static int Egypt = 740;
+	// public final static int Evilbob = 741;
+	public final static int EastCatherby = 741;
+	public final static int Lumbridgeyard = 742;
+	public final static int Pestcontrol = 743;
+	public final static int Tutarea = 744;
+	public final static int Southfalador = 745;
+	public final static int Pestfight = 746;
+	public final static int Westard = 748;
+	public final static int Tzhaar = 752;
+	
+	// public final static int EastDragons = 520;
+	private static final int[] lvlUpSongs = { ATTACK_LVL_UP, DEFENCE_LVL_UP, STRENGTH_LVL_UP, HITPOINTS_LVL_UP, RANGED_LVL_UP, PRAYER_LVL_UP, MAGIC_LVL_UP, COOKING_LVL_UP, WOODCUTTING_LVL_UP, FLETCHING_LVL_UP, FISHING_LVL_UP, FIREMAKING_LVL_UP, CRAFTING_LVL_UP, SMITHING_LVL_UP, MINING_LVL_UP, HERBLORE_LVL_UP, AGILITY_LVL_UP, THIEVING_LVL_UP, SLAYER_LVL_UP, RUNECRAFTING_LVL_UP, SUMMOING_LVL_UP, SUMMOING_LVL_UP, SUMMOING_LVL_UP, SUMMOING_LVL_UP };
+	
+	public static int getLevelUpSong(final int skillID) {
+		if (skillID < lvlUpSongs.length)
+			return lvlUpSongs[skillID];
+		return -1;
+	}
+	
+}

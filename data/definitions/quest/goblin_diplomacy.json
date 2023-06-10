@@ -1,0 +1,626 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "I tell all goblins in village to wear green armour now!",
+        "next": 1,
+        "npcId": 670
+    },
+    {
+        "id": 1,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 2,
+        "line1": "They not listen to you! I already tell them wear red",
+        "line2": "armour!",
+        "next": 2,
+        "npcId": 669
+    },
+    {
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 2,
+        "line1": "They listen to me not you! They know me bigger",
+        "line2": "general!",
+        "next": 3,
+        "npcId": 670
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "Me bigger general! They listen to me!",
+        "next": 4,
+        "npcId": 669
+    },
+    {
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "Human! What colour armour they wearing out there?",
+        "next": 5,
+        "npcId": 670
+    },
+    {
+        "id": 5,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Half of them are wearing red and half of them green.",
+        "anim": "CALM",
+        "next": 6
+    },
+    {
+        "id": 6,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 2,
+        "line1": "Shut up human! They wearing green armour really!",
+        "line2": "Human lying because he scared of you!",
+        "next": 7,
+        "npcId": 670
+    },
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 2,
+        "line1": "Human scared of me not you! Then you think me",
+        "line2": "bigger general!",
+        "next": 8,
+        "npcId": 669
+    },
+    {
+        "id": 8,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "What? Me mean...",
+        "next": 9,
+        "npcId": 670
+    },
+    {
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "Shut up! Me bigger general!",
+        "next": 11,
+        "npcId": 670
+    },
+    {
+        "id": 10,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Why are you arguing about the colour of your armour?",
+        "line2": "Wouldn't you prefer peace?",
+        "line3": "Do you want me to pick an armour colour for you?",
+        "next": -1
+    },
+    {
+        "id": 11,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Do you want me to pick an armour colour for you?",
+        "next": 12
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Yes as long as you pick green.",
+        "next": 13,
+        "npcId": 669
+    },
+    {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "No you have to pick red!",
+        "next": 15,
+        "npcId": 670
+    },
+    {
+        "id": 14,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "You should wear red",
+        "line2": "You should wear green",
+        "line3": "What about a different colour?",
+        "next": -1
+    },
+    {
+        "id": 15,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "What about a different colour? Not green or red?",
+        "next": 16
+    },
+    {
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "That would mean me wrong... but at least Wartface",
+        "line2": "not right!",
+        "next": 17,
+        "npcId": 669
+    },
+    {
+        "id": 17,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 2,
+        "line1": "Me dunno what that look like. Have to see armour",
+        "line2": "before we decide.",
+        "next": 18,
+        "npcId": 669
+    },
+    {
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Human! You bring us armour in new colour!",
+        "next": 19,
+        "npcId": 670
+    },
+     {
+        "id": 19,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What colour we try?",
+        "next": 20,
+        "npcId": 670
+    },
+    {
+        "id": 20,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Orange armour might be good.",
+        "next": 21,
+        "npcId": 669
+    },
+    {
+        "id": 21,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yep bring us orange armour.",
+        "next": 22,
+        "npcId": 669
+    },
+    {
+        "id": 22,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 669
+    },
+    {
+    	"stage": 1,
+        "id": 23,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Red armour best.",
+        "next": 24,
+        "npcId": 669
+    },
+    {
+        "id": 24,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No it has to be green!",
+        "next": 25,
+        "npcId": 670
+    },
+    {
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Go away human, we busy.",
+        "next": 26,
+        "npcId": 669
+    },
+    {
+        "id": 26,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 669
+    },
+    {
+        "id": 27,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I be right back..",
+        "next": -1
+    },
+    {
+        "id": 28,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I have some orange armour here.",
+        "next": 30
+    },
+    {
+        "id": 29,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I have some orange armour here.",
+        "next": 30
+    },
+    {
+        "id": 30,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grubfoot!",
+        "next": 31,
+        "npcId": 670
+    },
+    {
+        "id": 31,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yes General Wartface sir?",
+        "next": 32,
+        "npcId": 671
+    },
+    {
+        "id": 32,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Put on this armour!",
+        "next": 33,
+        "npcId": 670
+    },
+    {
+        "id": 33,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    },
+    {
+        "id": 34,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What do you think?",
+        "next": 35,
+        "npcId": 671
+    },
+    {
+        "id": 35,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No I don't like that much.",
+        "next": 36,
+        "npcId": 670
+    },
+    {
+        "id": 36,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "It clashes with skin colour.",
+        "next": 37,
+        "npcId": 669
+    },
+    {
+        "id": 37,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "We need darker colour, like blue.",
+        "next": 38,
+        "npcId": 670
+    },
+    {
+        "id": 38,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yeah blue might be good.",
+        "next": 39,
+        "npcId": 669
+    },
+    {
+        "id": 39,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Human! Get us blue armour!",
+        "next": 40,
+        "npcId": 670
+    },
+    {
+        "id": 40,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    },
+    {
+    	"stage": 2,
+        "id": 41,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Red armour best.",
+        "next": 42,
+        "npcId": 670
+    },
+    {
+    	
+        "id": 42,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, it has to be green!",
+        "next": 43,
+        "npcId": 669
+    },
+    {
+    	
+        "id": 43,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Go away, human, we busy.",
+        "next": 44,
+        "npcId": 669
+    },
+    {
+        "id": 44,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    },
+    {
+        "id": 45,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why are you arguing about the colour of your armour?",
+        "next": -1
+    },
+    {
+        "id": 46,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have some blue armour here.",
+        "next": 47,
+        "npcId": 671
+    },
+    {
+        "id": 47,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grubfoot!",
+        "next": 48,
+        "npcId": 670
+    },
+    {
+        "id": 48,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yes General Wartface sir?",
+        "next": 49,
+        "npcId": 671
+    },
+    {
+        "id": 49,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Put on this armour!",
+        "next": 50,
+        "npcId": 670
+    },
+    {
+        "id": 50,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What do you think?",
+        "next": 51,
+        "npcId": 671
+    },
+    {
+        "id": 51,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "That not right. Not goblin colour at all.",
+        "next": 52,
+        "npcId": 670
+    },
+    {
+        "id": 52,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Goblins wear dark earthy colours like brown.",
+        "next": 53,
+        "npcId": 669
+    },
+    {
+        "id": 53,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yeah brown might be good.",
+        "next": 54,
+        "npcId": 670
+    },
+    {
+        "id": 54,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Human! Get us brown armour!",
+        "next": 55,
+        "npcId": 670
+    },
+    {
+        "id": 55,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I thought that was were changing from. Never mind,",
+        "line2": "anything is worth a try.",
+        "next": 56,
+        "npcId": 670
+    },
+    {
+        "id": 56,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    },
+     {
+    	"stage": 3,
+        "id": 57,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Red armour best.",
+        "next": 58,
+        "npcId": 670
+    },
+    {
+    	
+        "id": 58,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, it has to be green!",
+        "next": 59,
+        "npcId": 669
+    },
+    {
+    	
+        "id": 59,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Go away, human, we busy.",
+        "next": 60,
+        "npcId": 669
+    },
+    {
+        "id": 60,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    },
+    {
+        "id": 61,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Why are you arguing about the colour of your armour?",
+        "line2": "Wouldn't you prefer peace?",
+        "line3": "I have some brown armour here.",
+        "next": -1
+    },
+    {
+        "id": 62,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have some brown armour here.",
+        "next": 63,
+        "npcId": 670
+    },
+    {
+        "id": 63,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grubfoot!",
+        "next": 64,
+        "npcId": 670
+    },
+    {
+        "id": 64,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yes General Wartface sir?",
+        "next": 65,
+        "npcId": 671
+    },
+    {
+        "id": 65,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Put on this armour!",
+        "next": 66,
+        "npcId": 670
+    },
+    {
+        "id": 66,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What do you think?",
+        "next": 67,
+        "npcId": 671
+    },
+    {
+        "id": 67,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "That colour quite nice. Me can see myself wearing that.",
+        "next": 68,
+        "npcId": 670
+    },
+    {
+        "id": 68,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "It a deal then. Brown armour it is.",
+        "next": 69,
+        "npcId": 669
+    },
+    {
+        "id": 69,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Thank you for sorting out our argument.",
+        "line2": "Take these gold bars as a reward!",
+        "next": 70,
+        "npcId": 670
+    },
+    {
+        "id": 70,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 670
+    }
+]

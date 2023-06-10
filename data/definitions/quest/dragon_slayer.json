@@ -1,0 +1,929 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Greetings bold adventurer. Welcome ",
+    "line2": "to the guild of Champions. ",
+    "next": 1,
+    "npcId": 814
+  },
+  {
+    "id": 1,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "What is this place?",
+    "anim": "CALM",
+    "next": 2
+  },
+  {
+    "id": 2,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "This is the Champions' Guild. Only adventurers ",
+    "line2": "who have proved themselves worthy by ",
+    "line3": "gaining influence from quests are allowed ",
+    "line4": "in here. ",
+    "anim": "CALM",
+    "next": 3,
+    "npcId": 814
+  },
+  {
+    "id": 3,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Can I have a quest?",
+    "anim": "CALM",
+    "next": 4
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Aha! Yes! A mighty and perilous quest ",
+    "line2": "fit for the most powerful champions! ",
+    "line3": "And, at the end of it, you will earn the ",
+    "line4": "right to wear the legendary rune platebody! ",
+    "anim": "CALM",
+    "next": 5,
+    "npcId": 814
+  },
+  {
+    "id": 5,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 6,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "So, what is this quest?",
+    "anim": "CALM",
+    "next": 7
+  },
+  {
+    "id": 7,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "You'll have to speak to Oziach, the maker ",
+    "line2": "of rune armour. He sets the quests that ",
+    "line3": "champions must complete in order to ",
+    "line4": "wear it. Oziach lives in a hut by the cliffs ",
+    "anim": "CALM",
+    "next": 8,
+    "npcId": 814
+  },
+  {
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "lines": 2,
+    "line1": "to the west of Edgeville. He can be a little ",
+    "line2": "... odd ... sometimes, though. ",
+    "anim": "CALM",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "stage": 1,
+    "id": 9,
+    "type": "NPC_STATEMENT",
+    "lines": 1,
+    "line1": "Aye, 'tis a fair day my friend!",
+    "anim": "CALM",
+    "next": 10,
+    "npcId": 822
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Can you sell me a rune platebody?",
+    "anim": "CALM",
+    "next": 11
+  },
+  {
+    "id": 11,
+    "type": "NPC_STATEMENT",
+    "lines": 1,
+    "line1": "So, how does thee know I 'ave some?",
+    "anim": "CALM",
+    "next": 12,
+    "npcId": 822
+  },
+  {
+    "id": 12,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "The Guildmaster of the Champion's Guild told me.",
+    "anim": "CALM",
+    "next": 13
+  },
+  {
+    "id": 13,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Yes, I suppose he would, wouldn't he? ",
+    "line2": "He's always sending you fancy-pants ",
+    "line3": "'heroes' up to bother me. Telling me ",
+    "line4": "I'll give them a quest or sommat like..",
+    "anim": "CALM",
+    "next": 14,
+    "npcId": 822
+  },
+  {
+    "id": 14,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "that. Well, I'm not going to let just ",
+    "line2": "anyone wear my rune platemail. It's ",
+    "line3": "only for heroes. So leave me alone. ",
+    "anim": "CALM",
+    "next": 15,
+    "npcId": 822
+  },
+  {
+    "id": 15,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I thought you were going to give me a quest.",
+    "anim": "CALM",
+    "next": 16
+  },
+  {
+    "id": 16,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "*sigh* All right, I'll give ye a quest. ",
+    "line2": "I'll let ye wear my rune platemail if ",
+    "line3": "ye.. Slay the dragon of Crandor! ",
+    "anim": "CALM",
+    "next": 17,
+    "npcId": 822
+  },
+  {
+    "id": 17,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": " A dragon, that sounds like fun.",
+    "anim": "CALM",
+    "next": 18
+  },
+  {
+    "id": 18,
+    "type": "NPC_STATEMENT",
+    "lines": 3,
+    "line1": "Hah, yes, you are a typical reckless ",
+    "line2": "adventurer, aren't you? Now go kill ",
+    "line3": "the dragon and get out of my face. ",
+    "anim": "CALM",
+    "next": 19,
+    "npcId": 822
+  },
+  {
+    "id": 19,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "But how can I defeat the dragon?",
+    "anim": "CALM",
+    "next": 20
+  },
+  {
+    "id": 20,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "Go talk to the Guildmaster in the Champions' ",
+    "line2": "Guild. He'll help ye out if yet so keen ",
+    "line3": "on doing a quest. I'm not going to be handholding ",
+    "line4": "any adventurers. ",
+    "anim": "CALM",
+    "next": 21,
+    "npcId": 822
+  },
+  {
+    "id": 21,
+    "type": "QUEST_STAGE",
+    "next": -1
+  },
+  {
+    "stage": 2,
+    "id": 22,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Greetings!",
+    "next": 23,
+    "npcId": 814
+  },
+  {
+    "id": 23,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "I talked to Oziach ... and he gave me a quest.",
+    "anim": "CALM",
+    "next": 24
+  },
+  {
+    "id": 24,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oh? What did he tell you to do?",
+    "next": 25,
+    "npcId": 814
+  },
+  {
+    "id": 25,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Defeat the dragon of Crandor.",
+    "next": 26,
+    "npcId": 814
+  },
+  {
+    "id": 26,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "The dragon of Crandor?",
+    "next": 27,
+    "npcId": 814
+  },
+  {
+    "id": 27,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Um, yes ...",
+    "next": 28,
+    "npcId": 814
+  },
+  {
+    "id": 28,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Goodness, he hasn't given you an easy ",
+    "line2": "job, has he? ",
+    "next": 29,
+    "npcId": 814
+  },
+  {
+    "id": 29,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What's so special about this dragon? ",
+    "next": 30,
+    "npcId": 814
+  },
+  {
+    "id": 30,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "If you're serious about taking on Elvarg, ",
+    "line2": "first you'll need to get to Crandor. ",
+    "line3": "The island is surrounded by dangerous reefs..",
+    "next": 31,
+    "npcId": 814
+  },
+  {
+    "id": 31,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": " so you'll need a ship capable of getting ",
+    "line2": "through them and a map to show you the ",
+    "line3": "way. When you reach Crandor, you'll ",
+    "line4": "also need some kind of protection against..",
+    "next": 32,
+    "npcId": 814
+  },
+  {
+    "id": 32,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": " the dragon's breath.",
+    "next": 33,
+    "npcId": 814
+  },
+  {
+    "id": 33,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "How can I find the route to Crandor?",
+    "next": 34,
+    "npcId": 814
+  },
+  {
+    "id": 34,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Only one map exists that shows the route ",
+    "line2": "through the reefs of Crandor. The map ",
+    "line3": "was split into three pieces by Melzar, ",
+    "line4": "Thalzar, and Lozar, the wizards who ",
+    "next": 35,
+    "npcId": 814
+  },
+  {
+    "id": 35,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "escaped form the dragon. Each of them ",
+    "line2": "took one piece. ",
+    "next": 36,
+    "npcId": 814
+  },
+  {
+    "id": 36,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Where is Melzar's map piece?",
+    "next": 37,
+    "npcId": 814
+  },
+  {
+    "id": 37,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "escaped form the dragon. Each of them ",
+    "line2": "took one piece. ",
+    "next": 38,
+    "npcId": 814
+  },
+  {
+    "id": 38,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Where is Melzar's map piece?",
+    "next": 39,
+    "npcId": 814
+  },
+  {
+    "id": 39,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Melzar built a castle on the site of the ",
+    "line2": "Crandorian refugee camp, north of Rimmington. ",
+    "line3": "He's locked himself in there and no one's ",
+    "line4": "seen him for years. The inside of his ",
+    "next": 40,
+    "npcId": 814
+  },
+  {
+    "id": 40,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "his castle is like a maze, and is populated ",
+    "line2": "by undead monsters. Maybe, if you could ",
+    "line3": "get all the way through the maze, you ",
+    "line4": "could find his piece of the map. ",
+    "next": 41,
+    "npcId": 814
+  },
+  {
+    "id": 41,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Adventurers sometimes go in there to ",
+    "line2": "prove themselves, so I can give you this ",
+    "line3": "key to Melzar's Maze. ",
+    "next": 42,
+    "npcId": 814
+  },
+  {
+    "id": 42,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 43,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "The Guildmaster hands you a key. ",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "stage": 3,
+    "id": 44,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "So, are you interested in buying a ship? ",
+    "line2": "Now, I'll be straight with you: She's ",
+    "line3": "not quite seaworthy right now, but give ",
+    "line4": "her a bit of work and she'll be the nippiest..",
+    "next": 45,
+    "npcId": 819
+  },
+  {
+    "id": 45,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "ship this side of Port Khazard. ",
+    "next": 46,
+    "npcId": 819
+  },
+  {
+    "id": 46,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Do you know when she will be seaworthy? ",
+    "next": 47,
+    "npcId": 814
+  },
+  {
+    "id": 47,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "No, not really. Port Sarim's shipbuilders ",
+    "line2": "aren't very efficient so it could be ",
+    "line3": "quite a while. ",
+    "next": 48,
+    "npcId": 819
+  },
+  {
+    "id": 48,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 49,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I'd like to buy her.",
+    "next": 50,
+    "npcId": 814
+  },
+  {
+    "id": 50,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Of course! I'm sure the work needed to ",
+    "line2": "do on it wouldn't be too expensive. How ",
+    "line3": "does 2,000 gold sound? I'll even throw ",
+    "line4": "in my cabin boy, Jenkins, for free! He'll ",
+    "next": 51,
+    "npcId": 819
+  },
+  {
+    "id": 51,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "swab the decks and splice the mainsails ",
+    "line2": "for you! ",
+    "next": 52,
+    "npcId": 819
+  },
+  {
+    "id": 52,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 53,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I be right back..",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 54,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Here you go!",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "stage": 4,
+    "id": 55,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Hello, captain! Here to inspect your ",
+    "line2": "new ship? Just a little work and she'll ",
+    "line3": "be seaworthy again. ",
+    "next": 56,
+    "npcId": 819
+  },
+  {
+    "id": 56,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": " So, what needs fixing on the ship?",
+    "next": 57,
+    "npcId": 814
+  },
+  {
+    "id": 57,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Well, the big gaping hole in the hold ",
+    "line2": "is the problem. You'll need a few wooden ",
+    "line3": "planks hammered in with steel nails ",
+    "line4": "to fix it. ",
+    "next": 58,
+    "npcId": 819
+  },
+  {
+    "id": 58,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Bring them to me and I'll fix it.",
+    "next": 59,
+    "npcId": 819
+  },
+  {
+    "id": 59,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 819
+  },
+  {
+    "stage": 5,
+    "id": 60,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Have you got the materials I asked for?",
+    "next": 61,
+    "npcId": 819
+  },
+  {
+    "id": 61,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 819
+  },
+  {
+    "id": 62,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "No, I be right back..",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 63,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes I do, here..",
+    "next": 64,
+    "npcId": 814
+  },
+  {
+    "id": 64,
+    "type": "QUEST_STAGE",
+    "next": 64,
+    "npcId": 814
+  },
+  {
+    "id": 65,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "You give the sailor wooden planks and steel nails..",
+    "next": 66,
+    "npcId": 814
+  },
+  {
+    "id": 66,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "He quickly fixes the ship.",
+    "next": 67,
+    "npcId": 814
+  },
+  {
+    "stage": 6,
+    "id": 67,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What d'ye think of yer ship then? ",
+    "next": 68,
+    "npcId": 819
+  },
+  {
+    "id": 68,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Can you sail this ship to Crandor?",
+    "next": 69,
+    "npcId": 814
+  },
+  {
+    "id": 69,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Not me, sir! I'm just an 'umble cabin ",
+    "line2": "boy. You'll need a proper cap'n. ",
+    "next": 70,
+    "npcId": 819
+  },
+  {
+    "id": 70,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Where can I find a captain?",
+    "next": 71,
+    "npcId": 814
+  },
+  {
+    "id": 71,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "The cap'ns round 'ere seem to be a mite ",
+    "line2": "scared of Crandor. I ask 'em why and they ",
+    "line3": "just say it was afore my time. But there ",
+    "line4": "is one cap'n I reckon might 'elp. ",
+    "next": 72,
+    "npcId": 819
+  },
+  {
+    "id": 72,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "I 'eard there's a retured 'un who lives ",
+    "line2": "in Draynor Village who's so desperate ",
+    "line3": "to sail again 'e'd take any job. I can't ",
+    "line4": "remember 'is name, but 'e lives in Draynor ",
+    "next": 73,
+    "npcId": 819
+  },
+  {
+    "id": 73,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Village an' makes rope.",
+    "next": -1,
+    "npcId": 819
+  },
+  {
+    "stage": 6,
+    "id": 74,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Why, hello there, lad. Me friends ",
+    "line2": "call me Ned. I was a an of the sea, but it's ",
+    "line3": "past me now. Could I be making or selling ",
+    "line4": "you some rope? ",
+    "next": 75,
+    "npcId": 4280
+  },
+  {
+    "id": 75,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "line4": "you some rope? ",
+    "lines": 2,
+    "line1": "You're a sailor? Could you take me to ",
+    "line2": "the island of Crandor? ",
+    "next": 76,
+    "npcId": 814
+  },
+  {
+    "id": 76,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Well, I was a sailor. I've not been able ",
+    "line2": "to get work at sea these days though. ",
+    "line3": "They say I'm too old. Sorry, where was ",
+    "line4": "it you said you wanted to go? ",
+    "next": 77,
+    "npcId": 4280
+  },
+  {
+    "id": 77,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "To the island of Crandor. ",
+    "next": 78,
+    "npcId": 814
+  },
+  {
+    "id": 78,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Crandor? But ... It would be a chance ",
+    "line2": "to sail a ship once more. I'd sail anywhere ",
+    "line3": "if it was a chance to sail again. Then ",
+    "line4": "again, no captain in his right mind would ",
+    "next": 79,
+    "npcId": 4280
+  },
+  {
+    "id": 79,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "sail to that island. Ah, you only live ",
+    "line2": "once! I'll do it! So, where's your ship? ",
+    "next": 80,
+    "npcId": 4280
+  },
+  {
+    "id": 80,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "It's the Lady Lumbridge, in Port Sarim.",
+    "next": 81,
+    "npcId": 814
+  },
+  {
+    "id": 81,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "That old pile of junk? Last I head, she ",
+    "line2": "wasn't seaworthy. ",
+    "next": 82,
+    "npcId": 4280
+  },
+  {
+    "id": 82,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I fixed her up.",
+    "next": 83,
+    "npcId": 814
+  },
+  {
+    "id": 83,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "You did? Excellent! Just show me the ",
+    "line2": "map and we can get ready to go! ",
+    "next": 84,
+    "npcId": 4280
+  },
+  {
+    "id": 84,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Here you go.",
+    "next": 85,
+    "npcId": 814
+  },
+  {
+    "id": 85,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 86,
+    "type": "STATEMENT",
+    "lines": 1,
+    "line1": "You hand the map to Ned.",
+    "next": 87,
+    "npcId": 814
+  },
+  {
+    "id": 87,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Excellent! I'll meet you at the ship, ",
+    "line2": "then. ",
+    "next": -1,
+    "npcId": 4280
+  },
+  {
+    "stage": 8,
+    "id": 88,
+    "type": "NPC_STATEMENT",
+    "lines": 1,
+    "line1": " Have ye slayed that dragon yet?",
+    "anim": "CALM",
+    "next": 89,
+    "npcId": 822
+  },
+  {
+    "id": 89,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes, I have!",
+    "next": 90,
+    "npcId": 814
+  },
+  {
+    "id": 90,
+    "type": "NPC_STATEMENT",
+    "lines": 4,
+    "line1": "You actually did it? I underestimated ",
+    "line2": "ye, adventurer. I apologise. Yer a true ",
+    "line3": "hero, and I'd be happy to sell ye rune ",
+    "line4": "platebodies. ",
+    "anim": "CALM",
+    "next": 91,
+    "npcId": 822
+  },
+  {
+    "id": 91,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 822
+  },
+  {
+    "stage": 3,
+    "id": 92 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello. How can I help? ",
+    "next": 93,
+    "npcId": 814
+  },
+  {
+    "id": 93 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 94,
+    "npcId": 814
+  },
+  {
+    "id": 94 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I lost the maze key you gave me. ",
+    "next": 96,
+    "npcId": 814
+  },
+  {
+    "id": 95 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "THINKING",
+    "lines": 1,
+    "line1": "Nothing, I will see you soon.. ",
+    "next": -1,
+    "npcId": 814
+  },
+  {
+    "id": 96 ,
+    "type": "QUEST_STAGE",
+    "anim": "THINKING",
+    "lines": 0,
+    "next": 97,
+    "npcId": 814
+  },
+  {
+    "id": 97 ,
+    "type": "STATEMENT",
+    "anim": "THINKING",
+    "lines": 1,
+    "line1": "The guildmaster gives you another key. ",
+    "next": -1,
+    "npcId": 814
+  }
+]

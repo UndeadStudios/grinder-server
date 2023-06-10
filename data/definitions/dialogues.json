@@ -1,0 +1,5994 @@
+[
+    {
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hello. What do you need?",
+        "next": 1,
+        "npcId": 315
+    },
+    {
+        "id": 1,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Open Shop.",
+        "line2": "Sell Emblems.",
+        "line3": "Skull me.",
+        "line4": "Cancel.",
+        "next": -1,
+        "npcId": 315
+    },
+	{
+        "id": 2,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "There we go.",
+		"line2": "Now, make sure not to die.",
+        "next": -1,
+        "npcId": 315
+    },
+	{
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You are already skulled..",
+        "next": -1,
+        "npcId": 315
+    },
+	{
+        "id": 4,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Thanks, adventurer..",
+		"line2": "You've received some blood money.",
+		"line3": "Spend it wisely.",
+        "next": -1,
+        "npcId": 315
+    },
+	{
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You don't have any emblems",
+		"line2": "in your inventory...",
+        "next": -1,
+        "npcId": 315
+    },
+    {
+        "id": 6,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "You don't have a clan chat channel. Create one?",
+        "next": 300
+    },
+    {
+        "id": 7,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes.",
+        "line2": "No.",
+        "next": -1
+    },
+    {
+        "id": 8,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Normal Spellbook.",
+        "line2": "Ancient Spellbook.",
+		"line3": "Lunar Spellbook.",
+		"line4": "Cancel.",
+        "next": -1
+    },
+	{
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "This magical scroll will unlock the respective",
+		"line2": "Prayer for you. The scroll will then be",
+		"line3": "deleted afterwards. Do you want to continue?",
+        "next": 7,
+        "npcId": 315
+    },
+	{
+        "id": 10,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "That preset slot is empty. Create a new one in its place?",
+        "next": 7
+    },
+    {
+        "id": 11,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Change name.",
+        "line2": "Update items.",
+		"line3": "Update stats/spellbook.",
+		"line4": "Delete preset.",
+		"line5": "Cancel.",
+        "next": -1
+    },
+	{
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "This magical scroll will unlock the",
+		"line2": "'Teleport to Target' spell. It will then be",
+		"line3": "deleted afterwards. Do you want to continue?",
+        "next": 7,
+        "npcId": 315
+    },
+	{
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Warning! You have valuable items on you.",
+		"line2": "Loading a preset will wipe out both your",
+		"line3": "inventory and equipment. Are you sure",
+		"line4": "you want to continue?",
+        "next": 7,
+        "npcId": 315
+    },
+	{
+        "id": 14,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Warning! Are you sure you want to do that?",
+		"line2": "It may lead you into deep Wilderness!",
+        "next": 7,
+        "npcId": 315
+    },
+	{
+        "id": 15,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Hello there. I'm here to give players their rewards",
+		"line2": "by redeeming their vote or purchase.",
+		"line3": "You can use ::claim command to redeem a purchase",
+		"line4": "and ::redeemvote command to redeem your votes.",
+        "next": 2535,
+        "npcId": 3310
+    },
+	{
+        "id": 16,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Your purchase has been processed succesfully!",
+		"line2": "Thank you for supporting Grinderscape!",
+        "next": -1,
+        "npcId": 3310
+    },
+	{
+        "id": 17,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Pfft. I could not find anything in the",
+		"line2": "database. You better run away before",
+		"line3": "I call one of those bots after you!",
+        "next": -1,
+        "npcId": 3310
+    },
+	{
+        "id": 18,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I've sent a request to check upon your purchase.",
+		"line2": "If it is found, you will receive your items shortly.",
+        "next": -1,
+        "npcId": 3310
+    },
+	{
+        "id": 19,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Do you have any items that need repairing",
+		"line2": "or upgrading? I'll do it for a fairly low price.",
+        "next": 2630,
+        "npcId": 7456
+    },
+	{
+        "id": 20,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No you don't.",
+		"line2": "Stop wasting my time.",
+        "next": -1,
+        "npcId": 7456
+    },
+	{
+        "id": 21,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Pleasure doing business with you!",
+        "next": -1,
+        "npcId": 7456
+    },
+    {
+        "id": 22,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "White Skull.",
+        "line2": "Red Skull (Protect Item Disabled).",
+		"line3": "Cancel.",
+        "next": -1
+    },
+	{
+        "id": 23,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You're on your own now JalYt, prepare to fight for",
+        "line2": "your life!",
+        "next": -1,
+        "npcId": 2180
+    }, 
+    {
+        "id": 24,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Better luck next time JalYt.",
+        "next": -1,
+        "npcId": 2180
+    },
+    {
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You defeated TzTok-Jad, I am most impressed!",
+        "line2": "Please accept this gift.",
+        "next": -1,
+        "npcId": 2180
+    },
+    {
+        "id": 26,
+        "next": 2523,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "You've found a hidden tunnel! Would you like to enter?"
+    },
+	{
+        "id": 123,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Got any sigils for me?",
+        "next": 124,
+        "npcId": 318
+    },
+    {
+        "id": 3001,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Would you like to go to the chest?",
+        "line2": "Maybe later.",
+        "next": -1
+    },
+	{
+        "id": 124,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "The Core shakes its head.",
+        "next": 125,
+        "npcId": 318
+    },
+	{
+        "id": 125,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Damnit Core-al!",
+        "line2": "Let's bounce.",
+        "next": -1,
+        "npcId": 318
+    },
+	{
+        "id": 126,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "It's a damn good thing I don't have arachnophobia.",
+        "next": 127,
+        "npcId": 495
+    },
+	{
+        "id": 127,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "We're misunderstood. Without us in your house,",
+        "line2": "you'd be infested with flies and other REAL nasties.",
+        "next": 128,
+        "npcId": 495
+    },
+	{
+        "id": 128,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Thanks for that enlightening fact.",
+        "next": 129,
+        "npcId": 495
+    },
+	{
+        "id": 129,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Everybody gets one.",
+        "next": -1,
+        "npcId": 495
+    },
+	{
+        "id": 130,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why the grizzly face?",
+        "next": 131,
+        "npcId": 497
+    },
+	{
+        "id": 131,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You're not funny...",
+        "next": 132,
+        "npcId": 497
+    },
+	{
+        "id": 132,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You should get in the.... sun more.",
+        "next": 133,
+        "npcId": 497
+    },
+	{
+        "id": 133,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You're really not funny...",
+        "next": 134,
+        "npcId": 497
+    },
+	{
+        "id": 134,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "One second, let me take a picture of you",
+        "line2": "with my.... Kodiak camera.",
+        "next": 135,
+        "npcId": 497
+    },
+	{
+        "id": 135,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": ".....",
+        "next": 136,
+        "npcId": 497
+    },
+	{
+        "id": 136,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Feeling.... blue.",
+        "next": 137,
+        "npcId": 497
+    },
+	{
+        "id": 137,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "If you don't stop, I'm going to",
+        "line2": "leave some... brown... at your feet, human.",
+        "next": -1,
+        "npcId": 497
+    },
+	{
+        "id": 138,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How many souls have you devoured?",
+        "next": 139,
+        "npcId": 964
+    },
+	{
+        "id": 139,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "None.",
+        "next": 140,
+        "npcId": 964
+    },
+	{
+        "id": 140,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Awww p-",
+        "next": 141,
+        "npcId": 964
+    },
+	{
+        "id": 141,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yet.",
+        "next": 142,
+        "npcId": 964
+    },
+	{
+        "id": 142,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Oh..",
+        "next": -1,
+        "npcId": 964
+    },
+	{
+        "id": 143,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I wonder if I need to invest in a",
+        "line2": "trowel when I take you out for a walk..",
+        "next": 144,
+        "npcId": 964
+    },
+	{
+        "id": 144,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "More like a shovel.",
+        "next": -1,
+        "npcId": 964
+    },
+	{
+        "id": 145,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why were the hot dogs shivering?",
+        "next": 146,
+        "npcId": 964
+    },
+	{
+        "id": 146,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grrrrr...",
+        "next": 147,
+        "npcId": 964
+    },
+	{
+        "id": 147,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Because they were served-",
+        "next": 148,
+        "npcId": 964
+    },
+	{
+        "id": 148,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "GRRRRRR...",
+        "next": 149,
+        "npcId": 964
+    },
+	{
+        "id": 149,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "-with... chilli?",
+        "next": -1,
+        "npcId": 964
+    },
+	{
+        "id": 150,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hell yeah! Such a cute puppy!",
+        "next": 151,
+        "npcId": 964
+    },
+	{
+        "id": 151,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Silence mortal! Or I'll eat your soul.",
+        "next": 152,
+        "npcId": 964
+    },
+	{
+        "id": 152,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Would that go well with lemon?",
+        "next": 153,
+        "npcId": 964
+    },
+	{
+        "id": 153,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grrr...",
+        "next": -1,
+        "npcId": 964
+    },
+	{
+        "id": 154,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What a cute puppy, how nice to meet you.",
+        "next": 155,
+        "npcId": 964
+    },
+	{
+        "id": 155,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "It'd be nice to meat you too...",
+        "next": 156,
+        "npcId": 964
+    },
+	{
+        "id": 156,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Urk... nice doggy.",
+        "next": 157,
+        "npcId": 964
+    },
+	{
+        "id": 157,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Grrr....",
+        "next": -1,
+        "npcId": 964
+    },
+	{
+        "id": 158,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Is it true a level 3 skiller caught one of your siblings?",
+        "next": 159,
+        "npcId": 2055
+    },
+	{
+        "id": 159,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Yes, they killed my mummy, kidnapped my brother,",
+        "line2": "smiled about it and went to sleep.",
+        "next": 160,
+        "npcId": 2055
+    },
+	{
+        "id": 160,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Aww, well you have me now! I shall call you Squishy",
+        "line2": "and you shall be mine and you shall be my Squishy!",
+        "next": 161,
+        "npcId": 2055
+    },
+	{
+        "id": 161,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Come on, Squishy come on, little Squishy!",
+        "next": -1,
+        "npcId": 2055
+    },
+	{
+        "id": 162,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey little snake!",
+        "next": 163,
+        "npcId": 2130
+    },
+	{
+        "id": 163,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Soon, Zulrah shall establish dominion over this plane.",
+        "next": 164,
+        "npcId": 2130
+    },
+	{
+        "id": 164,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Wanna play fetch?",
+        "next": 165,
+        "npcId": 2130
+    },
+	{
+        "id": 165,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Submit to the almighty Zulrah.",
+        "next": 166,
+        "npcId": 2130
+    },
+	{
+        "id": 166,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Walkies? Or slidies...?",
+        "next": 167,
+        "npcId": 2130
+    },
+	{
+        "id": 167,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Zulrah's wilderness as a God will soon be demonstrated.",
+        "next": 168,
+        "npcId": 2130
+    },
+	{
+        "id": 168,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I give up...",
+        "next": -1,
+        "npcId": 2130
+    },
+	{
+        "id": 169,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey little snake!",
+        "next": 170,
+        "npcId": 2131
+    },
+	{
+        "id": 170,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Soon, Zulrah shall establish dominion over this plane.",
+        "next": 171,
+        "npcId": 2131
+    },
+	{
+        "id": 171,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Wanna play fetch?",
+        "next": 172,
+        "npcId": 2131
+    },
+	{
+        "id": 172,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Submit to the almighty Zulrah.",
+        "next": 173,
+        "npcId": 2131
+    },
+	{
+        "id": 173,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Walkies? Or slidies...?",
+        "next": 174,
+        "npcId": 2131
+    },
+	{
+        "id": 174,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Zulrah's wilderness as a God will soon be demonstrated.",
+        "next": 175,
+        "npcId": 2131
+    },
+	{
+        "id": 175,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I give up...",
+        "next": -1,
+        "npcId": 2131
+    }, 
+	{
+        "id": 176,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey little snake!",
+        "next": 177,
+        "npcId": 2132
+    },
+	{
+        "id": 177,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Soon, Zulrah shall establish dominion over this plane.",
+        "next": 178,
+        "npcId": 2132
+    },
+	{
+        "id": 178,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Wanna play fetch?",
+        "next": 179,
+        "npcId": 2132
+    },
+	{
+        "id": 179,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Submit to the almighty Zulrah.",
+        "next": 180,
+        "npcId": 2132
+    },
+	{
+        "id": 180,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Walkies? Or slidies...?",
+        "next": 181,
+        "npcId": 2132
+    },
+	{
+        "id": 181,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Zulrah's wilderness as a God will soon be demonstrated.",
+        "next": 182,
+        "npcId": 2132
+    },
+	{
+        "id": 182,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I give up...",
+        "next": -1,
+        "npcId": 2132
+    },
+	{
+        "id": 183,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Who is the true lord and king of the lands?",
+        "next": 184,
+        "npcId": 5536
+    },
+	{
+        "id": 184,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "The mighty heir and lord of the Wilderness.",
+        "next": 185,
+        "npcId": 5536
+    },
+	{
+        "id": 185,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Where is he? Why hasn't he lifted your burden?",
+        "next": 186,
+        "npcId": 5536
+    },
+	{
+        "id": 186,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have not fulfilled my purpose.",
+        "next": 187,
+        "npcId": 5536
+    },
+	{
+        "id": 187,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is your purpose?",
+        "next": 188,
+        "npcId": 5536
+    },
+	{
+        "id": 188,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Not what is, what was.",
+        "line2": "A great war tore this land apart, for my failings in",
+        "line3": "protecting this land, I carry the burden of its waste.",
+        "next": -1,
+        "npcId": 5536
+    },
+	{
+        "id": 189,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Who is the true lord and king of the lands?",
+        "next": 190,
+        "npcId": 5537
+    },
+	{
+        "id": 190,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "The mighty heir and lord of the Wilderness.",
+        "next": 191,
+        "npcId": 5537
+    },
+	{
+        "id": 191,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Where is he? Why hasn't he lifted your burden?",
+        "next": 192,
+        "npcId": 5537
+    },
+	{
+        "id": 192,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have not fulfilled my purpose.",
+        "next": 193,
+        "npcId": 5537
+    },
+	{
+        "id": 193,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is your purpose?",
+        "next": 194,
+        "npcId": 5537
+    },
+	{
+        "id": 194,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Not what is, what was.",
+        "line2": "A great war tore this land apart, for my failings in",
+        "line3": "protecting this land, I carry the burden of its waste.",
+        "next": -1,
+        "npcId": 5537
+    },
+	{
+        "id": 195,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "At night time, if I were to hold an",
+        "line2": "ultraviolet light over you, would you glow?",
+        "next": 196,
+        "npcId": 5561
+    },
+	{
+        "id": 196,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Two things wrong there, human.",
+        "next": 197,
+        "npcId": 5561
+    },
+	{
+        "id": 197,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Oh?",
+        "next": 198,
+        "npcId": 5561
+    },
+	{
+        "id": 198,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "One, When has it ever been night time here?",
+        "next": 99,
+        "npcId": 5561
+    },
+	{
+        "id": 199,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Two, have you ever seen ultraviolet light around here?",
+        "next": 200,
+        "npcId": 5561
+    },
+	{
+        "id": 200,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Oh-hmm..",
+        "next": 201,
+        "npcId": 5561
+    },
+	{
+        "id": 201,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "In answer to your question though.. Yes.",
+        "line2": "I, like every scorpion, would glow.",
+        "next": -1,
+        "npcId": 5561
+    },
+	{
+        "id": 202,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 1,
+        "line1": "You killed my father.",
+        "next": 203,
+        "npcId": 5884
+    },
+	{
+        "id": 203,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yeah, don't take it personally.",
+        "next": 204,
+        "npcId": 5884
+    },
+	{
+        "id": 204,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 3,
+        "line1": "In his dying moment, my father poured",
+        "line2": "his last ounce of strength into my creation.",
+        "line3": "My being is formed from his remains.",
+        "next": 205,
+        "npcId": 5884
+    },
+	{
+        "id": 205,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 3,
+        "line1": "When your own body is consumed to nourish the",
+        "line2": "Nexus, and an army of scions arise from your corpse,",
+        "line3": "I trust you will not take it personally either.",
+        "next": -1,
+        "npcId": 5884
+    },
+	{
+        "id": 206,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 1,
+        "line1": "You killed my father.",
+        "next": 207,
+        "npcId": 5884
+    },
+	{
+        "id": 207,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I am your father.",
+        "next": 208,
+        "npcId": 5884
+    },
+	{
+        "id": 208,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 2,
+        "line1": "Human biology may be unfamiliar to me,",
+        "line2": "but nevertheless I doubt that very much.",
+        "next": -1,
+        "npcId": 5884
+    },
+	{
+        "id": 209,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 1,
+        "line1": "You killed my father.",
+        "next": 210,
+        "npcId": 5884
+    },
+	{
+        "id": 210,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I am your father.",
+        "next": 211,
+        "npcId": 5884
+    },
+	{
+        "id": 211,
+        "type": "NPC_STATEMENT",
+        "anim": "ABYSSAL_ORPHAN",
+        "lines": 1,
+        "line1": "No you're not.",
+        "next": -1,
+        "npcId": 5884
+    },
+	{
+        "id": 212,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Do you miss your people?",
+        "next": 213,
+        "npcId": 5892
+    },
+	{
+        "id": 213,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Mej-TzTok-Jad Kot-Kl!",
+        "line2": "(TzTok-Jad will protect us!)",
+        "next": 214,
+        "npcId": 5892
+    },
+	{
+        "id": 214,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No.. I don't think so.",
+        "next": 215,
+        "npcId": 5892
+    },
+	{
+        "id": 215,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Jal-Zek Kl?",
+        "line2": "(Foreigner hurt us?)",
+        "next": 216,
+        "npcId": 5892
+    },
+	{
+        "id": 216,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, no, I wouldn't hurt you.",
+        "next": -1,
+        "npcId": 5892
+    },
+	{
+        "id": 217,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Are you hungry?",
+        "next": 218,
+        "npcId": 5892
+    },
+	{
+        "id": 218,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Kl-Kra!",
+        "next": 219,
+        "npcId": 5892
+    },
+	{
+        "id": 219,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Ooookay...",
+        "next": -1,
+        "npcId": 5892
+    },
+	{
+        "id": 220,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey, so err... I kind-of own you now.",
+        "next": 221,
+        "npcId": 6628
+    },
+	{
+        "id": 221,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Tsssk. Next time you enter those caves,",
+        "line2": "human, my father will be having words.",
+        "next": 222,
+        "npcId": 6628
+    },
+	{
+        "id": 222,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Maybe next time I'll add your brothers to my collection.",
+        "next": -1,
+        "npcId": 6628
+    },
+	{
+        "id": 223,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So despite there being three kings,",
+        "line2": "you're clearly the leader, right?",
+        "next": 224,
+        "npcId": 6629
+    },
+	{
+        "id": 224,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Definitely.",
+        "next": 225,
+        "npcId": 6629
+    },
+	{
+        "id": 225,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'm glad I got you as a pet.",
+        "next": 226,
+        "npcId": 6629
+    },
+	{
+        "id": 226,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Ugh. Human, I'm not a pet.",
+        "next": 227,
+        "npcId": 6629
+    },
+	{
+        "id": 227,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Stop following me then.",
+        "next": 228,
+        "npcId": 6629
+    },
+	{
+        "id": 229,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I can't seem to stop.",
+        "next": 230,
+        "npcId": 6629
+    },
+	{
+        "id": 230,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Pet.",
+        "next": -1,
+        "npcId": 6629
+    },
+	{
+        "id": 231,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Do you have any berserker rings?",
+        "next": 232,
+        "npcId": 6630
+    },
+	{
+        "id": 232,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nope.",
+        "next": 233,
+        "npcId": 6630
+    },
+	{
+        "id": 233,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You sure?",
+        "next": 234,
+        "npcId": 6630
+    },
+	{
+        "id": 234,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yes.",
+        "next": 235,
+        "npcId": 6630
+    },
+	{
+        "id": 235,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So, if I tipped you upside down and shook you,",
+        "line2": "you'd not drop any berserker rings?",
+        "next": 236,
+        "npcId": 6630
+    },
+	{
+        "id": 236,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nope.",
+        "next": 237,
+        "npcId": 6630
+    },
+	{
+        "id": 237,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "What if I endlessly killed your father",
+        "line2": "for weeks on end, would I get one then?",
+        "next": 238,
+        "npcId": 6630
+    },
+	{
+        "id": 238,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Been done by someone, nope.",
+        "next": -1,
+        "npcId": 6630
+    },
+	{
+        "id": 239,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Huh... that's odd.",
+        "line2": "I thought that would be big news.",
+        "next": 240,
+        "npcId": 6631
+    },
+	{
+        "id": 240,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You thought what would be big news?",
+        "next": 241,
+        "npcId": 6631
+    },
+	{
+        "id": 241,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Well there seems to be an absence of a certain",
+        "line2": "ornithological piece: a headline regarding",
+        "line3": "mass awareness of a certain avian variety.",
+        "next": 242,
+        "npcId": 6631
+    },
+	{
+        "id": 242,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What are you talking about?",
+        "next": 243,
+        "npcId": 6631
+    },
+	{
+        "id": 243,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Oh have you not heard? It was my",
+        "line2": "understanding that everyone had heard...",
+        "next": 244,
+        "npcId": 6631
+    },
+	{
+        "id": 244,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Heard wha...... OH NO!!!!?!?!!?!",
+        "next": 245,
+        "npcId": 6631
+    },
+	{
+        "id": 245,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "OH WELL THE BIRD, BIRD, BIRD, BIRD,",
+        "line2": "BIRD IS THE WORD. OH WELL THE BIRD,",
+        "line3": "BIRD, BIRD, BIRD BIRD IS THE WORD.",
+        "next": 246,
+        "npcId": 6631
+    },
+	{
+        "id": 246,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "There's a slight pause as Kree'Arra Jr. goes stiff.",
+        "next": -1,
+        "npcId": 6631
+    },
+	{
+        "id": 247,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Not sure this is going to be worth",
+        "line2": "my time but.. Hello. How are you?",
+        "next": 248,
+        "npcId": 6632
+    },
+	{
+        "id": 248,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "SFudghoigdfpDSOPGnbSOBNfdbd-",
+        "line2": "nopbdnopbddfnopdfpofhdARRRGGGGH!",
+        "next": 249,
+        "npcId": 6632
+    },
+	{
+        "id": 249,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nope. Not worth it.",
+        "next": -1,
+        "npcId": 6632
+    },
+	{
+        "id": 250,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "FIND THE GODSWORD!",
+        "next": 251,
+        "npcId": 6633
+    },
+	{
+        "id": 251,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "FIND THE GODSWORD!",
+        "next": -1,
+        "npcId": 6633
+    },
+	{
+        "id": 252,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I FOUND THE GODSWORD!",
+        "next": 253,
+        "npcId": 6633
+    },
+	{
+        "id": 253,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "GOOD!!!!!",
+        "next": -1,
+        "npcId": 6633
+    },
+	{
+        "id": 254,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How's life in the light?",
+        "next": 255,
+        "npcId": 6634
+    },
+	{
+        "id": 255,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Burns slightly.",
+        "next": 256,
+        "npcId": 6634
+    },
+	{
+        "id": 256,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You seem much nicer than your father.",
+        "line2": "He's mean.",
+        "next": 257,
+        "npcId": 6634
+    },
+	{
+        "id": 257,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "If you were stuck in a very dark cave for",
+        "line2": "centuries you'd be pretty annoyed too.",
+        "next": 258,
+        "npcId": 6634
+    },
+	{
+        "id": 258,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I guess.",
+        "next": 259,
+        "npcId": 6634
+    },
+	{
+        "id": 259,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "He's actually quite mellow really.",
+        "next": 260,
+        "npcId": 6634
+    },
+	{
+        "id": 260,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Uh... Yeah.",
+        "next": -1,
+        "npcId": 6634
+    },
+	{
+        "id": 261,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey, Mole. How is life above ground?",
+        "next": 262,
+        "npcId": 6635
+    },
+	{
+        "id": 262,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Well, last time I was above ground,",
+        "line2": "I was having to contend with people throwing",
+        "line3": "snow at some weird yellow duck in my park.",
+        "next": 263,
+        "npcId": 6635
+    },
+	{
+        "id": 263,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why were they doing that?",
+        "next": 264,
+        "npcId": 6635
+    },
+	{
+        "id": 264,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No idea, I didn't stop to ask as an angry mob",
+        "line2": "was closing in on them pretty quickly.",
+        "next": 265,
+        "npcId": 6635
+    },
+	{
+        "id": 265,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Sounds awful.",
+        "next": 266,
+        "npcId": 6635
+    },
+	{
+        "id": 266,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Anyway, keep Molin'!",
+        "next": -1,
+        "npcId": 6635
+    },
+	{
+        "id": 267,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Shouldn't a prince only have two heads?",
+        "next": 268,
+        "npcId": 6636
+    },
+	{
+        "id": 268,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why is that?",
+        "next": 269,
+        "npcId": 6636
+    },
+	{
+        "id": 269,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Well, a standard Black dragon has one,",
+        "line2": "the King has three, so inbetween must have two?",
+        "next": 270,
+        "npcId": 6636
+    },
+	{
+        "id": 270,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You're overthinking this.",
+        "next": -1,
+        "npcId": 6636
+    },
+	{
+        "id": 271,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is it with your kind and potato cactus?",
+        "next": 272,
+        "npcId": 6637
+    },
+	{
+        "id": 272,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Truthfully?",
+        "next": 273,
+        "npcId": 6637
+    },
+	{
+        "id": 273,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yeah, please.",
+        "next": 274,
+        "npcId": 6637
+    },
+	{
+        "id": 274,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Soup. We make a fine soup with it.",
+        "next": 275,
+        "npcId": 6637
+    },
+	{
+        "id": 275,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Kalphites can cook?",
+        "next": 276,
+        "npcId": 6637
+    },
+	{
+        "id": 276,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Nah, we just collect it and put it there because",
+        "line2": "we know fools like yourself will come down looking",
+        "line3": "for it then inevitably be killed by my mother.",
+        "next": 277,
+        "npcId": 6637
+    },
+	{
+        "id": 277,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Evidently not, that's how I got you!",
+        "next": 278,
+        "npcId": 6637
+    },
+	{
+        "id": 278,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Touch .",
+        "next": -1,
+        "npcId": 6637
+    },
+	{
+        "id": 279,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is it with your kind and potato cactus?",
+        "next": 280,
+        "npcId": 6638
+    },
+	{
+        "id": 281,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Truthfully?",
+        "next": 282,
+        "npcId": 6638
+    },
+	{
+        "id": 282,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Yeah, please.",
+        "next": 283,
+        "npcId": 6638
+    },
+	{
+        "id": 283,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Soup. We make a fine soup with it.",
+        "next": 284,
+        "npcId": 6638
+    },
+	{
+        "id": 284,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Kalphites can cook?",
+        "next": 285,
+        "npcId": 6638
+    },
+	{
+        "id": 285,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Nah, we just collect it and put it there because",
+        "line2": "we know fools like yourself will come down looking",
+        "line3": "for it then inevitably be killed by my mother.",
+        "next": 286,
+        "npcId": 6638
+    },
+	{
+        "id": 286,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Evidently not, that's how I got you!",
+        "next": 287,
+        "npcId": 6638
+    },
+	{
+        "id": 287,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Touch .",
+        "next": -1,
+        "npcId": 6638
+    },
+	{
+        "id": 288,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Your kind comes in three different sizes?",
+        "next": 289,
+        "npcId": 6639
+    },
+	{
+        "id": 289,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Four, actually.",
+        "next": 290,
+        "npcId": 6639
+    },
+	{
+        "id": 290,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Wow. Whoever created you wasn't very creative.",
+        "line2": "You're just resized versions of one another!",
+        "next": -1,
+        "npcId": 6639
+    },
+	{
+        "id": 291,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What's Kraken?",
+        "next": 292,
+        "npcId": 6640
+    },
+	{
+        "id": 292,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Not heard that one before.",
+        "next": 293,
+        "npcId": 6640
+    },
+	{
+        "id": 293,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How are you actually walking on land?",
+        "next": 294,
+        "npcId": 6640
+    },
+	{
+        "id": 294,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "We have another leg, just below the center of our",
+        "line2": "body that we use to move across solid surfaces.",
+        "next": 295,
+        "npcId": 6640
+    },
+	{
+        "id": 295,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "That's... interesting.",
+        "next": -1,
+        "npcId": 6640
+    },
+	{
+        "id": 296,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Of all the high gamble rewards I could have won,",
+        "line2": " I won you...",
+        "next": 267,
+        "npcId": 6642
+    },
+	{
+        "id": 297,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Keep trying, human.",
+        "line2": "You'll never win that Dragon Chainbody.",
+        "next": -1,
+        "npcId": 6642
+    },
+	{
+        "id": 298,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hee hee! What shall we talk about, human?",
+        "next": 299,
+        "npcId": 7520
+    },
+    {
+        "id": 299,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Where do creatures like you come from?",
+        "line2": "You look like a dragon.",
+        "line3": "Can you tell me secrets about your home?",
+        "line4": "Maybe another time.",
+        "next": -1,
+        "npcId": 7520
+    },
+	{
+        "id": 300,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "From eggs, of course!",
+        "line2": "You can't make an olmlet without breaking an egg.",
+        "next": 301,
+        "npcId": 7520
+    },
+	{
+        "id": 301,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "That's... informative. Thank you.",
+        "next": 302,
+        "npcId": 7520
+    },
+	{
+        "id": 302,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hee hee! What's next, human?",
+        "next": 299,
+        "npcId": 7520
+    },
+	{
+        "id": 303,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "And humans look like monkeys.",
+        "line2": "Badly shaven monkeys.",
+        "line3": "What's your point, human?",
+        "next": 304,
+        "npcId": 7520
+    },
+	{
+        "id": 304,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Are you related to dragons?",
+        "next": 305,
+        "npcId": 7520
+    },
+	{
+        "id": 305,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "My sire was an olm. I'm an olm.",
+        "line2": "I don't go around asking you about",
+        "line3": "your parents' species, do I?",
+        "next": 306,
+        "npcId": 7520
+    },
+	{
+        "id": 306,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "... no, I suppose you don't.",
+        "next": 307,
+        "npcId": 7520
+    },
+	{
+        "id": 307,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hee hee! Let's change the subject,",
+        "line2": "before someone gets insulted.",
+        "line3": "What shall we talk about instead, human?",
+        "next": 299,
+        "npcId": 7520
+    },
+	{
+        "id": 308,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Ooh, it was lovely. I lived in an eggshell.",
+        "line2": "I was safe in there, dreaming of the life I would",
+        "line3": "lead when I hatched, and the caverns I could rule.",
+        "next": 309,
+        "npcId": 7520
+    },
+	{
+        "id": 309,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Then suddenly I felt a trembling of the ground,",
+        "line2": "and my shell shattered.",
+        "next": 310,
+        "npcId": 7520
+    },
+	{
+        "id": 310,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Through its cracks I saw the world for the first time,",
+        "line2": "just in time to watch my sire die.",
+        "next": 311,
+        "npcId": 7520
+    },
+	{
+        "id": 311,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "It was a terrible shock for a newly hatched olmlet,",
+        "line2": "but I try not to let it affect my mood.",
+        "line3": "So what else shall we talk about, human?",
+        "next": 299,
+        "npcId": 7520
+    },
+    {
+        "id": 300,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes.",
+        "line2": "Cancel.",
+        "next": -1
+    },
+    {
+        "id": 100,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Hey there little fluffy thing. ",
+        "next": 101,
+        "npcId": 5591
+    },
+    {
+        "id": 101,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Meow! Meow! ",
+        "next": 102,
+        "npcId": 5591
+    },
+    {
+        "id": 102,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Aww, aren't you cute. ",
+        "next": 103,
+        "npcId": 5591
+    },
+    {
+        "id": 103,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Meow! ",
+        "next": -1,
+        "npcId": 5591
+    },
+    {
+        "id": 1000,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Welcome to Grinderscape!, Would you like a tutorial?",
+        "next": 1001,
+        "npcId": 7520
+    },
+    {
+        "id": 1001,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Yes, show me the tutorial.",
+        "line2": "No thanks, I know what I'm doing.",
+        "next": 1002,
+        "npcId": 7520
+    },
+    {
+        "id": 1002,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Glad to see you have Joined the Server",
+        "line2": "To start, this is our lovely home area.",
+        "line3": "Let me show you around!",
+        "next": 1003,
+        "npcId": 7520
+    },
+    {
+        "id": 1003,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Shops can be found here.",
+        "next": 1004,
+        "npcId": 7520
+    },
+		{
+        "id": 2000,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "'Ello, and what are you after then?",
+        "next": 2001,
+        "npcId": 6797
+    },
+    {
+        "id": 2001,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 5,
+        "line1": "I need another assignment.",
+		"line2": "Have you any rewards for me, or anything to trade?",
+		"line3": "Let's talk about the difficulty of my assignments.",
+		"line4": "Tell me about your skillscape, please.",
+		"line5": "Er... Nothing...",
+        "next": 2002,
+        "npcId": 6797
+    },
+    {
+        "id": 2002,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I need another assignment.",
+        "next": 2003,
+        "npcId": 6797
+    },
+    {
+        "id": 2003,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Have you any rewards for me, or anything to trade?",
+        "next": 2004,
+        "npcId": 6797
+    },
+	{
+        "id": 2004,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I have quite a few rewards you can earn, and a wide",
+		"line2": "variety of Slayer equipment for sale.",
+        "next": 2005,
+        "npcId": 6797
+    },
+	{
+        "id": 2005,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Look at rewards.",
+		"line2": "Look at shop.",
+		"line3": "Cancel.",
+        "next": 2006,
+        "npcId": 6797
+    },
+    {
+        "id": 2006,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Got any tips for me?",
+		"line2": "I need some equipment.",
+		"line3": "Okay, great!",
+        "next": 2007,
+        "npcId": 6797
+    },
+	{
+        "id": 2007,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Got any tips for me?",
+        "next": 2008,
+        "npcId": 6797
+    },
+	{
+        "id": 2008,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Let's talk about the difficulty of my assignments.",
+        "next": 2009,
+        "npcId": 6797
+    },
+	{
+        "id": 2009,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Slayer Masters may currently assign you any",
+		"line2": "ask in our lists, regardless of your combat level.",
+        "next": 2010,
+        "npcId": 6797
+    },
+	{
+        "id": 2010,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "That's fine - I can handle any task.",
+		"line2": "In future, please don't give me anything too tough.",
+        "next": 2011,
+        "npcId": 6797
+    },
+	{
+        "id": 2011,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "I'd like EASY tasks only.",
+		"line2": "I'd like HARD tasks only.",
+		"line3": "I'd like WILDY tasks only.",
+		"line4": "I'd like BOSSES tasks only.",
+        "next": 2012,
+        "npcId": 6797
+    },
+	{
+        "id": 2500,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hello there!, I'm the Security Manager,",
+		"line2": "I'm here to ensure your account is safe!",
+		"line3": "What are you interested in securing?",
+        "next": 2501,
+        "npcId": 5442
+    },
+	{
+        "id": 2501,
+        "type": "OPTION",
+        "anim": "DEFAULT",
+        "lines": 4,
+		"line1": "I'd like to setup my bankpin, please.",
+		"line2": "I'd like to change my current bankpin, please.",
+		"line3": "I'd like to remove my bankpin, please.",
+		"line4": "Nevermind.",
+        "next": -1,
+        "npcId": 6797
+    },
+    {
+        "id": 2502,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Talk about the Skill capes.",
+        "line2": "Ask about the skilling tasks.",
+        "line3": "View Master's shop.",
+        "next": -1,
+        "npcId": 4858
+    },
+	{
+        "id": 2503,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hello there! I'm Wilfred, the Woodsman Tutor",
+		"line2": "I can give you a skilling tasks to do with",
+		"line3": "woodcutting. Would you like one?",
+        "next": 2504,
+        "npcId": 3226
+    },
+    {
+        "id": 2504,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Yes please!",
+        "line2": "No, thanks.",
+        "line3": "Tell me more about the skilling tasks.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2505,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "My speciality is Woodcutting. I will require",
+		"line2": "of you to go cut a certain amount of wood",
+		"line3": "for me, and you'll be rewarded some",
+		"line4": "Money and skilling points to be used in my shop.",
+        "next": 2504,
+        "npcId": 3226
+    },
+	{
+        "id": 2506,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Greetings. I'm Martin, the Thieving master",
+		"line2": "I can give you a skilling tasks to do with",
+		"line3": "thieving. Would you like one?",
+        "next": 2504,
+        "npcId": 3193
+    },
+    {
+        "id": 2507,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Quite simple, steal a few things for me",
+		"line2": "and then come back for a reward. And of course,",
+		"line3": "if you get caught, we have never met. Are you",
+		"line4": "Interested?",
+        "next": 2504,
+        "npcId": 3193
+    },
+    {
+        "id": 2510,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Are you use you want to delete all your notes?",
+		"line2": "Once you do, you wont be able to undo this.",
+        "next": 2511,
+        "npcId": 3193
+    },
+    {
+        "id": 2511,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes please!",
+        "line2": "No, thanks.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2512,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "1",
+        "line2": "5",
+        "line3": "All",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2513,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "1",
+        "line2": "5",
+        "line3": "10",
+        "line4": "All",
+        "next": -1,
+        "npcId": 4858
+    },
+        {
+        "id": 2514,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No thanks, I got things to do..",
+        "next": -1,
+        "npcId": 3226
+    },
+    {
+        "id": 2515,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Available to the masters who have crafted",
+		"line2": "their Thieving skill to perfection. Once",
+		"line3": "you reach level 99 in Thieving, I'll be",
+		"line4": "willing to give you the cape.",
+        "next": -1,
+        "npcId": 3193
+    },
+    {
+        "id": 2516,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Available to the masters who have crafted",
+		"line2": "their Thieving skill to perfection. It appears",
+		"line3": "that you have achieved the Mastery of Thieving",
+		"line4": "are you interested in owning the cape?",
+        "next": 2517,
+        "npcId": 3193
+    },
+    {
+        "id": 2517,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, I'd like to receive a skill cape.",
+        "line2": "No, thanks. Perhaps another time.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2521,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Welcome to Grinderscape.",
+		"line2": "Before we continue, you need read and",
+		"line3": "accept the rules. Please take your time",
+		"line4": "as this is very important.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2522,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Thank you for taking your time to read",
+		"line2": "the rules. ",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2523,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, I'm fearless!",
+        "line2": "Uhh, rather not..",
+        "next": -1
+    },
+    {
+        "id": 2524,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Would you like to gamble your firecape",
+		"line2": "for the chance of a Jad Pet? If you hit",
+		"line3": "a 1 out of 50, you'll win.",
+        "next": 2525,
+        "npcId": 2180
+    },
+    {
+        "id": 2525,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, I want to do this.",
+        "line2": "Uhh, I rather not..",
+        "next": -1
+    },
+    {
+        "id": 2526,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hey there. I am the Woodcutting master",
+		"line2": "I can give you a skilling tasks to do with",
+		"line3": "Woodcutting. Would you like one?",
+        "next": 2504,
+        "npcId": 3226
+    },
+    {
+        "id": 2527,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "All you'll have to do is cut some trees",
+		"line2": "for some logs. Minimum effort and of course",
+		"line3": "you'll be rewarded in your choice. Are you",
+		"line4": "interested?",
+        "next": 2504,
+        "npcId": 3226
+    },
+    {
+        "id": 2528,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Available to the masters who have cut",
+		"line2": "enough trees to perfection. Once",
+		"line3": "you reach level 99 in Woodcutting, I'll be",
+		"line4": "willing to give you the cape.",
+        "next": -1,
+        "npcId": 3226
+    },
+    {
+        "id": 2529,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Available to the masters who have cut",
+		"line2": "enough trees to perfection. It appears",
+		"line3": "that you have achieved the Mastery of Woodcutting",
+		"line4": "are you interested in owning the cape?",
+        "next": 2517,
+        "npcId": 3226
+    },
+    {
+        "id": 2530,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hey there young chap. I need some services.",
+		"line2": "Can you mine some ore for me and I'll reward",
+		"line3": "ya?",
+        "next": 2504,
+        "npcId": 7716
+    },
+    {
+        "id": 2531,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Like I said, you will have to mine ore",
+		"line2": "for meh. Once you are done, you come back",
+		"line3": "and I'll reward ya. Sounds fair?",
+        "next": 2504,
+        "npcId": 7716
+    },
+    {
+        "id": 2532,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "As the Mining master, I can provide",
+		"line2": "the master cape. But it appears you",
+		"line3": "aren't a master at all. Come back",
+		"line4": "when you mastered the Mining skill.",
+        "next": -1,
+        "npcId": 7716
+    },
+     {
+        "id": 2533,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Ayy, a master recognises another master.",
+		"line2": "I have plenty of master Mining capes",
+		"line3": "available, would you like one right now?",
+        "next": 2517,
+        "npcId": 7716
+    },
+     {
+        "id": 2534,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "My names Jeff!",
+        "next": -1,
+        "npcId": 3282
+    },
+    {
+    "id": 2535,
+    "type": "OPTION",
+    "lines": 3,
+    "line1": "Redeem Purchase.",
+    "line2": "Redeem Votes.",
+    "line3": "Cancel",
+    "next": -1
+    },
+    {
+    "id": 2640,
+    "type": "OPTION",
+    "lines": 3,
+    "line1": "Redeem Purchase.",
+    "line2": "Redeem Votes.",
+    "line3": "Cancel",
+    "next": -1
+},
+    {
+        "id": 2536,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Hey buddy. Do you have some time you can spare?",
+		"line2": "I'll make it worth ya while.",
+        "next": 2504,
+        "npcId": 3225
+    },
+        {
+        "id": 2537,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Really easy. Smith some items using that",
+		"line2": "anvil. That's all I ask of you. I'll give",
+		"line3": "ya something after you are done.",
+        "next": 2504,
+        "npcId": 3225
+    },
+    {
+        "id": 2538,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Ah yes, I'm a master Smith. I can give you",
+		"line2": "a cape. I don't find much use it in. But",
+		"line3": "it seems neither do you. Come back when you",
+		"line4": "have mastered the Smithing skill.",
+        "next": -1,
+        "npcId": 3225
+    },
+    {
+        "id": 2539,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Ah yes, I'm a master Smith. I can give you",
+		"line2": "a cape. I don't find much use it in.",
+        "next": 2517,
+        "npcId": 3225
+    },
+    {
+        "id": 2540,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "To be wielded by those who know, that there",
+		"line2": "is no knower. To the masters of masters,",
+		"line3": "conquerors of elements and present",
+		"line4": "beyond sight. Do you dare to wield the cape?",
+        "next": 2541,
+        "npcId": 3225
+    },
+	{
+        "id": 2541,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes.",
+        "line2": "No.",
+        "next": -1
+    },
+    {
+        "id": 2542,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "To your own demise, you build traps but",
+		"line2": "only you step in them. You succeed but",
+		"line3": "success is as dangerous as failure. You",
+		"line4": "hope, but hope is as hollow as fear.",
+        "next": 2543,
+        "npcId": 3225
+    },
+    {
+        "id": 2543,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "This cape is not for you!",
+        "next": -1,
+        "npcId": 3225
+    },
+    {
+        "id": 2544,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "You came across the land. Looking for that",
+		"line2": "which isn't, wondering, curious. Not that",
+		"line3": "you have not, but you have not asked twice.",
+		"line4": "This cape is for those who know who I am",
+        "next": 2545,
+        "npcId": 3225
+    },
+    	{
+        "id": 2545,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "I'm a unique individual.",
+        "line2": "I am.",
+        "next": -1
+    },
+    {
+        "id": 2546,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "To know thyself, is the greatest gift.",
+        "line2": "All is one. In silence, you can hear",
+        "line3": "the musical. Take this, and be joy.",
+        "next": -1,
+        "npcId": 3225
+    },
+        {
+        "id": 2547,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "I am the greatest. I'm better than others",
+        "line2": "seeking success is my reason. But I find no",
+        "line3": "peace with that which I think. I think I am",
+        "line4": "this. And therefore I am not, oh misery..",
+        "next": -1,
+        "npcId": 3225
+    },
+    {
+        "id": 2548,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Wilderness Skilling Resource area.",
+        "line2": "No where.",
+        "next": -1
+    },
+    {
+        "id": 2549,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "And remember, fishing is life. Oh hi, didn't",
+		"line2": "see you there. Help me out? I'll reward you.",
+		"line3": "All you need to do is catch some fish!",
+        "next": 2504,
+        "npcId": 2913
+    },
+   {
+        "id": 2550,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "There are many fish to catch! Isn't that great?",
+		"line2": "So you'll need to venture out and enjoy the sea",
+		"line3": "as you catch the fishes! Sounds good?",
+        "next": 2504,
+        "npcId": 3225
+    },
+    {
+        "id": 2551,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "This place is very disturbing over here",
+        "line2": "I have been trying to find my way for a long time.",
+        "next": 2552,
+        "npcId": 2263
+    },
+    {
+        "id": 2552,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I hope you find your way through the dagannoth",
+        "line2": "safely. Good luck adventurer!",
+        "next": -1,
+        "npcId": 2263
+    },
+        {
+        "id": 2557,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you don't seem to have dipped",
+		"line2": "your hands in the water enough for me to",
+		"line3": "hand your the Fishing master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 3225
+    },
+    {
+        "id": 2558,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Master fisher ayy, takes one to know one.",
+		"line2": "Here, take this cape.",
+        "next": 2517,
+        "npcId": 2913
+    },
+    {
+        "id": 2559,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You can always open your presets interface by",
+		"line2": "using the ::presets command, or from your quest tab.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2565,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Sure.",
+        "line2": "I've got better things to do.",
+        "next": -1
+    },
+	{
+        "id": 2566,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "In ancient Judaism, the Priests (Kohanim) had a whole",
+        "line2": "class of Levites as their assistants in maintaining the Temple.",
+        "line3": "The Levites served by servants called Nethinim.",
+        "line4": "These lowest level of servants were not priests.",
+        "next": 2567,
+        "npcId": 1137
+    },
+	{
+        "id": 2567,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "The Yoruba people of western Nigeria kept practicing an",
+        "line2": "indigenous religion with a chiefly hierarchy of",
+        "line3": "priests and priestesses that dates up to AD 800-1000!",
+        "next": 2568,
+        "npcId": 1137
+    },
+	{
+        "id": 2568,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "This ancient culture continues from time up to this day",
+        "line2": "until today as it initiates from all around the world return to",
+        "line3": "Nigeria for initiation into the traditional priesthood.",
+        "next": -1,
+        "npcId": 1137
+    },
+    {
+        "id": 2569,
+        "next": 2570,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "It might be dangerous inside! Are you sure you want to enter?"
+    },
+    {
+        "id": 2570,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Proceed.",
+        "line2": "I have changed my mind.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2571,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Climb up the stairs.",
+        "line2": "Climb down the stairs.",
+        "next": -1,
+        "npcId": 4858
+    },
+	{
+        "id": 2572,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Hey there! Where would you like to travel?.",
+        "line2": "There is a fee of 5,000,000 coins for that.",
+        "next": 2573,
+        "npcId": 3936
+    },
+    {
+        "id": 2573,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "North Miscellania.",
+        "line2": "Bronze member island.",
+        "line3": "Ruby member island.",
+        "line4": "Platinum member island.",
+        "next": -1,
+        "npcId": 3680
+    },
+	{
+        "id": 2574,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You do not have enough money to travel to the island.",
+        "next": -1,
+        "npcId": 3680
+    },
+    {
+        "id": 2575,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Kamil.",
+        "line2": "Ice Queen.",
+        "line3": "Dagannoth Kings.",
+        "line4": "Black Knight Titan.",
+        "next": -1
+    },
+    {
+        "id": 2576,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Duel Arena.",
+        "line2": "Castle Wars.",
+        "next": -1
+    },
+    {
+        "id": 2577,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Edgeville.",
+        "line2": "Al Kharid.",
+        "line3": "Karamja.",
+        "line4": "Draynor.",
+        "next": -1
+    },
+    {
+        "id": 2578,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Do you want me to show you a quick",
+		"line2": "tutorial on how to get started on",
+		"line3": "the game and start your journey?",
+        "next": 2579,
+        "npcId": 306
+    },
+    {
+        "id": 2579,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, show me around.",
+        "line2": "I already know the game.",
+        "next": -1
+    },
+    {
+        "id": 2580,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Goodluck with your adventure with Grinderscape!",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2581,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Okay! let's get started",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2582,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Okay! let's get started.",
+        "line2": "Here is the @red@Shops area@bla@ where you can buy",
+        "line3": "most of the items to start your adventure.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2583,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "This is the @blu@Voting points</col> exchange at Edgeville.",
+        "line2": "In this shop you can get exchange your voting points",
+        "line3": "for great rewards once you vote every 12 hours.",
+        "line4": "Start voting by clicking on vote from your quest tab.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2584,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "This is the Skilling Store.",
+        "line2": "In this shop you can buy items with skilling points",
+        "line3": "You earn skilling points by earning skills experience",
+        "line4": "such as training Farming or Thieving.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2585,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Here is the @blu@Tzhaar Store</col>.",
+        "line2": "Monsters near by drops 5-10 tokkul on average",
+        "line3": "You can buy items with tokkul and trade it",
+        "line4": "to other players, and can get you some nice cash rewards.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2586,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "This is the @blu@Experiments dungeon</col>.",
+        "line2": "You can teleport here by talking to the @dre@Ancient wizard</col>",
+        "line3": "in Edgeville that helps you move to any location",
+        "line4": "on game. Exit the interface from top so we can proceed.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2587,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "This is the @blu@Slayer's cave</col>.",
+        "line2": "You can get a Slayer task from @dre@Turael</col> west of",
+        "line3": "Edgeville. You can find most of the Slayer monsters here.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2588,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "@blu@Catherby</col> is a common Skilling area here.",
+        "line2": "Most players train their Fishing and Cooking skills here.",
+        "line3": "You can also fish in the @blu@Fishing Guild</col>, or @blu@Karamja</col>.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2589,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "@blu@Neitznot city</col>, where you can train your Mining and Smithing.",
+        "line2": "You can also find most of the Skilling shops you need",
+        "line3": "to train your other skills south east of the area.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2590,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The @blu@Duel arena</col> works perfectly with PID randomization.",
+        "line2": "Stake and challenge other players over here.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2591,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Here at the @blu@Fight caves</col> you can obtain",
+        "line2": "a @dre@Firecape</col>, in two different ways by either",
+        "line3": "defeating the mighty @dre@Tz-Tok-Jad</col> or you can slay",
+        "line4": "@dre@Tzhaars</col> here for @dre@Tokkuls</col> to buy the cape.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2592,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "The only way to obtain defenders is through @blu@Warriors guild</col>.",
+        "line2": "You have to slay @dre@Cyclops</col> to obtain @dre@Warrior</col>",
+        "line3": "@dre@guild tokens</col> which can be exchanged with @dre@Kamfreena</col>.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2593,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "The @blu@Fun PvP area</col> is a unique place where players",
+        "line2": "can fight each other and test their mutli @red@PVP",
+        "line3": "skills without losing items upon death.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2594,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "You can speak the @dre@Gambler</col> to join the lottery.",
+        "line2": "To start, you must purchase a ticket for 1M gp.",
+        "line3": "the more tickets, the more odds of winning you have.",
+	"line4": "The lottery is sorted out every 24 hours by our staff.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2595,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Over here you can speak to @dre@Ashild</col> to obtain your",
+        "line2": "@blu@Boss Contracts</col>. It costs 1.5M for a contract, and it assigns",
+        "line3": "you a boss to slay within a short period of time. If you",
+	"line4": "succeed you will receive a good cash prize.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2596,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Here is the @dre@Kamil</col> boss, after finishing the tutorial",
+        "line2": "you can right click the bosses to view their drop tables.",
+        "line3": "@red@Every boss drops unique items which can only be obtained",
+	"line4": "@red@from that particular boss.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2597,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "The famous @dre@King Black Dragon</col> can be slayed for",
+        "line2": "its high rate of @dre@Dragonic visage</col> drop which can",
+        "line3": "be used to create the @dre@Dragon Fire Shield</col>.",
+        "line4": "@red@The superior 'Dragon whip' is uniquely dropped here.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2598,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "@dre@Scorpia</col> and its siblings is one of the challenging",
+        "line2": "the Wilderness bosses in game, it can drop some rare items",
+        "line3": "such as @dre@Ranger's tunic</col>, @dre@Robin hood hat</col>, and more.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2599,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "@dre@General Graardor</col> is from the Bandos army of the",
+        "line2": "Godwars. You need 20 killcount before entering the",
+        "line3": "chamber. It is known for the @dre@Bandos hilt</col> drop.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2600,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "You can't teleport directly to the @dre@Lava Dragons</col>.",
+        "line2": "They are very tough and have a high rate of @dre@Dragonic visage</col>",
+        "line3": "drop. However, the risk is that they are in deep the Wilderness.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2601,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Here is the @dre@Ancient wyverns</col>, which can be found",
+        "line2": "by teleporting to the @blu@Asgarnian dungeon</col> and",
+        "line3": "then entering the Icy cavern entrance.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2602,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "The metal dragons are weak to magic spells and are",
+        "line2": "great for quick experience. They can be found at the",
+        "line3": "@blu@Brimhaven dungeon</col>. Bring an axe to cut the vines.",
+        "line4": "There is also a small entrance fee upon getting there to enter.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2603,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "You can find many helpful links in your quest tab.",
+        "line2": "There are also tasks to complete which offer generous rewards.",
+        "line3": "You can also use the clan chat to seek help from players.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2604,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "This is the @blu@Home area</col>. The easiest way to",
+        "line2": "get make money is by stealing from the stalls.",
+        "line3": "@red@You can obtain skilling tasks from the skill master.",
+	"line4": "@red@Rogue set/Thieving cape increases your rewards and XP!",
+        "next": 2605,
+        "npcId": 306
+    },
+    {
+        "id": 2605,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Congratulations, you have completed the tutorial.",
+        "line2": "You can always find me west of Edgeville if you need",
+        "line3": "any help. Good luck with your adventure!",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2606,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "A player can reduce their chances of being",
+        "line2": "put in jail or thrown outside by wearing H.A.M. robes",
+        "line3": "A full H.A.M. set is not required to see some benefit..",
+        "next": 2607,
+        "npcId": 2541
+    },
+    {
+        "id": 2607,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "as each piece reduces your chances of being ejected.",
+        "next": -1,
+        "npcId": 2541
+    },
+    {
+        "id": 2608,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Why wont't people talk to me?",
+        "next": -1,
+        "npcId": 3265
+    },
+    {
+        "id": 2609,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can I help you at all?",
+        "next": 2651,
+        "npcId": 2821
+    },
+    {
+        "id": 2610,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can I help you at all?",
+        "next": 2652,
+        "npcId": 2822
+    },
+	{
+        "id": 2612,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL",
+        "lines": 1,
+        "line1": "Yes...? I'm busy, be brief.",
+        "next": 2613,
+        "npcId": 5212
+    },
+	{
+        "id": 2613,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I see... you are a very important person.",
+        "line2": "I'm here to talk about participation points...",
+        "next": 2614,
+        "npcId": 5212
+    },
+	{
+        "id": 2614,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I know right!? Why not everyone understand that?",
+        "line1": "How could I help you?",
+        "next": 2615,
+        "npcId": 5212
+    },
+    {
+        "id": 2615,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "What is participation points and how do I get them?",
+        "line2": "I want to exchange my participation points.",
+        "line3": "Nevermind, I'm leaving.",
+        "next": -1,
+        "npcId": 5212
+    },
+	{
+        "id": 2616,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nevermind, I'm leaving.",
+        "next": 2617,
+        "npcId": 5212
+    },
+	{
+        "id": 2617,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hasta la vista!",
+        "next": -1,
+        "npcId": 5212
+    },
+	{
+        "id": 2618,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I want to exchange my participation points.",
+        "next": 2619,
+        "npcId": 5212
+    },
+	{
+        "id": 2619,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is participation points, and how do I get them?",
+        "next": 2620,
+        "npcId": 5212
+    },
+    {
+        "id": 2620,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "If I'd get a coin for every time someone ask me that!",
+        "line2": "Isn't that self-explanatory? p-a-r-t-i-c-i-p-a-t-i-o-n points!",
+        "line3": "Obviously you get by participating in the activities.",
+	"line4": "Such as...Slaying..and...",
+        "next": 2621,
+        "npcId": 5212
+    },
+	{
+        "id": 2621,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "...",
+        "next": 2622,
+        "npcId": 5212
+    },
+    {
+        "id": 2622,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Skilling..Leveling up..Slaying bosses..Task Completion..",
+        "line2": "Oh well, I'll not spend all day telling you the activities!",
+        "next": 2623,
+        "npcId": 5212
+    },
+	{
+        "id": 2623,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have got some information from this. Goodbye!",
+        "next": 2624,
+        "npcId": 5212
+    },
+    {
+        "id": 2624,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "...Bye!",
+        "next": -1,
+        "npcId": 5212
+    },
+    {
+        "id": 2625,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Warriors' Guild.",
+        "line2": "Champion's Guild.",
+        "line3": "Edgeville Monastery.",
+        "line4": "Ranging Guild.",
+        "line5": "Nowhere.",
+        "next": -1
+    },
+    {
+        "id": 2626,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Fishing Guild.",
+        "line2": "Mining Guild.",
+        "line3": "Crafting Guild.",
+        "line4": "Cooking Guild.",
+        "line5": "Woodcutting Guild.",
+        "next": -1
+    },
+    {
+        "id": 2627,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Miscellania.",
+        "line2": "Grand Exchange.",
+        "line3": "Falador Park.",
+        "line4": "Dondakan.",
+        "line5": "Nowhere.",
+        "next": -1
+    },
+    {
+        "id": 2630,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Broken Items.",
+        "line2": "Barrows Repairs.",
+        "line3": "Imbue Items.",
+        "next": -1
+    },
+	{
+        "id": 2631,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Pfft. To fix your barrows items you can use",
+		"line2": "the broken item on me to repair it.",
+		"line3": "I call one of those bots after you!",
+        "next": -1,
+        "npcId": 7456
+    },
+    {
+        "id": 2632,
+        "next": 2570,
+        "type": "STATEMENT",
+        "lines": 1,
+        "line1": "You must pay 500,000 entry fee! Are you sure you want to enter?"
+    },
+    {
+        "id": 2633,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Definately go ahead!",
+        "line2": "No, I have changed my mind.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2634,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I would like to cancel my boss contract, please.",
+        "next": 2635,
+        "npcId": 772
+    },
+    {
+        "id": 2635,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "That will cost you 1.5M Coins just to cancel the contract.",
+        "line2": "Do you you want to continue?",
+        "next": 2636,
+        "npcId": 772
+    },
+    {
+        "id": 2636,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, please.",
+        "line2": "No, I have changed my mind.",
+        "next": -1,
+        "npcId": 772
+    },
+	{
+        "id": 2637,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You don't have any artefacts",
+		"line2": "in your inventory...",
+        "next": -1,
+        "npcId": 7943
+    },
+    {
+        "id": 2638,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hello. What do you need?",
+        "next": 2639,
+        "npcId": 7943
+    },
+    {
+        "id": 2639,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Open shop.",
+        "line2": "Sell artefacts.",
+        "line3": "Skull me.",
+        "line4": "Cancel.",
+        "next": -1,
+        "npcId": 7943
+    },
+    {
+        "id": 2640,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Hello, chum, fancy buyin' some designer jewellery?",
+        "line2": "They've come all the way from Ardougne! Most pukka!",
+        "next": 2641,
+        "npcId": 5449
+    },
+    {
+        "id": 2641,
+        "type": "PLAYER_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "Erm, no. I'm all set, thanks.",
+        "next": 2642,
+        "npcId": 5449
+    },
+    {
+        "id": 2642,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Okay, chum, so what can I do for you? I can sell you",
+        "line2": "herblore supplies, or perhaps I could help you",
+        "line3": "decant your potions.",
+        "next": 2643,
+        "npcId": 5449
+    },
+    {
+        "id": 2643,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Can you sell me herblore supplies?",
+        "line2": "Can you decant things for me?",
+        "line3": "I'll leave you to it.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2644,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "1 dose.",
+        "line2": "2 doses.",
+        "line3": "3 doses.",
+        "line4": "4 doses.",
+        "line5": "Cancel.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2645,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You are trying to decant too many potions at once!",
+        "line2": "Try again with less potions.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2646,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I don't think you've got anything that I can decant.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2647,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You're a bit short of inventory space.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2648,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You're a bit short of empty vessels or cash. Empty vials",
+        "line2": "will cost you 5gp each.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2649,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "There, I've done what I can, but you're a bit short of",
+        "line2": "empty vessels or cash. Empty vials will cost you 5gp",
+        "line3": "each.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2650,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "There, all done.",
+        "next": -1,
+        "npcId": 5449
+    },
+    {
+        "id": 2651,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes please. What are you selling?",
+        "line2": "No thanks.",
+        "next": -1,
+        "npcId": 514
+    },
+    {
+        "id": 2652,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes please. What are you selling?",
+        "line2": "No thanks.",
+        "next": -1,
+        "npcId": 515
+    },
+    {
+        "id": 2653,
+        "type": "NPC_STATEMENT",
+        "anim": "ANGRY",
+        "lines": 1,
+        "line1": "I'm busy!",
+        "next": -1,
+        "npcId": 5514
+    },
+    {
+        "id": 2654,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "I am still fixing the ancient @dre@Dragonfire shield</col>.",
+        "next": -1,
+        "npcId": 822
+    },
+    {
+        "id": 2655,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You don't have a Slayer task. Would you like",
+        "line2": "me to give you one?",
+        "next": 2556,
+        "npcId": 3225
+    },
+	{
+        "id": 2656,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'm hungry!",
+        "next": 2657,
+        "npcId": 8008
+    },
+	{
+        "id": 2657,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How hungry?",
+        "next": 2658,
+        "npcId": 6632
+    },
+	{
+        "id": 2658,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'm empty to the core!",
+        "next": 2659,
+        "npcId": 8008
+    },
+	{
+        "id": 2659,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Would an apple do?",
+        "next": 2660,
+        "npcId": 8008
+    },
+	{
+        "id": 2660,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What is apple?",
+        "next": 2661,
+        "npcId": 8008
+    },
+	{
+        "id": 2661,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Something where you eat the outside and",
+        "line2": "throw the core away!",
+        "next": -1,
+        "npcId": 8008
+    },
+	{
+        "id": 2662,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I guess nevermind...",
+        "next": 2663,
+        "npcId": 5442
+    },
+	{
+        "id": 2663,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Goodbye!",
+        "next": -1,
+        "npcId": 5442
+    },
+	{
+        "id": 2664,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hey Vorki, got any interesting dragon facts?",
+        "next": 2665,
+        "npcId": 5442
+    },
+	{
+        "id": 2665,
+        "type": "NPC_STATEMENT",
+        "anim": "VORKI",
+        "lines": 3,
+        "line1": "Although they have wings, dragons rarely fly.",
+        "line2": "This is because the animals they prey on are all",
+        "line3": "ground dwelling.",
+        "next": -1,
+        "npcId": 8029
+    },
+	{
+        "id": 2666,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You don't have any items that I can imbue.",
+		"line2": "Stop wasting my time.",
+        "next": -1,
+        "npcId": 7456
+    },
+    {
+        "id": 2667,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Are you use you want to uncharge this item?",
+		"line2": "Once you do, you wont be able to undo this.",
+        "next": 2668,
+        "npcId": 3193
+    },
+    {
+        "id": 2668,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Confirm.",
+        "line2": "Nevermind.",
+        "next": -1,
+        "npcId": 4858
+    },
+	{
+        "id": 2669,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Do you want to use the boat to sail back to Relleka?",
+        "next": 2670,
+        "npcId": 3680
+    },
+    {
+        "id": 2670,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes!",
+        "line2": "No!",
+        "next": -1,
+        "npcId": 4858
+    },
+	{
+        "id": 2673,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Hello there.",
+        "next": 2674,
+        "npcId": 1013
+    },
+	{
+        "id": 2674,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL",
+        "lines": 1,
+        "line1": "Do you know who I am, dear player?",
+        "next": 2675,
+        "npcId": 5213
+    },
+	{
+        "id": 2675,
+        "type": "PLAYER_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 1,
+        "line1": "I give up. Who are you?",
+        "next": 2676,
+        "npcId": 5213
+    },
+	{
+        "id": 2676,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL",
+        "lines": 4,
+        "line1": "I'm the Anti-Christ.",
+	"line2": "You've got me in a vendetta kind of mood. You tell the",
+	"line3": "angels in heaven you've never seenevil so singularly",
+	"line4": "personified as you did in the face of the man that jailed you.",
+        "next": 2677,
+        "npcId": 5213
+    },
+	{
+        "id": 2677,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL",
+        "lines": 4,
+        "line1": "My name is Vincent Coccotti.",
+	"line2": "I work as counsel for Mr. Blue Lou Boyle,",
+	"line3": "I heard you were once here before, so I can assume you've",
+	"line4": "heard of us before. Am I correct?",
+        "next": 2678,
+        "npcId": 5213
+    },
+	{
+        "id": 2678,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DISTRESSED",
+        "lines": 1,
+        "line1": "I've heard of Blue Lou Boyle.",
+        "next": 2679,
+        "npcId": 5213
+    },
+	{
+        "id": 2679,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL_DELIGHTED",
+        "lines": 3,
+        "line1": "I'm glad. Hopefully that will clear up",
+	"line2": "the 'How full of shit am I?' question you've been",
+	"line3": "asking yourself.",
+        "next": 2680,
+        "npcId": 5213
+    },
+	{
+        "id": 2680,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 4,
+        "line1": "Sicilians are great liars.",
+	"line2": "The best in the world.",
+	"line3": "I'm Sicilian. My father was the world heavyweight champion.",
+	"line4": "of Sicilian liars.",
+        "next": 2681,
+        "npcId": 5213
+    },
+	{
+        "id": 2681,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 4,
+        "line1": "From growin' up with him I learned the pantomime.",
+	"line2": "There are seventeen different things a guy can do when",
+	"line3": "he lies to give himself away. That's seventeen pantomimes.",
+	"line4": "A woman's got twenty, a guy's got seventeen.",
+        "next": 2721,
+        "npcId": 5213
+    },
+	{
+        "id": 2682,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Hello there.",
+        "next": 2683,
+        "npcId": 1013
+    },
+	{
+        "id": 2683,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Howdy!",
+        "next": 2684,
+        "npcId": 1013
+    },
+	{
+        "id": 2684,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "What are you doing here?",
+        "next": 2685,
+        "npcId": 1013
+    },
+	{
+        "id": 2685,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 1,
+        "line1": "Glad you've asked!",
+        "next": 2686,
+        "npcId": 1013
+    },
+	{
+        "id": 2686,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 2,
+        "line1": "I am selling OSRS Tokens, and buying the items",
+	"line2": "that are out of stock in return of some quick cash.",
+        "next": 2687,
+        "npcId": 1013
+    },
+	{
+        "id": 2687,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Would you like to know anything else?",
+        "next": 2688,
+        "npcId": 1013
+    },
+    {
+        "id": 2688,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "What can I do with OSRS tokens?",
+	"line2": "How can I exchange my tokens for OSRS GP?",
+	"line3": "Talk to you later.",
+        "next": -1,
+        "npcId": 3193
+    },
+	{
+        "id": 2689,
+        "type": "NPC_STATEMENT",
+        "anim": "EVIL",
+        "lines": 3,
+        "line1": "It is totally up to you with what you do with your tokens.",
+	"line2": "You have the choice to trade them with other players or",
+	"line3": "exchange them for OSRS GP!",
+        "next": 2687,
+        "npcId": 1013
+    },
+	{
+        "id": 2690,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "Good question, you can trade the token to any",
+	"line2": "administrator staff and they will exchange it for you.",
+	"line3": "However, five tokens are required at least for a trade.",
+	"line4": "Trades are mostly carried and held every Tuesday.",
+        "next": 2691,
+        "npcId": 1013
+    },
+	{
+        "id": 2691,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 4,
+        "line1": "The best way to do it is to create a forum thread.",
+	"line2": "You can type ::osrs to open up the location where",
+	"line3": "you can create a new forum thread over there.",
+	"line4": "Oh, and kindly make sure to follow the proper format.",
+        "next": 2687,
+        "npcId": 1013
+    },
+	{
+        "id": 2692,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Talk to you later.",
+        "next": 2693,
+        "npcId": 1013
+    },
+	{
+        "id": 2693,
+        "type": "NPC_STATEMENT",
+        "anim": "SLEEPY",
+        "lines": 1,
+        "line1": "Have a great day!",
+        "next": -1,
+        "npcId": 1013
+    },
+    {
+        "id": 2694,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "This is @blu@Mount Karuulum</col> which leads to the boss",
+        "line2": "lair which can be teleported to directly by",
+        "line3": "talking to the @dre@Ancient wizard</col>.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2695,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "@dre@Black Knight Titan</col> is one of the unique",
+        "line2": "bosses that we have with exclusive items. You must",
+        "line3": "obtain a key to enter the dungeon found in @blu@Yanille</col>. The",
+        "line4": "key can be found from slaying @dre@Dad</col> north of the city.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2696,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "The @dre@Alchemical Hydra</col> is one of the toughest",
+        "line2": "bosses in-game. It is an instanced boss so",
+        "line3": "you must be prepared with the strongest equipment",
+        "line4": "to be able to slay the boss.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2697,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "The @dre@Mutant tarn</col> drops the @dre@Twisted bow</col> and",
+        "line2": "known to have many different attack styles.",
+        "line3": "It is best if you go there with a team of 3",
+        "line4": "people at least to be able to slay the boss.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2698,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "The @dre@Adamant dragon</col> and @dre@Rune dragon</col> drops the",
+        "line2": "@dre@Dragon's godsword</col> which is the strongest in-game.",
+        "line3": "You can teleport there from your spell book as well.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2699,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "@blu@Ancient dungeon</col> has several slayer monsters to",
+        "line2": "slay. It is quite useful area as it can fit many players.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2700,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "@red@This is the OSRS Tokens Store!",
+        "line2": "@red@You can sell your items for cash, and buy OSRS tokens.",
+        "line3": "@yel@Each token can be traded for 1 mill OSRS GP!",
+        "line4": "Talk to the NPC for more information.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2701,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Meow! RRRRAAAAAAAAAAWRRRR!",
+        "next": 2702,
+        "npcId": 5597
+    },
+	{
+        "id": 2702,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I am leaving you alone...",
+        "next": -1,
+        "npcId": 1013
+    },
+    {
+        "id": 2703,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Are you use you want to disassemble this item?",
+		"line2": "You can reassemble this item back again.",
+        "next": 2704,
+        "npcId": 3193
+    },
+    {
+        "id": 2704,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Proceed.",
+        "line2": "Cancel.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2705,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Would you like to gamble your max cape and hood",
+		"line2": "for the chance of winning? If you hit",
+		"line3": "a 0,1,2,3 out of 100, you'll win a colorful max cape.",
+		"line4": "The colorful max cape parts can be recolored to any color.",
+        "next": 2706,
+        "npcId": 3360
+    },
+    {
+        "id": 2706,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Accept.",
+        "line2": "Cancel.",
+        "next": -1
+    },
+    {
+        "id": 2707,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Adventurer, you have hit the jackpot!",
+		"line2": "For this, I congratulate you. Please accept this cape",
+		"line3": "as a sign of your accomplishment.",
+        "next": -1,
+        "npcId": 3360
+    },
+    {
+        "id": 2708,
+        "type": "OPTION",
+        "lines": 4,
+        "line1": "Kamil.",
+        "line2": "Mutant Tarn.",
+        "line3": "Dagganoth Kings.",
+        "line4": "Black Knight Titan.",
+        "next": -1,
+        "npcId": 315
+    },
+    {
+        "id": 2709,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Are you use you want to empty your shield?",
+		"line2": "Once you do, you wont be able to undo this.",
+        "next": 2704,
+        "npcId": -1
+    },
+    {
+        "id": 2710,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can I help you at all?",
+        "next": 2651,
+        "npcId": 1768
+    },
+	{
+        "id": 2711,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Howdy, adventurer..",
+        "line2": "Show me your item, and I can note..",
+        "line3": "or un-note. Stay safe!",
+        "next": -1,
+        "npcId": 13
+    },
+	{
+        "id": 2712,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hello, dear adventurer..",
+        "line2": "I can tell you that in ancient history the",
+        "line3": "Fremennik's has once ruled the world.",
+        "next": 2713,
+        "npcId": 3538
+    },
+	{
+        "id": 2713,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "That's good to hear Ali!",
+        "next": -1,
+        "npcId": 3538
+    },
+    {
+        "id": 2714,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Meow!",
+        "next": 2715,
+        "npcId": 1626
+    },
+	{
+        "id": 2715,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "You are a lovely kitten!",
+        "next": -1,
+        "npcId": 1626
+    },
+  {
+    "id": 2716,
+    "type": "STATEMENT",
+    "anim": "DEFAULT",
+    "lines": 1,
+    "line1": "Are you use you want to empty your Toxic blowpipe?",
+    "next": 2629,
+    "npcId": 3193
+  },
+  {
+    "id": 2717,
+    "type": "NPC_STATEMENT",
+    "anim": "DEFAULT",
+    "lines": 1,
+    "line1": "*hik haha*",
+    "next": -1,
+    "npcId": 6823
+  },
+	{
+        "id": 2718,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "Dr. Harlow, What are you drinking?",
+        "next": 2719,
+        "npcId": 3480
+    },
+	{
+        "id": 2719,
+        "type": "NPC_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 1,
+        "line1": "Huh? heloooo k j aa..ooo!",
+        "next": 2720,
+        "npcId": 3480
+    },
+	{
+        "id": 2720,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM",
+        "lines": 1,
+        "line1": "...",
+        "next": -1,
+        "npcId": 3480
+    },
+	{
+        "id": 2721,
+        "type": "PLAYER_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "I'm, sorry for disturbing you chief, goodbye!",
+        "next": -1,
+        "npcId": 1013
+    },
+    {
+        "id": 2722,
+        "type": "NPC_STATEMENT",
+        "anim": "HAPPY",
+        "lines": 1,
+        "line1": "Nice day we're having, isn't it?",
+        "next": -1,
+        "npcId": 3108
+    },
+    {
+        "id": 2723,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes please!",
+        "line2": "No, thanks.",
+        "next": -1,
+        "npcId": 4858
+    },
+	{
+        "id": 2724,
+        "type": "PLAYER_STATEMENT",
+        "anim": "CALM_2",
+        "lines": 1,
+        "line1": "I already know the game.",
+        "next": 2580,
+        "npcId": 306
+    },
+	{
+        "id": 2725,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I have broken items that needs to be repaired.",
+        "next": 20,
+        "npcId": 7456
+    },
+	{
+        "id": 2726,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Which creature is cooler, Drakes, Hydras or Wyrms?",
+        "next": 2727,
+        "npcId": -1
+    },
+	{
+        "id": 2727,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I may be biased in this situation... bit silly to ask me",
+        "line2": "isn't it?",
+        "next": 2742,
+        "npcId": 8517
+    },
+	{
+        "id": 2728,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Which creature is cooler, Drakes, Hydras or Wyrms?",
+        "next": 2729,
+        "npcId": -1
+    },
+	{
+        "id": 2729,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I may be biased in this situation... bit silly to ask me",
+        "line2": "isn't it?",
+        "next": 2742,
+        "npcId": 8518
+    },
+	{
+        "id": 2730,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Which creature is cooler, Drakes, Hydras or Wyrms?",
+        "next": 2731,
+        "npcId": -1
+    },
+	{
+        "id": 2731,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I may be biased in this situation... bit silly to ask me",
+        "line2": "isn't it?",
+        "next": 2742,
+        "npcId": 8519
+    },
+	{
+        "id": 2732,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Which creature is cooler, Drakes, Hydras or Wyrms?",
+        "next": 2733,
+        "npcId": -1
+    },
+	{
+        "id": 2733,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I may be biased in this situation... bit silly to ask me",
+        "line2": "isn't it?",
+        "next": 2742,
+        "npcId": 8520
+    },
+	{
+        "id": 2734,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So how was that chemical bath?!",
+        "next": 2735,
+        "npcId": -1
+    },
+	{
+        "id": 2735,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nasty! I don't want to do that again.",
+        "next": -1,
+        "npcId": 8517
+    },
+	{
+        "id": 2736,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So how was that chemical bath?!",
+        "next": 2737,
+        "npcId": -1
+    },
+	{
+        "id": 2737,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nasty! I don't want to do that again.",
+        "next": -1,
+        "npcId": 8518
+    },
+	{
+        "id": 2738,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So how was that chemical bath?!",
+        "next": 2739,
+        "npcId": -1
+    },
+	{
+        "id": 2739,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nasty! I don't want to do that again.",
+        "next": -1,
+        "npcId": 8519
+    },
+	{
+        "id": 2740,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So how was that chemical bath?!",
+        "next": 2741,
+        "npcId": -1
+    },
+	{
+        "id": 2741,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Nasty! I don't want to do that again.",
+        "next": -1,
+        "npcId": 8520
+    },
+	{
+        "id": 2742,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Alright alright... don't lose your head.",
+        "next": -1,
+        "npcId": -1
+    },
+	{
+        "id": 2743,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So... you're alchemical..",
+        "line2": "Does that mean I can turn you into gold?",
+        "next": 2744,
+        "npcId": -1
+    },
+	{
+        "id": 2744,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I like my form as it is.",
+        "next": 2745,
+        "npcId": 8517
+    },
+	{
+        "id": 2745,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But... I love gold.",
+        "next": 2746,
+        "npcId": -1
+    },
+	{
+        "id": 2746,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'll turn to gold when drakes fly.",
+        "next": -1,
+        "npcId": 8517
+    },
+	{
+        "id": 2747,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So... you're alchemical..",
+        "line2": "Does that mean I can turn you into gold?",
+        "next": 2748,
+        "npcId": -1
+    },
+	{
+        "id": 2748,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I like my form as it is.",
+        "next": 2749,
+        "npcId": 8518
+    },
+	{
+        "id": 2749,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But... I love gold.",
+        "next": 2750,
+        "npcId": -1
+    },
+	{
+        "id": 2750,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'll turn to gold when drakes fly.",
+        "next": -1,
+        "npcId": 8518
+    },
+	{
+        "id": 2751,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So... you're alchemical..",
+        "line2": "Does that mean I can turn you into gold?",
+        "next": 2752,
+        "npcId": -1
+    },
+	{
+        "id": 2752,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I like my form as it is.",
+        "next": 2753,
+        "npcId": 8519
+    },
+	{
+        "id": 2753,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But... I love gold.",
+        "next": 2754,
+        "npcId": -1
+    },
+	{
+        "id": 2754,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'll turn to gold when drakes fly.",
+        "next": -1,
+        "npcId": 8519
+    },
+	{
+        "id": 2755,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "So... you're alchemical..",
+        "line2": "Does that mean I can turn you into gold?",
+        "next": 2755,
+        "npcId": -1
+    },
+	{
+        "id": 2756,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, I like my form as it is.",
+        "next": 2757,
+        "npcId": 8520
+    },
+	{
+        "id": 2757,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But... I love gold.",
+        "next": 2758,
+        "npcId": -1
+    },
+	{
+        "id": 2758,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I'll turn to gold when drakes fly.",
+        "next": -1,
+        "npcId": 8520
+    },
+	{
+        "id": 2759,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Hop inside my mouth if you want to live!",
+        "next": 2760,
+        "npcId": 6715
+    },
+	{
+        "id": 2760,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I'm not falling for that... I'm not a fish!",
+        "line2": "I've got more foresight than that.",
+        "next": -1,
+        "npcId": -1
+    },
+	{
+        "id": 2761,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Squeak squeak!",
+        "next": -1,
+        "npcId": 6719
+    },
+	{
+        "id": 2762,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Squeak squeak!",
+        "next": -1,
+        "npcId": 6718
+    },
+	{
+        "id": 2763,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Squeak squeak!",
+        "next": -1,
+        "npcId": 6720
+    },
+	{
+        "id": 2764,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "How much wood could a woodchuck chuck if",
+        "line2": "a woodchuck could chuck wood?",
+        "next": 2765,
+        "npcId": -1
+    },
+	{
+        "id": 2765,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Approximately 32,768 depending on his woodcutting",
+        "line2": "level.",
+        "next": -1,
+        "npcId": 6717
+    },
+	{
+        "id": 2766,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2767,
+        "npcId": 7337
+    },
+	{
+        "id": 2767,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7337
+    },
+	{
+        "id": 2768,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2769,
+        "npcId": 7338
+    },
+	{
+        "id": 2769,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7338
+    },
+	{
+        "id": 2770,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2771,
+        "npcId": 7339
+    },
+	{
+        "id": 2771,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7339
+    },
+	{
+        "id": 2772,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2773,
+        "npcId": 7340
+    },
+	{
+        "id": 2773,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7340
+    },
+	{
+        "id": 2774,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2775,
+        "npcId": 7341
+    },
+	{
+        "id": 2775,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7341
+    },
+	{
+        "id": 2776,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2777,
+        "npcId": 7342
+    },
+	{
+        "id": 2777,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7342
+    },
+	{
+        "id": 2778,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2779,
+        "npcId": 7343
+    },
+	{
+        "id": 2779,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7343
+    },
+	{
+        "id": 2780,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2781,
+        "npcId": 7344
+    },
+	{
+        "id": 2781,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7344
+    },
+	{
+        "id": 2782,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2783,
+        "npcId": 7345
+    },
+	{
+        "id": 2783,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7345
+    },
+	{
+        "id": 2784,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2785,
+        "npcId": 7346
+    },
+	{
+        "id": 2785,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7346
+    },
+	{
+        "id": 2786,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2787,
+        "npcId": 7347
+    },
+	{
+        "id": 2787,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7347
+    },
+	{
+        "id": 2788,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2789,
+        "npcId": 7348
+    },
+	{
+        "id": 2789,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7348
+    },
+	{
+        "id": 2790,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2791,
+        "npcId": 7349
+    },
+	{
+        "id": 2791,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7349
+    },
+	{
+        "id": 2792,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Can you see your own rift?",
+        "next": 2793,
+        "npcId": 7350
+    },
+	{
+        "id": 2793,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No. From time to time I feel it shift and change",
+        "line2": "inside me though. It is an odd feeling.",
+        "next": -1,
+        "npcId": 7350
+    },
+	{
+        "id": 2794,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So you're made entirely of rocks?",
+        "next": 2795,
+        "npcId": -1
+    },
+	{
+        "id": 2795,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Not quite, my body is formed mostly of minerals.",
+        "next": 2796,
+        "npcId": 2182
+    },
+	{
+        "id": 2796,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Aren't minerals just rocks?",
+        "next": 2797,
+        "npcId": -1
+    },
+	{
+        "id": 2797,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "No, rocks are rocks, minerals are minerals.",
+        "line2": "I am formed from minerals.",
+        "next": 2798,
+        "npcId": 2182
+    },
+	{
+        "id": 2798,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But you're a Rock Golem...",
+        "next": -1,
+        "npcId": -1
+    },
+	{
+        "id": 2799,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Is there much competition between you raccoons and",
+        "line2": "the magpies?",
+        "next": 2800,
+        "npcId": -1
+    },
+	{
+        "id": 2800,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Magpies have nothing on us!",
+        "line2": "They're just interested in shinies.",
+        "next": 2801,
+        "npcId": 7336
+    },
+	{
+        "id": 2801,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Us raccoons have a finer taste, we can see the value",
+        "line2": "in anything, whether it shines or not.",
+        "next": -1,
+        "npcId": 7336
+    },
+	{
+        "id": 2802,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How are you doing today?",
+        "next": 2803,
+        "npcId": -1
+    },
+	{
+        "id": 2803,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I am Tangleroot!",
+        "next": -1,
+        "npcId": 7335
+    },
+	{
+        "id": 2804,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So how come you are so agile?",
+        "next": 2805,
+        "npcId": -1
+    },
+	{
+        "id": 2805,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "If you were so nutty about nuts, maybe you",
+        "line2": "would understand the great lengths we go to!",
+        "next": -1,
+        "npcId": 7334
+    },
+    {
+        "id": 2806,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Thanks, adventurer..",
+        "line2": "You've received some blood money.",
+        "line3": "Spend it wisely.",
+        "next": -1,
+        "npcId": 7943
+    },
+    {
+        "id": 2807,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You don't have any emblems",
+        "line2": "in your inventory...",
+        "next": -1,
+        "npcId": 7943
+    },
+    {
+        "id": 2808,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "This is the @blu@Gambling zone</col> to gamble with other players.",
+        "line2": "You need a dicer's rank to be able to do so.",
+        "line3": "There are five different gamble modes to choose from!",
+        "line4": "The gambling system is automated to prevent any scamming.",
+        "next": -1,
+        "npcId": 306
+    },
+    {
+        "id": 2809,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "There are hidden clue scrolls with unique rewards.",
+        "line2": "@red@Remember there are over 236 tasks to finish for great rewards.",
+	"line3": "@red@Be careful from guards when thieving from the stalls!",
+        "next": 2605,
+        "npcId": 306
+    },
+    {
+        "id": 2810,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Are you use you want to use the bond on this player?",
+	"line2": "Once you do, you wont be able to undo this.",
+        "next": 2811,
+        "npcId": 3193
+    },
+    {
+        "id": 2811,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Gift it to the player.",
+        "line2": "I want to keep my bond.",
+        "next": -1,
+        "npcId": 4858
+    },
+    {
+        "id": 2812,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Look out, here comes TzTok-Jad!",
+        "next": -1,
+        "npcId": 2180
+    },
+	{
+        "id": 2813,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Well done in the cave, here take TokKul as reward.",
+        "next": -1,
+        "npcId": 2180
+    },
+	{
+        "id": 2814,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Well I suppose you tried... better luck next time.",
+        "next": -1,
+        "npcId": 2180
+    },
+	{
+        "id": 2815,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "So you're made entirely of rocks?",
+        "next": 2816,
+        "npcId": 2182
+    },
+	{
+        "id": 2816,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": " Not quite, my body is formed mostly of minerals.",
+        "next": 2817,
+        "npcId": 2182
+    },
+	{
+        "id": 2817,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Aren't minerals just rocks?",
+        "next": 2818,
+        "npcId": 2182
+    },
+	{
+        "id": 2818,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "No, rocks are rocks, minerals are minerals. I am formed from minerals.",
+        "next": 2819,
+        "npcId": 2182
+    },
+	{
+        "id": 2819,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "But you're a Rock Golem...",
+        "next": -1,
+        "npcId": 2182
+    },
+	{
+        "id": 2820,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Prepare to fight for your life!",
+        "next": -1,
+        "npcId": 4853
+    },
+    {
+        "id": 2821,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Look out, here comes The Inadequacy!",
+        "next": -1,
+        "npcId": 4853
+    },
+	{
+        "id": 2822,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Well done in the cave, here take some Hydro coins as reward.",
+        "next": -1,
+        "npcId": 4853
+    },
+	{
+        "id": 2823,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Well I suppose you tried... better luck next time.",
+        "next": -1,
+        "npcId": 4853
+    },
+    {
+        "id": 2824,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Better luck next time, Uglogwee.",
+        "next": -1,
+        "npcId": 4853
+    },
+    {
+        "id": 2825,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You defeated The Inadequacy, I am most impressed!",
+        "line2": "Please accept this cape as a gift.",
+        "next": -1,
+        "npcId": 4853
+    },
+    {
+        "id": 2826,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Accomplished crafters from all over the",
+		"line2": "land come here to use our top notch workshops.",
+		"line3": "Help me with some Crafting tasks and get rewarded?",
+        "next": 2504,
+        "npcId": 5810
+    },
+   {
+        "id": 2827,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "There are stuff to craft! Isn't that great?",
+		"line2": "So you'll need to venture out and enjoy the craft",
+		"line3": "as you craft the items! Sounds good?",
+        "next": 2504,
+        "npcId": 5810
+    },
+        {
+        "id": 2828,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you don't seem to have crafted",
+		"line2": "with your hands enough for me to",
+		"line3": "hand your the Crafting master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 5810
+    },
+    {
+        "id": 2829,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Master crafter ayy, takes one to know one.",
+		"line2": "Here, take this cape.",
+        "next": 2517,
+        "npcId": 5810
+    },
+    {
+        "id": 2830,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "My name is Ignatius Vulcan. I realised",
+		"line2": "the beauty and power of flames! Do you",
+		"line3": "want some Firemaking tasks to become like me?",
+        "next": 2504,
+        "npcId": 118
+    },
+   {
+        "id": 2831,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Stare into the flame and witness the purity and",
+		"line2": "power of fire! Everything must be purified by fire!",
+		"line3": "Everything must be purified by fire!",
+		"line4": "Ready to venture out and fire me some flames?",
+        "next": 2504,
+        "npcId": 118
+    },
+        {
+        "id": 2832,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you don't seem to have purified",
+		"line2": "fire with your hands enough for me to",
+		"line3": "hand your the Firemaking master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 118
+    },
+    {
+        "id": 2833,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You are already a master of fire",
+		"line2": "Here, take this cape and keep purifying.",
+        "next": 2517,
+        "npcId": 118
+    },
+    {
+        "id": 2834,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Ahoy there! Don't mind me parrot Jiccky!",
+		"line2": "I can give you a skilling tasks to do with",
+		"line3": "Agility. Would you like one?",
+        "next": 2504,
+        "npcId": 5789
+    },
+   {
+        "id": 2835,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Agility training improves flexibility, balance",
+		"line2": "and control. It also increases our stamina which",
+		"line3": "helps us recover faster after intensive workout",
+		"line4": "Do you want to get started with some Agility tasks?",
+        "next": 2504,
+        "npcId": 5789
+    },
+        {
+        "id": 2836,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't proven your dexterity",
+		"line2": "and completed enough obstacles for me to",
+		"line3": "hand you the Agility master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 5789
+    },
+    {
+        "id": 2837,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Skillcape of Agility be the symbol of the master",
+		"line2": "of dexterity! Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 5789
+    },
+    {
+        "id": 2838,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "1 dose.",
+        "line2": "2 doses.",
+        "line3": "3 doses.",
+        "line4": "4 doses.",
+        "line5": "Cancel.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2839,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You are trying to decant too many potions at once!",
+        "line2": "Try again with less potions.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2840,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I don't think you've got anything that I can decant.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2841,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "You're a bit short of inventory space.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2842,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You're a bit short of empty vessels or cash. Empty vials",
+        "line2": "will cost you 5gp each.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2843,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "There, I've done what I can, but you're a bit short of",
+        "line2": "empty vessels or cash. Empty vials will cost you 5gp",
+        "line3": "each.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2844,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "There, all done.",
+        "next": -1,
+        "npcId": 4753
+    },
+    {
+        "id": 2845,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hello again. How is the Herblore going?",
+		"line2": "I can give you a skilling tasks to do with",
+		"line3": "Herblore. Would you like one?",
+        "next": 2504,
+        "npcId": 5045
+    },
+   {
+        "id": 2846,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Herblore is the skill of working with herbs and",
+		"line2": "ingredients, to make useful potions and poison.",
+		"line3": "Different potions also require different Herblore levels.",
+		"line4": "Do you want to get started on Herblore tasks?",
+        "next": 2504,
+        "npcId": 5045
+    },
+        {
+        "id": 2847,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't proven your brewing and",
+		"line2": "potion making is professional enough to",
+		"line3": "hand you the Herblore master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 5045
+    },
+    {
+        "id": 2848,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Skillcape of Herblore be the symbol of the master",
+		"line2": "of brewing! Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 5045
+    },
+    {
+        "id": 2849,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Hey, I am praising the holy gods of Saradomin.",
+        "line2": "I can give you a holy task to do with",
+        "line3": "Prayer. Would you like one?",
+        "next": 2504,
+        "npcId": 2578
+    },
+   {
+        "id": 2850,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Prayer is all becoming so devout in praising the gods.",
+		"line2": "The higher your Prayer level the stronger spirit",
+		"line3": "and you can become more closer to god.",
+		"line4": "Do you want to get started on Prayer tasks?",
+        "next": 2504,
+        "npcId": 2578
+    },
+        {
+        "id": 2851,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't become a master in the holy",
+		"line2": "spirits of Saradomin praising enough to",
+		"line3": "hand you the Prayer master cape. Come",
+		"line4": "back when you have gained more experience.",
+        "next": -1,
+        "npcId": 2578
+    },
+    {
+        "id": 2852,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Skillcape of Prayer is the hardest of all the",
+		"line2": "skillcapes to get! Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 2578
+    },
+    {
+        "id": 2853,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Only accomplished chefs and cooks are allowed in here.",
+        "line2": "I can give you a chefs task to do with",
+        "line3": "Cooking. Would you like one?",
+        "next": 2504,
+        "npcId": 2658
+    },
+   {
+        "id": 2854,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Who doesn't love cooking? It's all about taste.",
+		"line2": "The higher the Cooking level the less likely",
+		"line3": "you're prone to burning food and tastes better.",
+		"line4": "Do you want to get started on some recipes?",
+        "next": 2504,
+        "npcId": 2658
+    },
+        {
+        "id": 2855,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't become a master in the",
+		"line2": "recipies and cooking enough to hand",
+		"line3": "you the Cooking master cape. Come back",
+		"line4": "when you have gained more experience.",
+        "next": -1,
+        "npcId": 2658
+    },
+    {
+        "id": 2856,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "I can see you are one of the best chefs around!",
+		"line2": "Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 2658
+    },
+    {
+        "id": 2857,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "If someone wants any runes, please send them",
+        "line2": "to me. I can give you a skill task to do with",
+        "line3": "Runecrafting. Would you like one?",
+        "next": 2504,
+        "npcId": 2886
+    },
+   {
+        "id": 2858,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Runecrafting is all about binding the essence",
+		"line2": "with its Runecrafting altar allowing you",
+		"line3": "to create many different magical runes for magic.",
+		"line4": "Do you want a Runecrafting skill task?",
+        "next": 2504,
+        "npcId": 2886
+    },
+        {
+        "id": 2859,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't become a master in binding",
+		"line2": "essence to their respective altar to",
+		"line3": "get the Runecrafting master cape. Come back",
+		"line4": "when you have gained more experience.",
+        "next": -1,
+        "npcId": 2886
+    },
+    {
+        "id": 2860,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Cape of Runecrafting has been upgraded with",
+		"line2": "each talisman. Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 2886
+    },
+    {
+        "id": 2861,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Fletch! Fletch! Fletch! It's an art to me.",
+        "line2": "I can give you a skill task to do with",
+        "line3": "Fletching. Would you like one?",
+        "next": 2504,
+        "npcId": 3212
+    },
+   {
+        "id": 2862,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Fletching is all about creation and art.",
+		"line2": "It allows you to fletch logs to create",
+		"line3": "to create bows, ammunition, shields and more.",
+		"line4": "Do you want a Fletching skill task?",
+        "next": 2504,
+        "npcId": 3212
+    },
+        {
+        "id": 2863,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Sorry but you haven't become a master in fletching",
+		"line2": "to which I can see your art in logs creation to",
+		"line3": "get the Fletching master cape. Come back",
+		"line4": "when you have gained more experience.",
+        "next": -1,
+        "npcId": 3212
+    },
+    {
+        "id": 2864,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "The Cape of Fletching has been created with",
+		"line2": "fletching art. Here take this cape as a reward.",
+        "next": 2517,
+        "npcId": 3212
+    },
+    {
+        "id": 2865,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "....",
+        "next": 2866,
+        "npcId": 7368
+    },
+    {
+        "id": 2866,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "What are you staring at?",
+        "next": 2867,
+        "npcId": 7368
+    },
+    {
+        "id": 2867,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "The great Sul Supra..",
+        "next": 2868,
+        "npcId": 7368
+    },
+    {
+        "id": 2868,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "Is that me?",
+        "next": 2869,
+        "npcId": 7368
+    },
+    {
+        "id": 2869,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "No mortal. The Sun, as you would say.",
+        "next": 2870,
+        "npcId": 7368
+    },
+    {
+        "id": 2870,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "Do you worship it?",
+        "next": 2871,
+        "npcId": 7368
+    },
+    {
+        "id": 2871,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "2",
+        "line1": "It is wonderous... ",
+        "line2": "If only I could be so grossly incandescent.",
+        "next": "-1",
+        "npcId": 7368
+    },
+    {
+        "id": 2872,
+        "type": "OPTION",
+        "lines": 5,
+        "line1": "Falador Farm",
+        "line2": "Catherby Patch 1",
+        "line3": "Catherby Patch 2",
+        "line4": "Canifis Farm",
+        "line5": "Ardougne Farm",
+        "next": -1,
+        "npcId": -1
+    },
+    {
+        "id": 2873,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "Are you hungry?",
+        "next": 2874,
+        "npcId": 7760
+    },
+    {
+        "id": 2874,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "That depends, what have you got?",
+        "next": 2875,
+        "npcId": 7760
+    },
+    {
+        "id": 2875,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "I'm sure I could knock you up a decent salad.",
+        "next": 2876,
+        "npcId": 7760
+    },
+    {
+        "id": 2876,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "I'm actually a insectivore...",
+        "next": 2877,
+        "npcId": 7760
+    },
+    {
+        "id": 2877,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "Oh, but your name suggests that-",
+        "next": 2878,
+        "npcId": 7760
+    },
+    {
+        "id": 2878,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "2",
+        "line1": "I think you'll find I didn't name myself,",
+        "line2": "you humans and your silly puns.",
+        "next": 2879,
+        "npcId": 7760
+    },
+    {
+        "id": 2879,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "No need to PUNish us for our incredible wit.",
+        "next": 2880,
+        "npcId": 7760
+    },
+    {
+        "id": 2880,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": "1",
+        "line1": "Please. Stop.",
+        "next": -1,
+        "npcId": 7760
+    },
+    {
+        "id": 2881,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How is a pet nex even possible?",
+        "next": -1,
+        "npcId": 11277
+    },
+    {
+        "id": 2882,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 4,
+        "line1": "Would you like to gamble your angelic cape for a chance",
+		"line2": "of winning? If you hit a 15 out of 15, you'll win a ",
+		"line3": "colorful angelic cape. The colorful angelic cape",
+		"line4": "parts can be recolored to any color.",
+        "next": 2883,
+        "npcId": 1012
+    },
+    {
+        "id": 2883,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Accept.",
+        "line2": "Cancel.",
+        "next": -1
+    },
+    {
+        "id": 2884,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Adventurer, you have hit the jackpot!",
+		"line2": "For this, I congratulate you. Please accept this cape",
+		"line3": "as a sign of your accomplishment.",
+        "next": -1,
+        "npcId": 1012
+    },
+	{
+        "id": 2885,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "What are titan beasts called?",
+        "next": 2886,
+        "npcId": 4067
+    },
+	{
+        "id": 2886,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "We are the titans. The strongest of all kinds.",
+        "line2": "I am better known as the War Hammer Titan.",
+        "next": -1,
+        "npcId": 4067
+    },
+	{
+        "id": 2887,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I don't think this giant will ever understand me.",
+        "next": -1,
+        "npcId": 8101
+    },
+	{
+        "id": 2889,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Lava dragons are former red dragons that have been",
+        "line2": "transformed after being surrounded by lava for too long.",
+        "next": -1,
+        "npcId": 6593
+    },
+	{
+        "id": 2891,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "People are often afraid from zogre flesh eaters.",
+        "line2": "Do you really eat humans?",
+        "next": 2892,
+        "npcId": 882
+    },
+	{
+        "id": 2892,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "...? You hear weird crunch noises.",
+        "line2": "It's better to back up before its too late.",
+        "next": -1,
+        "npcId": 882
+    },
+	{
+        "id": 2893,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Tarn's spirit looks angry...",
+        "next": 2894,
+        "npcId": 6475
+    },
+	{
+        "id": 2894,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Break yourselves upon my body!",
+        "line2": "Feel the strength of the earth!!!",
+        "next": -1,
+        "npcId": 6475
+    },
+	{
+        "id": 2895,
+        "type": "STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Squash! Squash! Translation: TO.. Aquais Neige!",
+        "line2": "Where are you my Cyrius.. I'm calling you!",
+        "next": -1,
+        "npcId": 6350
+    },
+	{
+        "id": 2896,
+        "type": "PLAYER_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I better not be touching this creature.",
+        "next": -1,
+        "npcId": 6352
+    },
+	{
+        "id": 2897,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "We, Are, Alive! Happy Halloween stranger..sk.skk!",
+        "next": -1,
+        "npcId": 2988
+    }
+]

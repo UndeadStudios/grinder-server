@@ -1,0 +1,2287 @@
+[
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2736,
+          "Y": 9159,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 5802,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2736,
+          "Y": 9159,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2741,
+          "Y": 9205,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 5800,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2741,
+          "Y": 9205,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2690,
+          "Y": 9163,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 5801,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2690,
+          "Y": 9163,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2696,
+          "Y": 9212,
+          "Z": 1
+        }
+      },
+      "CLOSED": {
+        "Id": 5799,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2696,
+          "Y": 9212,
+          "Z": 1
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1581,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 3289,
+          "Y": 9804,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1579,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 3289,
+          "Y": 9804,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3096,
+      "Y": 9867,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2749,
+          "Y": 2768,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4712,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2749,
+          "Y": 2768,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2905,
+          "Y": 3537,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 7257,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2905,
+          "Y": 3537,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3061,
+      "Y": 4985,
+      "Z": 1
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4880,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2807,
+          "Y": 2785,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4879,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2807,
+          "Y": 2785,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 2807,
+      "Y": 9201,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2928,
+          "Y": 3258,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 25214,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 2928,
+          "Y": 3258,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2845,
+          "Y": 3525,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 100,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2845,
+          "Y": 3525,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2764,
+          "Y": 2769,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4712,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2764,
+          "Y": 2769,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 11867,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3019,
+          "Y": 3450,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3019,
+          "Y": 3450,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3018,
+      "Y": 9850,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1738,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3008,
+          "Y": 3150,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3008,
+          "Y": 3150,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3009,
+      "Y": 9550,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 9560,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3013,
+          "Y": 3179,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3013,
+          "Y": 3179,
+          "Z": 2
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3014,
+      "Y": 3179,
+      "Z": 1
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2967,
+          "Y": 3469,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": 15523,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2967,
+          "Y": 3469,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2637,
+          "Y": 3408,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 6278,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2637,
+          "Y": 3408,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2575,
+          "Y": 3255,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 100,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2575,
+          "Y": 3255,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1581,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2593,
+          "Y": 3162,
+          "Z": 3
+        }
+      },
+      "CLOSED": {
+        "Id": 1579,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2593,
+          "Y": 3162,
+          "Z": 3
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2647,
+          "Y": 3657,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 100,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2647,
+          "Y": 3657,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2650,
+          "Y": 3661,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 100,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2650,
+          "Y": 3661,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4173,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2631,
+          "Y": 3663,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": 4174,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2631,
+          "Y": 3663,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4173,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2636,
+          "Y": 3663,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": 4174,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2636,
+          "Y": 3663,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 26119,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2715,
+          "Y": 3472,
+          "Z": 3
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2715,
+          "Y": 3472,
+          "Z": 3
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 2714,
+      "Y": 3472,
+      "Z": 1
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2370,
+          "Y": 3133,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": 4472,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2370,
+          "Y": 3133,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1581,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2399,
+          "Y": 3099,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1579,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 22,
+        "Position": {
+          "X": 2399,
+          "Y": 3099,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1581,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2400,
+          "Y": 3108,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1579,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 2400,
+          "Y": 3108,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2429,
+          "Y": 3074,
+          "Z": 2
+        }
+      },
+      "CLOSED": {
+        "Id": 4471,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 22,
+        "Position": {
+          "X": 2429,
+          "Y": 3074,
+          "Z": 2
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2542,
+          "Y": 3327,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 8783,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2542,
+          "Y": 3327,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 2044,
+      "Y": 4649,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2445,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2463,
+          "Y": 3497,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2446,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 2463,
+          "Y": 3497,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 2464,
+      "Y": 9897,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 11668,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 3681,
+          "Y": 3498,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 11667,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 3681,
+          "Y": 3498,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3682,
+      "Y": 9961,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 16114,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3653,
+          "Y": 3519,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 16113,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3653,
+          "Y": 3519,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3669,
+      "Y": 9888,
+      "Z": 3
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3605,
+          "Y": 3215,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 32577,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 10,
+        "Position": {
+          "X": 3605,
+          "Y": 3215,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 32641,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3726,
+          "Y": 3356,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3726,
+          "Y": 3356,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3363,
+          "Y": 3213,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3363,
+          "Y": 3213,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3363,
+          "Y": 3232,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3363,
+          "Y": 3232,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3363,
+          "Y": 3251,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3363,
+          "Y": 3251,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3389,
+          "Y": 3251,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3389,
+          "Y": 3251,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3389,
+          "Y": 3232,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3389,
+          "Y": 3232,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3389,
+          "Y": 3213,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3389,
+          "Y": 3213,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1581,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 3405,
+          "Y": 3507,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1579,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 22,
+        "Position": {
+          "X": 3405,
+          "Y": 3507,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3405,
+      "Y": 9906,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3332,
+          "Y": 3213,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3332,
+          "Y": 3213,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3332,
+          "Y": 3251,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3332,
+          "Y": 3251,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3332,
+          "Y": 3232,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 10,
+        "Position": {
+          "X": 3332,
+          "Y": 3232,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3345,
+          "Y": 3206,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3345,
+          "Y": 3206,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3358,
+          "Y": 3251,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3358,
+          "Y": 3251,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3345,
+          "Y": 3220,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 10,
+        "Position": {
+          "X": 3345,
+          "Y": 3220,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3358,
+          "Y": 3232,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3358,
+          "Y": 3232,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 3433,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3422,
+          "Y": 3485,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3432,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3422,
+          "Y": 3485,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3440,
+      "Y": 9887,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3358,
+          "Y": 3213,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3203,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3358,
+          "Y": 3213,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3495,
+          "Y": 3464,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 5055,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3495,
+          "Y": 3464,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3477,
+      "Y": 9845,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 6435,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3118,
+          "Y": 3244,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 6434,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3118,
+          "Y": 3244,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3118,
+      "Y": 9644,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 16168,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3140,
+          "Y": 3504,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 10,
+        "Position": {
+          "X": 3140,
+          "Y": 3504,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 10559,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3190,
+          "Y": 3355,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 10558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3190,
+          "Y": 3355,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 6435,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3084,
+          "Y": 3272,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 6434,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 10,
+        "Position": {
+          "X": 3084,
+          "Y": 3272,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3084,
+      "Y": 9671,
+      "Z": 0
+    }
+  },
+  {
+    "Category": "TRAPDOOR",
+    "Default State": "OPENED",
+    "Current State": "OPENED",
+    "Mode": "FORCE",
+    "Type": "SINGLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 14880,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3209,
+          "Y": 3216,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 22,
+        "Position": {
+          "X": 3209,
+          "Y": 3216,
+          "Z": 0
+        }
+      }
+    },
+    "Climb Position": {
+      "X": 3210,
+      "Y": 9616,
+      "Z": 0
+    }
+  }
+]

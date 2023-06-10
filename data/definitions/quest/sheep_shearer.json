@@ -1,0 +1,288 @@
+[
+    {
+    	"stage": 0,
+        "id": 0,
+        "type": "NPC_STATEMENT",
+        "anim": "DISTRESSED",
+        "lines": 3,
+        "line1": "What are you doing on my land? You're not the one",
+        "line2": "who keeps leaving all my gates open and letting out all",
+        "line3": "my sheep are you?",
+        "next": 6,
+        "npcId": 732
+    },
+    {
+        "id": 1,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "I'm looking for a quest.",
+        "line2": "I'm looking for something to kill.",
+        "line3": "I'm lost",
+        "next": -1
+    },
+    {
+        "id": 2,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I'm lost.",
+        "anim": "SAD_HEAD_BOW",
+        "next": 3
+    },
+    {
+        "id": 3,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "How can you be lost? Just follow the road east and",
+        "line2": "south. You'll end up in Lumbridge fairly quickly.",
+        "next": -1,
+        "npcId": 732
+    },
+    {
+        "id": 4,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I'm looking for something to kill.",
+        "anim": "EVIL_DELIGHTED",
+        "next": 5
+    },
+    {
+        "id": 5,
+        "type": "NPC_STATEMENT",
+        "anim": "ANNOYED",
+        "lines": 2,
+        "line1": "What, on my land? Leave my livestock alone you",
+        "line2": "soundrel!",
+        "next": -1,
+        "npcId": 732
+    },
+    {
+        "id": 6,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I'm looking for a quest.",
+        "anim": "DEFAULT",
+        "next": 7
+    },
+    {
+        "id": 7,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "You're after a quest, you say? Actually I could do with",
+        "line2": "a bit of help.",
+        "next": 8,
+        "npcId": 732
+    },
+    {
+        "id": 8,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "My sheep are getting mighty wolly. I'd be much",
+        "line2": "obliged if you could shear them. And while you're at it",
+        "line3": "spin the wool for me too.",
+        "next": 9,
+        "npcId": 732
+    },
+    {
+        "id": 9,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Yes, that's it. Bring me 20 balls of wool. And I'm sure",
+        "line2": "I could sort out some sort of payment. Of course,",
+        "line3": "there's the small matter of The Thing.",
+        "next": 22,
+        "npcId": 732
+    },
+    {
+        "id": 10,
+        "type": "OPTION",
+        "lines": 3,
+        "line1": "Yes, okay. I can do that.",
+        "line2": "That doesn't sound a very exciting quest.",
+        "line3": "What do you mean, The Thing?",
+        "next": -1
+    },
+    {
+        "id": 11,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "What do you mean, The Thing?",
+        "anim": "SLEEPY",
+        "next": 12
+    },
+    {
+        "id": 12,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD",
+        "lines": 2,
+        "line1": "Well now, one one has ever seen The Thing. That's",
+        "line2": "why we call it The Thing, 'cos we don't know what it is.",
+        "next": 13,
+        "npcId": 732
+    },
+     {
+        "id": 13,
+        "type": "NPC_STATEMENT",
+        "anim": "SAD_2",
+        "lines": 3,
+        "line1": "Some say it's a black hearted shapeshifter, hungering for",
+        "line2": "the souls of hard working decent folk like me. Others",
+        "line3": "say it's just a sheep.",
+        "next": 14,
+        "npcId": 732
+    },
+    {
+        "id": 14,
+        "type": "NPC_STATEMENT",
+        "anim": "DISTRESSED_2",
+        "lines": 2,
+        "line1": "Well I don't have all day to stand around and gossip.",
+        "line2": "Are you going to shear my sheep or what!",
+        "next": 15,
+        "npcId": 732
+    },
+    {
+        "id": 15,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes, okay. I can do that.",
+        "line2": "Erm I'm a bit worried about this Thing.",
+        "next": -1
+    },
+    {
+        "id": 16,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Erm I'm a bit worried about this Thing.",
+        "anim": "DISTRESSED",
+        "next": 17
+    },
+    {
+        "id": 17,
+        "type": "NPC_STATEMENT",
+        "anim": "DISTRESSED_2",
+        "lines": 3,
+        "line1": "I'm sure it's nothing to worry about. Just because my",
+        "line2": "last shearer was seen bolting out of the field screaming",
+        "line3": "for his life doesn't mean anything.",
+        "next": 18,
+        "npcId": 732
+    },
+    {
+        "id": 18,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I'm not convinced",
+        "anim": "DISTRESSED",
+        "next": -1
+    },
+    {
+        "id": 19,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "That doesn't sound a very exciting quest.",
+        "anim": "CALM",
+        "next": 20
+    },
+    {
+        "id": 20,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 2,
+        "line1": "Well what do you expect if you ask a farmer for a",
+        "line2": "quest? Now are you going to help me or not?",
+        "next": 21,
+        "npcId": 732
+    },
+    {
+        "id": 21,
+        "type": "OPTION",
+        "lines": 2,
+        "line1": "Yes okay. I can do that.",
+        "line2": "No I'll give it a miss.",
+        "next": -1
+    },
+    {
+        "id": 22,
+        "type": "QUEST_STAGE",
+        "next": -1
+    },
+    {
+        "id": 23,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "Yes okay. I can do that.",
+        "anim": "CALM",
+        "next": 24
+    },
+    {
+        "id": 24,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 3,
+        "line1": "Good! You need sheers to cut the wall, then head",
+        "line2": "Lumbridge castle, second floor, to spin the wool",
+        "line3": "come back when you have all the balls of wool ready!",
+        "next": -1,
+        "npcId": 732
+    },
+    {
+    	"stage": 1,
+        "id": 25,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "How are you doing getting those balls of wool?",
+        "next": 26,
+        "npcId": 732
+    },
+    {
+        "id": 26,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 732
+    },
+    {
+        "id": 27,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I don't have all of them yet, I'll be back soon.",
+        "anim": "CALM",
+        "next": -1
+    },
+    {
+        "id": 28,
+        "type": "PLAYER_STATEMENT",
+        "lines": 1,
+        "line1": "I have all 20..",
+        "anim": "CALM",
+        "next": 29
+    },
+    {
+    	"id": 29,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "Give 'em here then.",
+        "next": 30,
+        "npcId": 732
+    },
+    {
+    	"id": 30,
+        "type": "NPC_STATEMENT",
+        "anim": "DEFAULT",
+        "lines": 1,
+        "line1": "I guess I'd better pay you then.",
+        "next": 31,
+        "npcId": 732
+    },
+    {
+        "id": 31,
+        "type": "QUEST_STAGE",
+        "next": -1,
+        "npcId": 732
+    }
+]

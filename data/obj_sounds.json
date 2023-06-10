@@ -1,0 +1,6110 @@
+{
+  "68": {
+    "ambientSoundId": 3045,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "114": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "153": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "288": {
+    "ambientSoundId": 2171,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "289": {
+    "ambientSoundId": 2171,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "290": {
+    "ambientSoundId": 2171,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "683": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "685": {
+    "ambientSoundId": 2185,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "692": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "740": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "860": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "861": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "862": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "869": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "879": {
+    "ambientSoundId": 2150,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "880": {
+    "ambientSoundId": 2151,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "1028": {
+    "ambientSoundId": 2223,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "1778": {
+    "ambientSoundId": 2226,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "1779": {
+    "ambientSoundId": 2227,
+    "int4": 25,
+    "int5": 0,
+    "int6": 0
+  },
+  "1812": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2019": {
+    "ambientSoundId": 2171,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2024": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2030": {
+    "ambientSoundId": 2210,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "2099": {
+    "ambientSoundId": 2209,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "2142": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2156": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2157": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2158": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2280": {
+    "ambientSoundId": 3673,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2281": {
+    "ambientSoundId": 3672,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2282": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2363": {
+    "ambientSoundId": 2168,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2484": {
+    "ambientSoundId": 2150,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2569": {
+    "ambientSoundId": 2227,
+    "int4": 25,
+    "int5": 0,
+    "int6": 0
+  },
+  "2572": {
+    "ambientSoundId": 2226,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2652": {
+    "ambientSoundId": 3079,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2654": {
+    "ambientSoundId": 2151,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "2843": {
+    "ambientSoundId": 3079,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2859": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2864": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2878": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2879": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2942": {
+    "ambientSoundId": 2171,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2943": {
+    "ambientSoundId": 2171,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "2966": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3294": {
+    "ambientSoundId": 2210,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3359": {
+    "ambientSoundId": 2197,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "3422": {
+    "ambientSoundId": 3157,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "3423": {
+    "ambientSoundId": 3157,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "3443": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3641": {
+    "ambientSoundId": 2151,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "3662": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3680": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3769": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3824": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "3862": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4046": {
+    "ambientSoundId": 2184,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4047": {
+    "ambientSoundId": 2184,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4090": {
+    "ambientSoundId": 2064,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4142": {
+    "ambientSoundId": 3137,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4149": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4150": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4151": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4152": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4153": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4154": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4155": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4156": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4157": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4265": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4266": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4267": {
+    "ambientSoundId": 2220,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4304": {
+    "ambientSoundId": 2208,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "4305": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4308": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4387": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4388": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4389": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4390": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4406": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4407": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4408": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4525": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4587": {
+    "ambientSoundId": 3132,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "4590": {
+    "ambientSoundId": 3145,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "4618": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4650": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "4692": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4693": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "4767": {
+    "ambientSoundId": 2064,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5097": {
+    "ambientSoundId": 3142,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "5125": {
+    "ambientSoundId": 2149,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "5161": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5164": {
+    "ambientSoundId": 2970,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5165": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5249": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5500": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5558": {
+    "ambientSoundId": 2143,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "5589": {
+    "ambientSoundId": 2422,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "5604": {
+    "ambientSoundId": 3087,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "5608": {
+    "ambientSoundId": 2220,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5911": {
+    "ambientSoundId": 2171,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5917": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5918": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5981": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "5985": {
+    "ambientSoundId": 3087,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6009": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6032": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6043": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6232": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6282": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6550": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6551": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6629": {
+    "ambientSoundId": 3123,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "6661": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6662": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6665": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6666": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6707": {
+    "ambientSoundId": 3087,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6749": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6750": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6751": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6781": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6783": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "6785": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7143": {
+    "ambientSoundId": 2151,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7183": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7184": {
+    "ambientSoundId": 2200,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7185": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7241": {
+    "ambientSoundId": 3138,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7272": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7273": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7288": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7289": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7315": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7316": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7318": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7319": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7321": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7322": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7324": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7325": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7352": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7353": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7390": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3938,
+      3940,
+      3937,
+      3939,
+      3941
+    ],
+    "int4": 12,
+    "int5": 150,
+    "int6": 250
+  },
+  "7434": {
+    "ambientSoundId": 3120,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7483": {
+    "ambientSoundId": 2197,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "7528": {
+    "ambientSoundId": 3117,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7529": {
+    "ambientSoundId": 3117,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "7530": {
+    "ambientSoundId": 3117,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "8408": {
+    "ambientSoundId": 3134,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "8409": {
+    "ambientSoundId": 3134,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "8712": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "8750": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "8954": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "8955": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9085": {
+    "ambientSoundId": 2210,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9086": {
+    "ambientSoundId": 2210,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9087": {
+    "ambientSoundId": 2210,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9089": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9099": {
+    "ambientSoundId": 3128,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9115": {
+    "ambientSoundId": 3128,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9116": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9120": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9123": {
+    "ambientSoundId": 3128,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9332": {
+    "ambientSoundId": 3121,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "9333": {
+    "ambientSoundId": 3805,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "9368": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9369": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9370": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9439": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9515": {
+    "ambientSoundId": 2143,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "9735": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "9736": {
+    "ambientSoundId": 2198,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10082": {
+    "ambientSoundId": 2208,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10091": {
+    "ambientSoundId": 3074,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10143": {
+    "ambientSoundId": 3119,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "10144": {
+    "ambientSoundId": 3073,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "10145": {
+    "ambientSoundId": 3117,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10171": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10252": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10377": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10403": {
+    "ambientSoundId": 2170,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10433": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10641": {
+    "ambientSoundId": 3146,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10660": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10738": {
+    "ambientSoundId": 3144,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10739": {
+    "ambientSoundId": 3144,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10824": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10827": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "10834": {
+    "ambientSoundId": 3134,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "11005": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11010": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11141": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11158": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11317": {
+    "ambientSoundId": 2169,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11318": {
+    "ambientSoundId": 3082,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11493": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11601": {
+    "ambientSoundId": 2208,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "11844": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11845": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11846": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11851": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "11875": {
+    "ambientSoundId": 1984,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "11935": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "11936": {
+    "ambientSoundId": 2065,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "11978": {
+    "ambientSoundId": 2208,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "12067": {
+    "ambientSoundId": 3118,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12089": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12100": {
+    "ambientSoundId": 2208,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12102": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12114": {
+    "ambientSoundId": 3114,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "12260": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12269": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12293": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12297": {
+    "ambientSoundId": 3142,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "12351": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12352": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12353": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12355": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12356": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12400": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12401": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12531": {
+    "ambientSoundId": 3076,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "12611": {
+    "ambientSoundId": 2198,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12655": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12796": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12809": {
+    "ambientSoundId": 2208,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "12941": {
+    "ambientSoundId": 2149,
+    "int4": 8,
+    "int5": 0,
+    "int6": 0
+  },
+  "12969": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13169": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13170": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13171": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13201": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13203": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13205": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13207": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13209": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13211": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13213": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13528": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13529": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13530": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13531": {
+    "ambientSoundId": 2200,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13532": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13533": {
+    "ambientSoundId": 2198,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13534": {
+    "ambientSoundId": 2198,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13535": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13536": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13537": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13538": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13539": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13540": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13541": {
+    "ambientSoundId": 2210,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13542": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13543": {
+    "ambientSoundId": 2209,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13544": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13560": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13562": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13564": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13596": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13615": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13616": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13617": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13618": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13619": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13620": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13622": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13623": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13624": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13625": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13626": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13627": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13629": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13630": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13631": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13632": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13633": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13634": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13639": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13640": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13641": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13858": {
+    "ambientSoundId": 2177,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13859": {
+    "ambientSoundId": 2175,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "13860": {
+    "ambientSoundId": 2178,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14008": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14169": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14360": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14434": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14814": {
+    "ambientSoundId": 2178,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "14888": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "14985": {
+    "ambientSoundId": 3144,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "15005": {
+    "ambientSoundId": 3082,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15017": {
+    "ambientSoundId": 3082,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15156": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15214": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15215": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15520": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3711,
+      3714,
+      3712,
+      3713
+    ],
+    "int4": 20,
+    "int5": 50,
+    "int6": 200
+  },
+  "15838": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15839": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15848": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15849": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15856": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15857": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15864": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15865": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15874": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15875": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15882": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15883": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15903": {
+    "ambientSoundId": 2197,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15905": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15937": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15941": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15942": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15949": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15952": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "15955": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16097": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16105": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16356": {
+    "ambientSoundId": 2875,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "16388": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16389": {
+    "ambientSoundId": 2064,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16390": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16391": {
+    "ambientSoundId": 2065,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16392": {
+    "ambientSoundId": 2168,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16393": {
+    "ambientSoundId": 2169,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16394": {
+    "ambientSoundId": 2170,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16395": {
+    "ambientSoundId": 2147,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16396": {
+    "ambientSoundId": 3078,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16397": {
+    "ambientSoundId": 2171,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16398": {
+    "ambientSoundId": 2166,
+    "int4": 30,
+    "int5": 0,
+    "int6": 0
+  },
+  "16399": {
+    "ambientSoundId": 2141,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16400": {
+    "ambientSoundId": 3087,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16401": {
+    "ambientSoundId": 2172,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16402": {
+    "ambientSoundId": 3089,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16403": {
+    "ambientSoundId": 3083,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16404": {
+    "ambientSoundId": 2158,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16405": {
+    "ambientSoundId": 2159,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16406": {
+    "ambientSoundId": 2160,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16407": {
+    "ambientSoundId": 2184,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16408": {
+    "ambientSoundId": 2185,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16409": {
+    "ambientSoundId": 2188,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16410": {
+    "ambientSoundId": 2182,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16411": {
+    "ambientSoundId": 2183,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16412": {
+    "ambientSoundId": 2186,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16413": {
+    "ambientSoundId": 2187,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16414": {
+    "ambientSoundId": 2179,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16415": {
+    "ambientSoundId": 2180,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16416": {
+    "ambientSoundId": 2124,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16417": {
+    "ambientSoundId": 1990,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16418": {
+    "ambientSoundId": 1991,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16419": {
+    "ambientSoundId": 1992,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16420": {
+    "ambientSoundId": 1993,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16421": {
+    "ambientSoundId": 1994,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16422": {
+    "ambientSoundId": 1995,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16423": {
+    "ambientSoundId": 3129,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "16424": {
+    "ambientSoundId": 2041,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16425": {
+    "ambientSoundId": 2048,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16426": {
+    "ambientSoundId": 2049,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16427": {
+    "ambientSoundId": 2052,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16428": {
+    "ambientSoundId": 2088,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16429": {
+    "ambientSoundId": 2083,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16430": {
+    "ambientSoundId": 2077,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16431": {
+    "ambientSoundId": 2079,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16432": {
+    "ambientSoundId": 2080,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16433": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      1984,
+      1985,
+      1986,
+      1987,
+      1988
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 300
+  },
+  "16434": {
+    "ambientSoundId": 2185,
+    "ambientSoundIds": [
+      1997,
+      2015,
+      2018,
+      1999,
+      3047,
+      3046
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 300
+  },
+  "16435": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      2010,
+      2012,
+      2011,
+      2073
+    ],
+    "int4": 15,
+    "int5": 300,
+    "int6": 500
+  },
+  "16436": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      2019,
+      2020,
+      2013,
+      2014,
+      2057,
+      2076,
+      2012
+    ],
+    "int4": 15,
+    "int5": 200,
+    "int6": 400
+  },
+  "16437": {
+    "ambientSoundId": 2185,
+    "ambientSoundIds": [
+      2084,
+      2085,
+      2086,
+      2087,
+      2092,
+      2076,
+      2093,
+      2094
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 300
+  },
+  "16438": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      2184,
+      2185,
+      2073,
+      2074,
+      2075
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16439": {
+    "ambientSoundId": 3095,
+    "ambientSoundIds": [
+      1994,
+      1995,
+      1996,
+      2135,
+      2138,
+      2008,
+      2009,
+      2095,
+      2136,
+      2137,
+      2194,
+      2204,
+      2145,
+      2143
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16440": {
+    "ambientSoundId": 2185,
+    "ambientSoundIds": [
+      2054,
+      2055,
+      2059,
+      2060,
+      2061,
+      1989,
+      2058
+    ],
+    "int4": 10,
+    "int5": 150,
+    "int6": 350
+  },
+  "16441": {
+    "ambientSoundId": 2083,
+    "ambientSoundIds": [
+      2089,
+      2090,
+      2091,
+      2094,
+      2009,
+      2067,
+      2185,
+      1999,
+      2069
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16442": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      2070,
+      2071,
+      2073,
+      2074,
+      2075,
+      2072,
+      2184
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16443": {
+    "ambientSoundId": 3061,
+    "ambientSoundIds": [
+      2179,
+      2180,
+      2181,
+      2071,
+      2074,
+      2182,
+      2183,
+      2072,
+      2188,
+      2068,
+      2224
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16444": {
+    "ambientSoundId": 3061,
+    "ambientSoundIds": [
+      2124,
+      2121,
+      2122,
+      2123,
+      2125,
+      2126,
+      2182,
+      2070,
+      2008
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16445": {
+    "ambientSoundId": 2185,
+    "ambientSoundIds": [
+      2077,
+      2079,
+      2080,
+      2081,
+      2082,
+      2078,
+      1998
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16446": {
+    "ambientSoundId": 3094,
+    "ambientSoundIds": [
+      2004,
+      2005,
+      2006,
+      2007,
+      2186,
+      2187,
+      2183,
+      2003
+    ],
+    "int4": 25,
+    "int5": 250,
+    "int6": 500
+  },
+  "16447": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2190,
+      2191
+    ],
+    "int4": 10,
+    "int5": 500,
+    "int6": 1000
+  },
+  "16448": {
+    "ambientSoundId": 3109,
+    "ambientSoundIds": [
+      3107,
+      3108,
+      3105,
+      3106,
+      3110,
+      3111,
+      3112,
+      3113
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16449": {
+    "ambientSoundId": 3093,
+    "ambientSoundIds": [
+      2040,
+      2043,
+      2044,
+      2048,
+      2045,
+      2050,
+      2052,
+      2046
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16451": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3101,
+      3102,
+      3103,
+      3104
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 250
+  },
+  "16452": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3097,
+      3098,
+      3099,
+      3100
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "16453": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      3083,
+      3084,
+      3085,
+      3086
+    ],
+    "int4": 25,
+    "int5": 400,
+    "int6": 400
+  },
+  "16454": {
+    "ambientSoundId": 3094,
+    "ambientSoundIds": [
+      2161,
+      2162,
+      2163,
+      2164,
+      2165
+    ],
+    "int4": 25,
+    "int5": 300,
+    "int6": 300
+  },
+  "16455": {
+    "ambientSoundId": 2184,
+    "ambientSoundIds": [
+      2153,
+      2154,
+      2148,
+      2167
+    ],
+    "int4": 20,
+    "int5": 150,
+    "int6": 250
+  },
+  "16456": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2152,
+      3080,
+      3081
+    ],
+    "int4": 20,
+    "int5": 50,
+    "int6": 250
+  },
+  "16457": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2225
+    ],
+    "int4": 10,
+    "int5": 500,
+    "int6": 1000
+  },
+  "16469": {
+    "ambientSoundId": 2210,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "16494": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16497": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16553": {
+    "ambientSoundId": 3073,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "16554": {
+    "ambientSoundId": 2209,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16555": {
+    "ambientSoundId": 2227,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "16641": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16657": {
+    "ambientSoundId": 2210,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16686": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16703": {
+    "ambientSoundId": 2200,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16811": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16812": {
+    "ambientSoundId": 2200,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "16893": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "17131": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "17161": {
+    "ambientSoundId": 3115,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "17243": {
+    "ambientSoundId": 2326,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "17248": {
+    "ambientSoundId": 2325,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "17410": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2016,
+      2017
+    ],
+    "int4": 15,
+    "int5": 300,
+    "int6": 500
+  },
+  "17411": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3056,
+      3057,
+      3058,
+      3059,
+      3060
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 150
+  },
+  "17412": {
+    "ambientSoundId": 2120,
+    "ambientSoundIds": [
+      2114,
+      2117,
+      2118,
+      2116,
+      2113,
+      2115,
+      2119
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "17413": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3062,
+      3063,
+      3064,
+      3065,
+      3066,
+      3067
+    ],
+    "int4": 20,
+    "int5": 50,
+    "int6": 250
+  },
+  "17414": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3068,
+      3069,
+      3070,
+      3071,
+      3072
+    ],
+    "int4": 20,
+    "int5": 200,
+    "int6": 400
+  },
+  "17415": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2119,
+      2127,
+      2128,
+      2129,
+      2130,
+      2131,
+      2132,
+      2133,
+      2134
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 250
+  },
+  "17416": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2099,
+      2100,
+      2101,
+      2105,
+      2106,
+      2109,
+      2110,
+      2111,
+      2096,
+      2107,
+      2108,
+      2104,
+      2097,
+      2098,
+      2102,
+      2103
+    ],
+    "int4": 10,
+    "int5": 250,
+    "int6": 500
+  },
+  "17417": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2021,
+      2024,
+      2023,
+      2025,
+      2026,
+      2027,
+      2119,
+      2115,
+      2116
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 250
+  },
+  "17418": {
+    "ambientSoundId": 3096,
+    "ambientSoundIds": [
+      2015,
+      880
+    ],
+    "int4": 3,
+    "int5": 250,
+    "int6": 500
+  },
+  "17419": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3051,
+      3052,
+      3053,
+      3054,
+      3055
+    ],
+    "int4": 20,
+    "int5": 50,
+    "int6": 150
+  },
+  "17420": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3151
+    ],
+    "int4": 20,
+    "int5": 150,
+    "int6": 300
+  },
+  "17421": {
+    "ambientSoundId": 3149,
+    "ambientSoundIds": [
+      3148,
+      3152,
+      3156,
+      3154,
+      3155
+    ],
+    "int4": 10,
+    "int5": 150,
+    "int6": 450
+  },
+  "17765": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "18138": {
+    "ambientSoundId": 3088,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18405": {
+    "ambientSoundId": 2141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18406": {
+    "ambientSoundId": 3124,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18407": {
+    "ambientSoundId": 3048,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18408": {
+    "ambientSoundId": 3049,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18409": {
+    "ambientSoundId": 3050,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18410": {
+    "ambientSoundId": 3150,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "18511": {
+    "ambientSoundId": 2422,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18513": {
+    "ambientSoundId": 2141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18515": {
+    "ambientSoundId": 3153,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "18526": {
+    "ambientSoundId": 2209,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18530": {
+    "ambientSoundId": 3142,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "18594": {
+    "ambientSoundId": 3157,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18650": {
+    "ambientSoundId": 3073,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18685": {
+    "ambientSoundId": 3174,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18687": {
+    "ambientSoundId": 3174,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18688": {
+    "ambientSoundId": 3174,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "18689": {
+    "ambientSoundId": 2326,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "18690": {
+    "ambientSoundId": 3166,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "18691": {
+    "ambientSoundId": 3166,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "18760": {
+    "ambientSoundId": 2326,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "19005": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "19881": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20000": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "20001": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "20024": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20028": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20032": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20036": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20086": {
+    "ambientSoundId": 3265,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "20150": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20232": {
+    "ambientSoundId": 3077,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20233": {
+    "ambientSoundId": 3077,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20234": {
+    "ambientSoundId": 2144,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20235": {
+    "ambientSoundId": 2144,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20247": {
+    "ambientSoundId": 3124,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "20268": {
+    "ambientSoundId": 3300,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "20786": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20839": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20843": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20856": {
+    "ambientSoundId": 3045,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20868": {
+    "ambientSoundId": 3131,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "20984": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3317,
+      3320,
+      3321,
+      3319,
+      3323,
+      3324
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "21002": {
+    "ambientSoundId": 3355,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21007": {
+    "ambientSoundId": 3142,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21009": {
+    "ambientSoundId": 3360,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21085": {
+    "ambientSoundId": 3368,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21087": {
+    "ambientSoundId": 3361,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "21108": {
+    "ambientSoundId": 3124,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21109": {
+    "ambientSoundId": 3124,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21174": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3364,
+      3365,
+      3366,
+      3367
+    ],
+    "int4": 10,
+    "int5": 100,
+    "int6": 200
+  },
+  "21302": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "21303": {
+    "ambientSoundId": 2209,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21355": {
+    "ambientSoundId": 3087,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21356": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "21476": {
+    "ambientSoundId": 2141,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "21572": {
+    "ambientSoundId": 3087,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "21620": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "21792": {
+    "ambientSoundId": 2200,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21795": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21804": {
+    "ambientSoundId": 2172,
+    "int4": 14,
+    "int5": 0,
+    "int6": 0
+  },
+  "21805": {
+    "ambientSoundId": 3440,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "21806": {
+    "ambientSoundId": 3427,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "21807": {
+    "ambientSoundId": 2041,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21808": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3424
+    ],
+    "int4": 10,
+    "int5": 100,
+    "int6": 250
+  },
+  "21945": {
+    "ambientSoundId": 3145,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "21948": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3467,
+      3468
+    ],
+    "int4": 15,
+    "int5": 200,
+    "int6": 400
+  },
+  "21949": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2152,
+      3080,
+      3081
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 250
+  },
+  "22154": {
+    "ambientSoundId": 2200,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22155": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22418": {
+    "ambientSoundId": 2227,
+    "int4": 25,
+    "int5": 0,
+    "int6": 0
+  },
+  "22419": {
+    "ambientSoundId": 2226,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22624": {
+    "ambientSoundId": 3497,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22635": {
+    "ambientSoundId": 3497,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22713": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22714": {
+    "ambientSoundId": 2200,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22715": {
+    "ambientSoundId": 2151,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22721": {
+    "ambientSoundId": 2209,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22728": {
+    "ambientSoundId": 3505,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22729": {
+    "ambientSoundId": 3505,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22730": {
+    "ambientSoundId": 3506,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22731": {
+    "ambientSoundId": 3506,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22735": {
+    "ambientSoundId": 3513,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "22781": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22782": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22823": {
+    "ambientSoundId": 3502,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22861": {
+    "ambientSoundId": 3495,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22862": {
+    "ambientSoundId": 2150,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22863": {
+    "ambientSoundId": 2149,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22864": {
+    "ambientSoundId": 2149,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22865": {
+    "ambientSoundId": 2149,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "22875": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "22974": {
+    "ambientSoundId": 3510,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23093": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23094": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23095": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23098": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23113": {
+    "ambientSoundId": 2199,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23115": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23172": {
+    "ambientSoundId": 3080,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23173": {
+    "ambientSoundId": 3081,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23541": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3595,
+      3596,
+      3597,
+      3598,
+      3599
+    ],
+    "int4": 5,
+    "int5": 25,
+    "int6": 100
+  },
+  "23553": {
+    "ambientSoundId": 2169,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23612": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2043,
+      2044,
+      2048,
+      2045,
+      2046
+    ],
+    "int4": 20,
+    "int5": 250,
+    "int6": 500
+  },
+  "23707": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23725": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23726": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23922": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "23939": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "23940": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "23941": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24009": {
+    "ambientSoundId": 2209,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "24020": {
+    "ambientSoundId": 3121,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "24042": {
+    "ambientSoundId": 3124,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "24286": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "24450": {
+    "ambientSoundId": 3644,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "24451": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2101,
+      2105,
+      2110
+    ],
+    "int4": 15,
+    "int5": 25,
+    "int6": 50
+  },
+  "24713": {
+    "ambientSoundId": 3709,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24714": {
+    "ambientSoundId": 3679,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "24715": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3707,
+      3708
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 500
+  },
+  "24725": {
+    "ambientSoundId": 3715,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24726": {
+    "ambientSoundId": 3715,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24727": {
+    "ambientSoundId": 3715,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24910": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24911": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24912": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24913": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24914": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24915": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24916": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24917": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24918": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24919": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24920": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24921": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24922": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24923": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24924": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24925": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24926": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24927": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24928": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24929": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24930": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24931": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24932": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24933": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24934": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24935": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24936": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24937": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24938": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24939": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24940": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24941": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24942": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24943": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24944": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24945": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24946": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24947": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24948": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24949": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24950": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24951": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24952": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24953": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24954": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24955": {
+    "ambientSoundId": 3117,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24969": {
+    "ambientSoundId": 2198,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24970": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "24988": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3721
+    ],
+    "int4": 20,
+    "int5": 200,
+    "int6": 200
+  },
+  "24991": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3721
+    ],
+    "int4": 20,
+    "int5": 200,
+    "int6": 200
+  },
+  "25115": {
+    "ambientSoundId": 3739,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "25401": {
+    "ambientSoundId": 3804,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "25440": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "25441": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "25465": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "25730": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "25731": {
+    "ambientSoundId": 3120,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "25763": {
+    "ambientSoundId": 3120,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "25925": {
+    "ambientSoundId": 3079,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "25955": {
+    "ambientSoundId": 3820,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26121": {
+    "ambientSoundId": 3045,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "26149": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26179": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26180": {
+    "ambientSoundId": 2200,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26181": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26182": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26183": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26184": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26185": {
+    "ambientSoundId": 2065,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26186": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26256": {
+    "ambientSoundId": 3141,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "26264": {
+    "ambientSoundId": 3141,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "26265": {
+    "ambientSoundId": 3141,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "26266": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26274": {
+    "ambientSoundId": 3141,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "26300": {
+    "ambientSoundId": 2210,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "26302": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2021,
+      2024,
+      2023,
+      2025,
+      2026,
+      2027,
+      2119,
+      2115,
+      2116
+    ],
+    "int4": 2,
+    "int5": 75,
+    "int6": 300
+  },
+  "26303": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3828,
+      3827,
+      3830,
+      3829,
+      3831
+    ],
+    "int4": 15,
+    "int5": 300,
+    "int6": 500
+  },
+  "26304": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3853,
+      3854,
+      3872,
+      3854,
+      3852,
+      3854,
+      3833,
+      3854,
+      3854
+    ],
+    "int4": 5,
+    "int5": 5,
+    "int6": 30
+  },
+  "26305": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3853,
+      3854,
+      3872,
+      3854,
+      3852,
+      3854,
+      3833,
+      3854,
+      3854
+    ],
+    "int4": 5,
+    "int5": 5,
+    "int6": 30
+  },
+  "26491": {
+    "ambientSoundId": 3087,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26558": {
+    "ambientSoundId": 3076,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26575": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26576": {
+    "ambientSoundId": 2066,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26577": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26671": {
+    "ambientSoundId": 2422,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "26681": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "26737": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26738": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26739": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "26740": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "27094": {
+    "ambientSoundId": 3139,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "27095": {
+    "ambientSoundId": 3139,
+    "int4": 2,
+    "int5": 0,
+    "int6": 0
+  },
+  "27096": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "27119": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      2393,
+      3062,
+      3063,
+      2129,
+      2130,
+      2131,
+      2132,
+      3064,
+      2134
+    ],
+    "int4": 5,
+    "int5": 50,
+    "int6": 250
+  },
+  "27516": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "27517": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "27724": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "27978": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "27979": {
+    "ambientSoundId": 4036,
+    "int4": 6,
+    "int5": 0,
+    "int6": 0
+  },
+  "27980": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "28562": {
+    "ambientSoundId": 2210,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "28565": {
+    "ambientSoundId": 2210,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "28590": {
+    "ambientSoundId": 2422,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "28791": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "28818": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "28925": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29237": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29238": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29239": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29240": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29241": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29300": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29314": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29338": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29339": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29340": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29341": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29342": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29343": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29344": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29345": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29346": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29347": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29348": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29349": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29350": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29351": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29352": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29353": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29354": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29355": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29356": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29357": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29358": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29359": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29360": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29361": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29629": {
+    "ambientSoundId": 3077,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29630": {
+    "ambientSoundId": 2144,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29631": {
+    "ambientSoundId": 1515,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "29662": {
+    "ambientSoundId": 2209,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "29667": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "29749": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29878": {
+    "ambientSoundId": 2150,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "29879": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30019": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "30021": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "30138": {
+    "ambientSoundId": 2066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "30158": {
+    "ambientSoundId": 2209,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "30266": {
+    "ambientSoundId": 2066,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30386": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30395": {
+    "ambientSoundId": 3117,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30396": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30397": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30398": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30399": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30400": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30932": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "30956": {
+    "ambientSoundId": 3076,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "31039": {
+    "ambientSoundId": 3440,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "31040": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3051,
+      3052,
+      3053,
+      3054,
+      3055
+    ],
+    "int4": 3,
+    "int5": 50,
+    "int6": 150
+  },
+  "31047": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31048": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31049": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31050": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31051": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31052": {
+    "ambientSoundId": 3073,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31618": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31621": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31622": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31631": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31798": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31880": {
+    "ambientSoundId": 2151,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "31881": {
+    "ambientSoundId": 2151,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "31926": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "31941": {
+    "ambientSoundId": 3141,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "31942": {
+    "ambientSoundId": 3141,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "31961": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32118": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32119": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32297": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32306": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32457": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "32508": {
+    "ambientSoundId": 3427,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "32631": {
+    "ambientSoundId": 2199,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "32654": {
+    "ambientSoundId": 3088,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "32660": {
+    "ambientSoundId": 3096,
+    "int4": 8,
+    "int5": 0,
+    "int6": 0
+  },
+  "32739": {
+    "ambientSoundId": 2200,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "32755": {
+    "ambientSoundId": 3139,
+    "int4": 1,
+    "int5": 0,
+    "int6": 0
+  },
+  "32813": {
+    "ambientSoundId": 2048,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "32957": {
+    "ambientSoundId": 3288,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "32996": {
+    "ambientSoundId": 3131,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "33037": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "33092": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33093": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33094": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33095": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33096": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33097": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33098": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33099": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33100": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33101": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33102": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33103": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33104": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33105": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33106": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33107": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33108": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33109": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33113": {
+    "ambientSoundId": 2048,
+    "int4": 7,
+    "int5": 0,
+    "int6": 0
+  },
+  "33143": {
+    "ambientSoundId": 3124,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33179": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33180": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33181": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33311": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33318": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33319": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33320": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33321": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33322": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33354": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33355": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33356": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33357": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33358": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33359": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33360": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33361": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33362": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33363": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33364": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33365": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33366": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33367": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33368": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33369": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33370": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33371": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33372": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33373": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33374": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33375": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33376": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33377": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33378": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33379": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33380": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33381": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33382": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33383": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33384": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33385": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33386": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33387": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33388": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33389": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33390": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33391": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33392": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33393": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33394": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33395": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33396": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33397": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33398": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33399": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33400": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33401": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33402": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33403": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33404": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33405": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33406": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33407": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33408": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33409": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33410": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33423": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33424": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33425": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33426": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33427": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33428": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33429": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33430": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33431": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33432": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33433": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33434": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33435": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33436": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33437": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33438": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33439": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33440": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33441": {
+    "ambientSoundId": 2149,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "33495": {
+    "ambientSoundId": 3355,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "33504": {
+    "ambientSoundId": 2209,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33615": {
+    "ambientSoundId": 4037,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "33616": {
+    "ambientSoundId": 4038,
+    "int4": 20,
+    "int5": 0,
+    "int6": 0
+  },
+  "33617": {
+    "ambientSoundId": 4039,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33618": {
+    "ambientSoundId": 4040,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33619": {
+    "ambientSoundId": 4041,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33620": {
+    "ambientSoundId": 4042,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33621": {
+    "ambientSoundId": 4100,
+    "int4": 12,
+    "int5": 0,
+    "int6": 0
+  },
+  "33622": {
+    "ambientSoundId": 4115,
+    "int4": 12,
+    "int5": 0,
+    "int6": 0
+  },
+  "33623": {
+    "ambientSoundId": 4111,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33624": {
+    "ambientSoundId": 4082,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33625": {
+    "ambientSoundId": 4071,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33626": {
+    "ambientSoundId": 4119,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33627": {
+    "ambientSoundId": 4108,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33628": {
+    "ambientSoundId": 4113,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33629": {
+    "ambientSoundId": 4109,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33630": {
+    "ambientSoundId": 4077,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33631": {
+    "ambientSoundId": 4117,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33632": {
+    "ambientSoundId": 4072,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33633": {
+    "ambientSoundId": 4066,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33634": {
+    "ambientSoundId": 4097,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "33635": {
+    "ambientSoundId": 4123,
+    "int4": 15,
+    "int5": 0,
+    "int6": 0
+  },
+  "33636": {
+    "ambientSoundId": 4131,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "33641": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      4069,
+      4091,
+      4110,
+      4124,
+      4074,
+      4090,
+      4086
+    ],
+    "int4": 12,
+    "int5": 500,
+    "int6": 1000
+  },
+  "33642": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      4098,
+      4093,
+      4126,
+      4125,
+      4079
+    ],
+    "int4": 12,
+    "int5": 100,
+    "int6": 500
+  },
+  "33643": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      4046,
+      4045,
+      4043,
+      4044,
+      2411
+    ],
+    "int4": 12,
+    "int5": 300,
+    "int6": 500
+  },
+  "33644": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3049,
+      2411
+    ],
+    "int4": 12,
+    "int5": 300,
+    "int6": 750
+  },
+  "33645": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      1984,
+      1985,
+      1986,
+      1987,
+      1988
+    ],
+    "int4": 15,
+    "int5": 400,
+    "int6": 900
+  },
+  "33646": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3047,
+      4048,
+      4053,
+      4054,
+      4055,
+      4047,
+      4050,
+      4051,
+      4052,
+      2015,
+      1999,
+      3049
+    ],
+    "int4": 15,
+    "int5": 50,
+    "int6": 650
+  },
+  "33647": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      1997,
+      2015,
+      2018,
+      1999,
+      3047,
+      3046,
+      2015,
+      1999,
+      1999
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 300
+  },
+  "33648": {
+    "ambientSoundId": -1,
+    "ambientSoundIds": [
+      3046,
+      4049,
+      4050,
+      4051,
+      4052
+    ],
+    "int4": 15,
+    "int5": 150,
+    "int6": 600
+  },
+  "34342": {
+    "ambientSoundId": 2208,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34345": {
+    "ambientSoundId": 2065,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34417": {
+    "ambientSoundId": 3080,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34418": {
+    "ambientSoundId": 3081,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34571": {
+    "ambientSoundId": 4072,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "34572": {
+    "ambientSoundId": 4072,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "34573": {
+    "ambientSoundId": 4072,
+    "int4": 4,
+    "int5": 0,
+    "int6": 0
+  },
+  "34642": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34643": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34644": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34645": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34646": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34682": {
+    "ambientSoundId": 2063,
+    "int4": 10,
+    "int5": 0,
+    "int6": 0
+  },
+  "34748": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34749": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34750": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34751": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34752": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34753": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34754": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34755": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34756": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34757": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34758": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34759": {
+    "ambientSoundId": 3139,
+    "int4": 3,
+    "int5": 0,
+    "int6": 0
+  },
+  "34760": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34761": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34762": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34763": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34764": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34765": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34766": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34767": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34768": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34769": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34770": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34771": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34772": {
+    "ambientSoundId": 3140,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34774": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34775": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34776": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34777": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34778": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34789": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34790": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34791": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34792": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34793": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34794": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34813": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34814": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34815": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34816": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34817": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34818": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34819": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34820": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34821": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34822": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34823": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34824": {
+    "ambientSoundId": 3141,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34826": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  },
+  "34827": {
+    "ambientSoundId": 3139,
+    "int4": 5,
+    "int5": 0,
+    "int6": 0
+  }
+}

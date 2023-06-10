@@ -1,0 +1,2762 @@
+[
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15515,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1677,
+          "Y": 3636,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15514,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1676,
+          "Y": 3636,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15516,
+        "Face": 2,
+        "Position": {
+          "X": 1676,
+          "Y": 3635,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15517,
+        "Face": 1,
+        "Position": {
+          "X": 1678,
+          "Y": 3636,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3272,
+          "Y": 9836,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3272,
+          "Y": 9837,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 3,
+        "Position": {
+          "X": 3271,
+          "Y": 9837,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 2,
+        "Position": {
+          "X": 3272,
+          "Y": 9835,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1244,
+          "Y": 3696,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 1246,
+          "Y": 3697,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 0,
+        "Position": {
+          "X": 1246,
+          "Y": 3698,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 1,
+        "Position": {
+          "X": 1245,
+          "Y": 3696,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 1257,
+          "Y": 3687,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1257,
+          "Y": 3686,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 1,
+        "Position": {
+          "X": 1258,
+          "Y": 3686,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 0,
+        "Position": {
+          "X": 1257,
+          "Y": 3688,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1564,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1254,
+          "Y": 3687,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1562,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1258,
+          "Y": 3686,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1561,
+        "Face": 1,
+        "Position": {
+          "X": 1257,
+          "Y": 3686,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1563,
+        "Face": 2,
+        "Position": {
+          "X": 1256,
+          "Y": 3688,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 1250,
+          "Y": 3690,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 1249,
+          "Y": 3690,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 2,
+        "Position": {
+          "X": 1249,
+          "Y": 3689,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 1,
+        "Position": {
+          "X": 1251,
+          "Y": 3690,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2924,
+          "Y": 3291,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2924,
+          "Y": 3292,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 3,
+        "Position": {
+          "X": 2923,
+          "Y": 3292,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 2,
+        "Position": {
+          "X": 2924,
+          "Y": 3290,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2855,
+          "Y": 3371,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2854,
+          "Y": 3371,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 2,
+        "Position": {
+          "X": 2854,
+          "Y": 3370,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2856,
+          "Y": 3371,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 3727,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2825,
+          "Y": 3555,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 3725,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2824,
+          "Y": 3555,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 3726,
+        "Face": 2,
+        "Position": {
+          "X": 2824,
+          "Y": 3554,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 3728,
+        "Face": 1,
+        "Position": {
+          "X": 2826,
+          "Y": 3555,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3031,
+          "Y": 3314,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3031,
+          "Y": 3313,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 1,
+        "Position": {
+          "X": 3032,
+          "Y": 3313,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 0,
+        "Position": {
+          "X": 3031,
+          "Y": 3315,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3019,
+          "Y": 3304,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3021,
+          "Y": 3305,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 0,
+        "Position": {
+          "X": 3021,
+          "Y": 3306,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 1,
+        "Position": {
+          "X": 3020,
+          "Y": 3304,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3019,
+          "Y": 3299,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3021,
+          "Y": 3300,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 0,
+        "Position": {
+          "X": 3021,
+          "Y": 3301,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 1,
+        "Position": {
+          "X": 3020,
+          "Y": 3299,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2635,
+          "Y": 3361,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2634,
+          "Y": 3361,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 2,
+        "Position": {
+          "X": 2634,
+          "Y": 3360,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2636,
+          "Y": 3361,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 49,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2643,
+          "Y": 3442,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 47,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2642,
+          "Y": 3442,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 48,
+        "Face": 2,
+        "Position": {
+          "X": 2642,
+          "Y": 3441,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 50,
+        "Face": 1,
+        "Position": {
+          "X": 2644,
+          "Y": 3442,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1567,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2677,
+          "Y": 3350,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1560,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2675,
+          "Y": 3349,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1558,
+        "Face": 2,
+        "Position": {
+          "X": 2675,
+          "Y": 3350,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1559,
+        "Face": 1,
+        "Position": {
+          "X": 2676,
+          "Y": 3350,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15589,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2596,
+          "Y": 3362,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 167,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2594,
+          "Y": 3361,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 166,
+        "Face": 2,
+        "Position": {
+          "X": 2594,
+          "Y": 3362,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15588,
+        "Face": 1,
+        "Position": {
+          "X": 2595,
+          "Y": 3362,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2767,
+          "Y": 3444,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2766,
+          "Y": 3444,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 2,
+        "Position": {
+          "X": 2766,
+          "Y": 3443,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2768,
+          "Y": 3444,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2263,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2868,
+          "Y": 2953,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2261,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2867,
+          "Y": 2953,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2262,
+        "Face": 2,
+        "Position": {
+          "X": 2867,
+          "Y": 2952,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 2264,
+        "Face": 1,
+        "Position": {
+          "X": 2869,
+          "Y": 2953,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 4313,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2681,
+          "Y": 3698,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 4311,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2681,
+          "Y": 3697,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 4312,
+        "Face": 1,
+        "Position": {
+          "X": 2682,
+          "Y": 3697,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 4314,
+        "Face": 0,
+        "Position": {
+          "X": 2681,
+          "Y": 3699,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2382,
+          "Y": 3435,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2384,
+          "Y": 3436,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 0,
+        "Position": {
+          "X": 2384,
+          "Y": 3437,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2383,
+          "Y": 3435,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1567,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2381,
+          "Y": 3423,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1560,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 2380,
+          "Y": 3425,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1558,
+        "Face": 3,
+        "Position": {
+          "X": 2381,
+          "Y": 3425,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1559,
+        "Face": 2,
+        "Position": {
+          "X": 2381,
+          "Y": 3424,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2526,
+          "Y": 3494,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2528,
+          "Y": 3495,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 0,
+        "Position": {
+          "X": 2528,
+          "Y": 3496,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2527,
+          "Y": 3494,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2511,
+          "Y": 3493,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 2513,
+          "Y": 3494,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 0,
+        "Position": {
+          "X": 2513,
+          "Y": 3495,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 2512,
+          "Y": 3493,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 8813,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 2473,
+          "Y": 3365,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 8811,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 2475,
+          "Y": 3364,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 8810,
+        "Face": 1,
+        "Position": {
+          "X": 2474,
+          "Y": 3364,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 8812,
+        "Face": 2,
+        "Position": {
+          "X": 2473,
+          "Y": 3366,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 12818,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3485,
+          "Y": 3243,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 12816,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3485,
+          "Y": 3244,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 12817,
+        "Face": 3,
+        "Position": {
+          "X": 3484,
+          "Y": 3244,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 12819,
+        "Face": 2,
+        "Position": {
+          "X": 3485,
+          "Y": 3242,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3105,
+          "Y": 3272,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3107,
+          "Y": 3273,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 0,
+        "Position": {
+          "X": 3107,
+          "Y": 3274,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 3106,
+          "Y": 3272,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15511,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3141,
+          "Y": 3458,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15512,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3142,
+          "Y": 3457,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15510,
+        "Face": 1,
+        "Position": {
+          "X": 3141,
+          "Y": 3457,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15513,
+        "Face": 0,
+        "Position": {
+          "X": 3141,
+          "Y": 3459,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1563,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3077,
+          "Y": 3259,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1561,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3077,
+          "Y": 3258,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1562,
+        "Face": 1,
+        "Position": {
+          "X": 3078,
+          "Y": 3258,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1564,
+        "Face": 0,
+        "Position": {
+          "X": 3077,
+          "Y": 3260,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 12988,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3184,
+          "Y": 3267,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 12986,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3186,
+          "Y": 3268,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 12987,
+        "Face": 0,
+        "Position": {
+          "X": 3186,
+          "Y": 3269,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 12989,
+        "Face": 1,
+        "Position": {
+          "X": 3185,
+          "Y": 3267,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 12988,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3188,
+          "Y": 3280,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 12986,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3188,
+          "Y": 3279,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 12987,
+        "Face": 1,
+        "Position": {
+          "X": 3189,
+          "Y": 3279,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 12989,
+        "Face": 0,
+        "Position": {
+          "X": 3188,
+          "Y": 3281,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3198,
+          "Y": 3281,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3198,
+          "Y": 3282,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 3,
+        "Position": {
+          "X": 3197,
+          "Y": 3282,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 2,
+        "Position": {
+          "X": 3198,
+          "Y": 3280,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 23918,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3176,
+          "Y": 3316,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 883,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3176,
+          "Y": 3315,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 23917,
+        "Face": 1,
+        "Position": {
+          "X": 3177,
+          "Y": 3315,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 23919,
+        "Face": 0,
+        "Position": {
+          "X": 3176,
+          "Y": 3317,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3181,
+          "Y": 3288,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3181,
+          "Y": 3289,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 3,
+        "Position": {
+          "X": 3180,
+          "Y": 3289,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 2,
+        "Position": {
+          "X": 3181,
+          "Y": 3287,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3163,
+          "Y": 3289,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3163,
+          "Y": 3290,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 3,
+        "Position": {
+          "X": 3162,
+          "Y": 3290,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 2,
+        "Position": {
+          "X": 3163,
+          "Y": 3288,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3145,
+          "Y": 3292,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3145,
+          "Y": 3291,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 1,
+        "Position": {
+          "X": 3146,
+          "Y": 3291,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 0,
+        "Position": {
+          "X": 3145,
+          "Y": 3293,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3261,
+          "Y": 3322,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3261,
+          "Y": 3321,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 1,
+        "Position": {
+          "X": 3262,
+          "Y": 3321,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 0,
+        "Position": {
+          "X": 3261,
+          "Y": 3323,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1567,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3252,
+          "Y": 3265,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1560,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3253,
+          "Y": 3267,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1558,
+        "Face": 0,
+        "Position": {
+          "X": 3253,
+          "Y": 3266,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1559,
+        "Face": 1,
+        "Position": {
+          "X": 3251,
+          "Y": 3265,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": true,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": -1,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3293,
+          "Y": 3426,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 24560,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3296,
+          "Y": 3428,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 24561,
+        "Face": 0,
+        "Position": {
+          "X": 3296,
+          "Y": 3429,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": -1,
+        "Face": 1,
+        "Position": {
+          "X": 3295,
+          "Y": 3427,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3237,
+          "Y": 3285,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3236,
+          "Y": 3285,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 2,
+        "Position": {
+          "X": 3236,
+          "Y": 3284,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 3238,
+          "Y": 3285,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3239,
+          "Y": 3300,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3241,
+          "Y": 3301,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 0,
+        "Position": {
+          "X": 3241,
+          "Y": 3302,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 3240,
+          "Y": 3300,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 1559,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3237,
+          "Y": 3296,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 1558,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3236,
+          "Y": 3296,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 1560,
+        "Face": 2,
+        "Position": {
+          "X": 3236,
+          "Y": 3295,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 1567,
+        "Face": 1,
+        "Position": {
+          "X": 3238,
+          "Y": 3296,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": true,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 2052,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3263,
+          "Y": 3405,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 2050,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3264,
+          "Y": 3405,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 2051,
+        "Face": 0,
+        "Position": {
+          "X": 3264,
+          "Y": 3406,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 2053,
+        "Face": 3,
+        "Position": {
+          "X": 3262,
+          "Y": 3405,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 12988,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3211,
+          "Y": 3260,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 12986,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3213,
+          "Y": 3261,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 12987,
+        "Face": 0,
+        "Position": {
+          "X": 3213,
+          "Y": 3262,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 12989,
+        "Face": 1,
+        "Position": {
+          "X": 3212,
+          "Y": 3260,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15515,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3214,
+          "Y": 3353,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15514,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3214,
+          "Y": 3354,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15516,
+        "Face": 3,
+        "Position": {
+          "X": 3213,
+          "Y": 3354,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15517,
+        "Face": 2,
+        "Position": {
+          "X": 3214,
+          "Y": 3352,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15517,
+        "Sound": -1,
+        "Face": 2,
+        "Shape": 0,
+        "Position": {
+          "X": 3215,
+          "Y": 3351,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15516,
+        "Sound": -1,
+        "Face": 3,
+        "Shape": 0,
+        "Position": {
+          "X": 3213,
+          "Y": 3354,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15514,
+        "Face": 3,
+        "Position": {
+          "X": 3214,
+          "Y": 3354,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15515,
+        "Face": 2,
+        "Position": {
+          "X": 3214,
+          "Y": 3353,
+          "Z": 0
+        }
+      }
+    }
+  },
+  {
+    "Category": "WOODEN_GATE",
+    "Default State": "CLOSED",
+    "Current State": "CLOSED",
+    "Mode": "NORMAL",
+    "Type": "DOUBLE",
+    "Locked": false,
+    "Broken": false,
+    "Required Thieving Level": 0,
+    "Lockpick Required": false,
+    "Walk Offset X": 0,
+    "Walk Offset Y": 0,
+    "Animation": 0,
+    "Cost": 0,
+    "Revert Time": 0,
+    "Data": {
+      "OPENED": {
+        "Id": 15515,
+        "Sound": -1,
+        "Face": 0,
+        "Shape": 0,
+        "Position": {
+          "X": 3254,
+          "Y": 3348,
+          "Z": 0
+        }
+      },
+      "CLOSED": {
+        "Id": 15514,
+        "Sound": -1,
+        "Face": 1,
+        "Shape": 0,
+        "Position": {
+          "X": 3254,
+          "Y": 3347,
+          "Z": 0
+        }
+      }
+    },
+    "Link": {
+      "Closed Data": {
+        "Id": 15516,
+        "Face": 1,
+        "Position": {
+          "X": 3255,
+          "Y": 3347,
+          "Z": 0
+        }
+      },
+      "Opened Data": {
+        "Id": 15517,
+        "Face": 0,
+        "Position": {
+          "X": 3254,
+          "Y": 3349,
+          "Z": 0
+        }
+      }
+    }
+  }
+]

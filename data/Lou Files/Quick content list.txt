@@ -1,0 +1,61 @@
+* Proper projectiles speeds
+* Proper spell book casting, staff, tridents, etc
+* Level up details
+* Trapdoor, Drawers, Haysack, coffin, al kharid gate, varrock bank door, etc
+* items on ground definitions
+* 
+
+
+
+Motherlorde mine
+
+Blast Furnace
+
+Fishing Trawler
+
+Mage Arena I
+
+Mage Arena II
+
+Rogue's Den
+
+Pyramid Plunder
+
+Inferno
+
+F2P Quests (All)
+
+Woodcutting machetes support, birdnests, and jungle.
+
+Group Ironman
+
+Duo Slayer
+
+Raids I
+
+Raids II
+
+Soul wars
+
+Wintertodt
+
+Grotesque Guardians
+
+The Nightmare
+
+Farming
+
+Hunter
+
+Construction
+
+Diomion Tower Minigame (Highscores, custom waves, etc)
+
+Zombie Survival Minigame (Unique untradeable rewards)
+
+Godwars 100%
+
+Revenant Caves 100%
+
+Game modes system
+

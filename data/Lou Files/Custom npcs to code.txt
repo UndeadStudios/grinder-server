@@ -1,0 +1,8 @@
+Code the npc from scratch including emotes, respawn, stats, maxhit, attacktype, gfx, etc
+
+Normal wizard
+Dark wizard
+Elf warrior (archer)
+Monkey guard
+All dragons
+All bosses

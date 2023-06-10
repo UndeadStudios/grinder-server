@@ -1,0 +1,998 @@
+[
+  {
+    "stage": 0,
+    "id": 0,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What brings you here again?",
+    "next": 1,
+    "npcId": 4626
+  },
+  {
+    "id": 1,
+    "type": "PLAYER_STATEMENT",
+    "lines": 1,
+    "line1": "Do you have any other quests for me?",
+    "anim": "CALM",
+    "next": 2
+  },
+  {
+    "id": 2,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Ooooh dear. I might have, but it's embarrassing... ",
+    "next": 3,
+    "npcId": 4626
+  },
+  {
+    "id": 3,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Embarrassing? How do you mean? ",
+    "next": 4,
+    "npcId": 4626
+  },
+  {
+    "id": 4,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Weeellll... You know I told you that ",
+    "line2": "it was the Duke's birthday? ",
+    "next": 5,
+    "npcId": 4626
+  },
+  {
+    "id": 5,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Yup, that's why I had to go and collect ",
+    "line2": "you things to make a cake with wasn't ",
+    "line3": "it? ",
+    "next": 6,
+    "npcId": 4626
+  },
+  {
+    "id": 6,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yeeeeesssss... Weeeelllll... ",
+    "next": 7,
+    "npcId": 4626
+  },
+  {
+    "id": 7,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "It isn't. I don't even know when his birthday ",
+    "line2": "is! ",
+    "next": 8,
+    "npcId": 4626
+  },
+  {
+    "id": 8,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I needed to test you and see if I could ",
+    "line2": "trust you. ",
+    "next": 9,
+    "npcId": 4626
+  },
+  {
+    "id": 9,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "I am in a terrible pickle, and I desperately ",
+    "line2": "need somebody trustworthy to help me ",
+    "line3": "out! ",
+    "next": 10,
+    "npcId": 4626
+  },
+  {
+    "id": 10,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "What seems to be the problem? ",
+    "next": 11,
+    "npcId": 4626
+  },
+  {
+    "id": 11,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Well, you're obviously trustworthy, ",
+    "line2": "I guess I could tell you... ",
+    "next": 12,
+    "npcId": 4626
+  },
+  {
+    "id": 12,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Please do. The suffering of others always ",
+    "line2": "seems to turn out very profitable for ",
+    "line3": "me. ",
+    "next": 13,
+    "npcId": 4626
+  },
+  {
+    "id": 13,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Well... It's like this... ",
+    "next": 14,
+    "npcId": 4626
+  },
+  {
+    "id": 14,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Did you ever hear of Franizzard Van Lumbcook? ",
+    "next": 15,
+    "npcId": 4626
+  },
+  {
+    "id": 15,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Erm... Can't say I have. ",
+    "next": 16,
+    "npcId": 4626
+  },
+  {
+    "id": 16,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "And with a name like that, I'm sure I would ",
+    "line2": "remember. ",
+    "next": 17,
+    "npcId": 4626
+  },
+  {
+    "id": 17,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Well, he was a great chef, and also my ",
+    "line2": "ancestor. ",
+    "next": 18,
+    "npcId": 4626
+  },
+  {
+    "id": 18,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "One hundred years ago there was a very ",
+    "line2": "important meeting held here in Lumbridge ",
+    "line3": "Castle, and he cooked banquet for the ",
+    "line4": "meeting, which was so stupendously ",
+    "next": 19,
+    "npcId": 4626
+  },
+  {
+    "id": 19,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "amazing that he was offered a job for ",
+    "line2": "life, along with all of his descendants. ",
+    "next": 20,
+    "npcId": 4626
+  },
+  {
+    "id": 20,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "So you have your job because a hundred ",
+    "line2": "years ago your ancestor was a very good ",
+    "line3": "cook. ",
+    "next": 21,
+    "npcId": 4626
+  },
+  {
+    "id": 21,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I don't see how that's much of a problem ",
+    "line2": "for you... ",
+    "next": 22,
+    "npcId": 4626
+  },
+  {
+    "id": 22,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "In fact I would say you are a VERY LUCKY ",
+    "line2": "man indeed. Frankly, I'd have fired ",
+    "line3": "you by now if you worked for me. ",
+    "next": 23,
+    "npcId": 4626
+  },
+  {
+    "id": 23,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oooooh no... You don't understand... ",
+    "next": 24,
+    "npcId": 4626
+  },
+  {
+    "id": 24,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "This big important secret meeting that ",
+    "line2": "Franizzard cooked for is held here in ",
+    "line3": "Lumbridge castle every 10 years, and ",
+    "line4": "tonight will be the tenth anniversary ",
+    "next": 25,
+    "npcId": 4626
+  },
+  {
+    "id": 25,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "of it! ",
+    "next": 26,
+    "npcId": 4626
+  },
+  {
+    "id": 26,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Still not seeing the problem... ",
+    "next": 27,
+    "npcId": 4626
+  },
+  {
+    "id": 27,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Well, I have always felt like a failure ",
+    "line2": "as a cook, and that my job here is down ",
+    "line3": "to the skills of my ancestor. ",
+    "next": 28,
+    "npcId": 4626
+  },
+  {
+    "id": 28,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I want to prove to the world that I am a ",
+    "line2": "great cook too! ",
+    "next": 29,
+    "npcId": 4626
+  },
+  {
+    "id": 29,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "but to do that... (sigh) No, it just won't ",
+    "line2": "work... ",
+    "next": 30,
+    "npcId": 4626
+  },
+  {
+    "id": 30,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "What won't? Come on man, pull yourself ",
+    "line2": "together and speak to me! ",
+    "next": 31,
+    "npcId": 4626
+  },
+  {
+    "id": 31,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "(sniff) Weeeeelll... I thought that ",
+    "line2": "I would recreate the meal Franizzard ",
+    "line3": "cooked all of those years ago, the one ",
+    "line4": "that impressed everybody so much... ",
+    "next": 32,
+    "npcId": 4626
+  },
+  {
+    "id": 32,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "There's just this small problem though... ",
+    "next": 33,
+    "npcId": 4626
+  },
+  {
+    "id": 33,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Let me take a wild guess. You have the ",
+    "line2": "recipe but you don't have any of the ingredients, ",
+    "line3": "and OBVIOUSLY you can't just go and get ",
+    "line4": "them yourself? ",
+    "next": 34,
+    "npcId": 4626
+  },
+  {
+    "id": 34,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Yes! However did you know? ",
+    "next": 35,
+    "npcId": 4626
+  },
+  {
+    "id": 35,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Call it a hunch. ",
+    "next": 36,
+    "npcId": 4626
+  },
+  {
+    "id": 36,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Okay, tell me what you're after and then ",
+    "line2": "I'll decide if I want to help you or not. ",
+    "next": 37,
+    "npcId": 4626
+  },
+  {
+    "id": 37,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Well, they are common enough ingredients, ",
+    "line2": "although I must admit the recipe I am ",
+    "line3": "following is very strange indeed... ",
+    "next": 38,
+    "npcId": 4626
+  },
+  {
+    "id": 38,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": " I will pay you upfront for any expenses ",
+    "line2": "you may incur while obtaining them, ",
+    "line3": "and of course you may keep the change ",
+    "line4": "for being so helpful to me. ",
+    "next": 39,
+    "npcId": 4626
+  },
+  {
+    "id": 39,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Please can you help me? The feast is scheduled ",
+    "line2": "to start very soon, and I simply cannot ",
+    "line3": "leave! ",
+    "next": 40,
+    "npcId": 4626
+  },
+  {
+    "id": 40,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 41,
+    "npcId": 4626
+  },
+  {
+    "id": 41,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": " I would love to help you! What do I have ",
+    "line2": "to do? ",
+    "next": 42,
+    "npcId": 4626
+  },
+  {
+    "id": 42,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Well, I have an incredibly important ",
+    "line2": "banquet that I have to prepare for, and ",
+    "line3": "I am using an ancient cookbook to recreate ",
+    "line4": "the meal my famous ancestor made a hundred ",
+    "next": 43,
+    "npcId": 4626
+  },
+  {
+    "id": 43,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "years ago. ",
+    "next": 44,
+    "npcId": 4626
+  },
+  {
+    "id": 44,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "Most of the ingredients I was able to ",
+    "line2": "obtain fairly easily, but there were ",
+    "line3": "some... oddities... that I have been ",
+    "line4": "unable to lay my hands on. ",
+    "next": 45,
+    "npcId": 4626
+  },
+  {
+    "id": 45,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Like what? ",
+    "next": 46,
+    "npcId": 4626
+  },
+  {
+    "id": 46,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I need the following ingredients as ",
+    "line2": "soon as possible! ",
+    "next": 47,
+    "npcId": 4626
+  },
+  {
+    "id": 47,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "One Eye of Newt A freshly made 'Dirty ",
+    "line2": "Blast' A rotten tomato ",
+    "next": 48,
+    "npcId": 4626
+  },
+  {
+    "id": 48,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "And a glass of greenman's ale. ",
+    "next": 49,
+    "npcId": 4626
+  },
+  {
+    "id": 49,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "I have given you 100 coins to cover any ",
+    "line2": "expenses you may incur, feel free to ",
+    "line3": "keep the change. ",
+    "next": 50,
+    "npcId": 4626
+  },
+  {
+    "id": 50,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I'll go look for those for you then! ",
+    "next": 51,
+    "npcId": 4626
+  },
+  {
+    "id": 51,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "stage": 1,
+    "id": 52,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Great! You're back!",
+    "next": 54,
+    "npcId": 4626
+  },
+  {
+    "id": 53,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Great! You're back! ",
+    "next": 54,
+    "npcId": 4626
+  },
+  {
+    "id": 54,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Did you bring the ingredients I asked ",
+    "line2": "for? ",
+    "next": 55,
+    "npcId": 4626
+  },
+  {
+    "id": 55,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "Remember, I need an eye of newt, a glass ",
+    "line2": "of greenman's ale, a rotten tomato, ",
+    "line3": "and a 'Dirty Blast'! ",
+    "next": 56,
+    "npcId": 4626
+  },
+  {
+    "id": 56,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 57,
+    "npcId": 4626
+  },
+  {
+    "id": 57,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Erm... Sorry, I don't have any of that ",
+    "line2": "with me... ",
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "id": 58,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "You will be happy to know... I have all ",
+    "line2": "of that with me! ",
+    "next": 59,
+    "npcId": 4626
+  },
+  {
+    "id": 59,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": "You absolutely MUST go through into ",
+    "line2": "the dining room just there and see the ",
+    "line3": "feast I have prepared. ",
+    "next": 60,
+    "npcId": 4626
+  },
+  {
+    "id": 60,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "I simply won't take no for an answer! ",
+    "next": 61,
+    "npcId": 4626
+  },
+  {
+    "id": 61,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Honestly, you must go and look at the ",
+    "line2": "amazing feast that's been prepared! ",
+    "next": 62,
+    "npcId": 4626
+  },
+  {
+    "id": 62,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": -1,
+    "npcId": 4626
+  },
+  {
+    "stage": 3,
+    "id": 63 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hiya, what can I do for you? ",
+    "next": 64,
+    "npcId": 1316
+  },
+  {
+    "id": 64 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "I want to purchase some Asgarnian ale ",
+    "line2": "please. ",
+    "next": 65,
+    "npcId": 1316
+  },
+  {
+    "id": 65 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Sure, that will be 200 coins. ",
+    "next": 66,
+    "npcId": 1316
+  },
+  {
+    "id": 66 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 67,
+    "npcId": 1316
+  },
+  {
+    "id": 67 ,
+    "type": "STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "You purchase Asgarnian ale. ",
+    "next": -1,
+    "npcId": 1316
+  },
+  {
+    "stage": 3,
+    "id": 68 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hello there. ",
+    "next": 69,
+    "npcId": 4810
+  },
+  {
+    "id": 69 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "...son...time bubble...culinaromancer...freeze...rockcakes! ",
+    "next": 70,
+    "npcId": 4810
+  },
+  {
+    "id": 70 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "... ",
+    "next": 71,
+    "npcId": 4810
+  },
+  {
+    "id": 71 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 3,
+    "line1": " I have absolutely no clue what you are ",
+    "line2": "on about. Sit down, catch your breath ",
+    "line3": "and explain please! ",
+    "next": 72,
+    "npcId": 4810
+  },
+  {
+    "id": 72 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": " Ok. Your son, the one who guards the tunnel ",
+    "line2": "entrance? ",
+    "next": 73,
+    "npcId": 4810
+  },
+  {
+    "id": 73 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oh aye. Good lad he is. ",
+    "next": 74,
+    "npcId": 4810
+  },
+  {
+    "id": 74 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Well he's at a special meeting and he's ",
+    "line2": "been frozen by the culinaromancer! ",
+    "next": 75,
+    "npcId": 4810
+  },
+  {
+    "id": 75 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Ok... you lost me again. I just got back ",
+    "line2": "from visitin' him up top, he's fine. ",
+    "next": 76,
+    "npcId": 4810
+  },
+  {
+    "id": 76 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "He's in a TIME BUBBLE! ",
+    "next": 77,
+    "npcId": 4810
+  },
+  {
+    "id": 77 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "Oh that. No no, he's quite ok. That was ",
+    "line2": "last week. ",
+    "next": 78,
+    "npcId": 4810
+  },
+  {
+    "id": 78 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": " I need your rock cakes to free him from ",
+    "line2": "it. ",
+    "next": 79,
+    "npcId": 4810
+  },
+  {
+    "id": 79 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": " You're delusional. Never would old ",
+    "line2": "Rohak give away his special recipe, ",
+    "line3": "not for all the golden nectar from the ",
+    "line4": "Rising Sun! ",
+    "next": -1,
+    "npcId": 4810
+  },
+  {
+    "id": 79 ,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 4810
+  },
+  {
+    "id": 80 ,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 4810
+  },
+  {
+    "id": 81 ,
+    "type": "NPC_STATEMENT",
+    "anim": "THINKING",
+    "lines": 2,
+    "line1": "Now you've freed them all, I'll restart ",
+    "line2": "time so you can deal with the culinaromancer. ",
+    "next": 82,
+    "npcId": 5082
+  },
+  {
+    "id": 82 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "THINKING",
+    "lines": 1,
+    "line1": "If you're sure... ",
+    "next": 83,
+    "npcId": 5082
+  },
+  {
+    "id": 83 ,
+    "type": "NPC_STATEMENT",
+    "anim": "EVIL",
+    "lines": 1,
+    "line1": "TEMPUS PROCEDIT! ",
+    "next": 84,
+    "npcId": 5082
+  },
+  {
+    "id": 84 ,
+    "type": "NPC_STATEMENT",
+    "anim": "EVIL_DELIGHTED",
+    "lines": 1,
+    "line1": "What was that? ",
+    "next": 85,
+    "npcId": 3400
+  },
+  {
+    "id": 85 ,
+    "type": "NPC_STATEMENT",
+    "anim": "ANGRY",
+    "lines": 1,
+    "line1": "We have broken your feeble spell! Begone! ",
+    "next": 86,
+    "npcId": 5082
+  },
+  {
+    "id": 86 ,
+    "type": "NPC_STATEMENT",
+    "anim": "ANGRY",
+    "lines": 1,
+    "line1": "You DARED to meddle? ",
+    "next": 87,
+    "npcId": 3400
+  },
+  {
+    "id": 87 ,
+    "type": "NPC_STATEMENT",
+    "anim": "ANGRY",
+    "lines": 1,
+    "line1": "But you cannot defeat me! I'LL BE BACK! ",
+    "next": 88,
+    "npcId": 3400
+  },
+  {
+    "id": 88 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Hooray – he's gone! ",
+    "next": 90,
+    "npcId": 3400
+  },
+  {
+    "id": 89 ,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 3400
+  },
+  {
+    "id": 90 ,
+    "type": "NPC_STATEMENT",
+    "anim": "ANGRY",
+    "lines": 2,
+    "line1": "One day he'll return. You must go through ",
+    "line2": "the portal and finish him off. ",
+    "next": -1,
+    "npcId": 5082
+  },
+  {
+    "stage": 5,
+    "id": 91 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 4,
+    "line1": "I must warn you: inside that dimension ",
+    "line2": "you will have no assistance from the ",
+    "line3": "gods and your prayers will not work at ",
+    "line4": "all! ",
+    "next": 92,
+    "npcId": 5082
+  },
+  {
+    "id": 92 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 3,
+    "line1": "Also, be aware that he will use his powers ",
+    "line2": "to draw upon the might of foes you have ",
+    "line3": "fought before. ",
+    "next": 93,
+    "npcId": 5082
+  },
+  {
+    "id": 93 ,
+    "type": "NPC_STATEMENT",
+    "anim": "CALM",
+    "lines": 2,
+    "line1": "Take care, I suspect the Culinaromancer ",
+    "line2": "will not give up so easily. ",
+    "next": 94,
+    "npcId": 5082
+  },
+  {
+    "id": 94 ,
+    "type": "QUEST_STAGE",
+    "next": -1,
+    "npcId": 5082
+  },
+  {
+    "id": 91 ,
+    "type": "QUEST_STAGE",
+    "anim": "CALM",
+    "lines": 0,
+    "next": 92,
+    "npcId": 5082
+  },
+  {
+    "stage": 13,
+    "id": 95 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oh MAN! That was AWESOME! ",
+    "next": 96,
+    "npcId": 5082
+  },
+  {
+    "id": 96 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 4,
+    "line1": "After you managed to save all of the members ",
+    "line2": "of the secret council with those weird ",
+    "line3": "foods, the culinaromancer tried to ",
+    "line4": "make a run for it, but you followed him ",
+    "next": 97,
+    "npcId": 5082
+  },
+  {
+    "id": 97 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 2,
+    "line1": "into his magic portal and Biff! Bang! ",
+    "line2": "Boom! sorted him out once and for all! ",
+    "next": 98,
+    "npcId": 5082
+  },
+  {
+    "id": 98 ,
+    "type": "NPC_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Did you ever know that you're my hero? ",
+    "next": 99,
+    "npcId": 5082
+  },
+  {
+    "id": 99 ,
+    "type": "PLAYER_STATEMENT",
+    "anim": "HAPPY",
+    "lines": 1,
+    "line1": "Oh yeah... I remember now... ",
+    "next": 100,
+    "npcId": 5082
+  },
+  {
+    "id": 100 ,
+    "type": "QUEST_STAGE",
+    "anim": "HAPPY",
+    "lines": 0,
+    "next": 101,
+    "npcId": 5082
+  }
+]
