@@ -1,7 +1,4 @@
 src/module-info.java
-src/com/grinder/util/Callback.java
-data/GrinderScape.json
-data/message_filters.json
 data/logs/
 data/oldschool/
 /bin/
@@ -9,34 +6,7 @@ data/oldschool/
 /logs/
 
 /data/saves/
-data/database/website.properties
-data/monster_hunting.json
-data/attributable_items/3lou 55.json
-data/Advertising rsps.txt
-data/Ecomanager.bat
-data/EmotesList.txt
-data/Empty Drops.txt
-data/Getting started video.txt
-data/npcDefinitions.json
-data/osrs_items.txt
-data/Server arcade.txt
-data/osrs_items_information_stats_effects.txt
-data/npclist.txt
-data/MusicSongs.txt
-data/stall.txt
-data/Stores (VUTR).txt
-data/TimePeriod Coords.txt
-data/Thieving system.txt
-data/Interfaces.txt
-data/itemlist.txt
-data/objectlist.txt
-data/OSRS coords list.txt
-data/store_changes.txt
-data/Grinderscape features.txt
-data/GrinderScape.json
-data/exception.txt
-data/logs/commands/2018-12-02.log
-data/logs/task_errors.log
+
 
 missing_regions.json
 

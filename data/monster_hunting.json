@@ -1,0 +1,145 @@
+{
+  "bounties": [
+    {
+      "npcId": 4067,
+      "expirationTime": 250000,
+      "itemReward": {
+        "id": 995,
+        "amount": 5000000
+      },
+      "pointReward": 5
+    },
+    {
+      "npcId": 319,
+      "expirationTime": 600000,
+      "itemReward": {
+        "id": 995,
+        "amount": 15000000
+      },
+      "pointReward": 2
+    },
+    {
+      "npcId": 1443,
+      "expirationTime": 260000,
+      "itemReward": {
+        "id": 995,
+        "amount": 4000000
+      },
+      "pointReward": 3
+    },
+    {
+      "npcId": 6504,
+      "expirationTime": 120000,
+      "itemReward": {
+        "id": 995,
+        "amount": 6000000
+      },
+      "pointReward": 3
+    },
+    {
+      "npcId": 239,
+      "expirationTime": 90000,
+      "itemReward": {
+        "id": 995,
+        "amount": 4800000
+      },
+      "pointReward": 2
+    },
+    {
+      "npcId": 6503,
+      "expirationTime": 140000,
+      "itemReward": {
+        "id": 995,
+        "amount": 7000000
+      },
+      "pointReward": 1
+    },
+    {
+      "npcId": 6356,
+      "expirationTime": 100000,
+      "itemReward": {
+        "id": 995,
+        "amount": 3500000
+      },
+      "pointReward": 3
+    },
+    {
+      "npcId": 6499,
+      "expirationTime": 100000,
+      "itemReward": {
+        "id": 995,
+        "amount": 5500000
+      },
+      "pointReward": 4
+    },
+    {
+      "npcId": 6611,
+      "expirationTime": 150000,
+      "itemReward": {
+        "id": 995,
+        "amount": 7000000
+      },
+      "pointReward": 3
+    },
+    {
+      "npcId": 6505,
+      "expirationTime": 40000,
+      "itemReward": {
+        "id": 995,
+        "amount": 4500000
+      },
+      "pointReward": 3
+    },
+    {
+      "npcId": 4922,
+      "expirationTime": 210000,
+      "itemReward": {
+        "id": 995,
+        "amount": 5000000
+      },
+      "pointReward": 1
+    },
+    {
+      "npcId": 1101,
+      "expirationTime": 110000,
+      "itemReward": {
+        "id": 995,
+        "amount": 3500000
+      },
+      "pointReward": 1
+    },
+    {
+      "npcId": 6618,
+      "expirationTime": 60000,
+      "itemReward": {
+        "id": 995,
+        "amount": 3000000
+      },
+      "pointReward": 2
+    },
+    {
+      "npcId": 4315,
+      "expirationTime": 120000,
+      "itemReward": {
+        "id": 995,
+        "amount": 4500000
+      },
+      "pointReward": 1
+    }
+  ],
+  "contracts": [
+    {
+      "playerName": "Mod Grinder",
+      "bounty": {
+        "npcId": 4922,
+        "expirationTime": 210000,
+        "itemReward": {
+          "id": 995,
+          "amount": 14000000
+        },
+        "pointReward": 1
+      },
+      "startTime": -1
+    }
+  ]
+}
