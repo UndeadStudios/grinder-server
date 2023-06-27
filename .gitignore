@@ -177,20 +177,6 @@ hs_err_pid2864.log
 *.lock
 *.lck
 
-
-missing_regions.json
-data/message_filters.json
-data/duel_scoreboard.json
-data/definitions/npc_spawns.json
-data/npc_spawns.cfg
-data/GrinderScape.json
-missing_regions.json
-data/npc_spawns.cfg
-missing_regions.json
-data/limit_shop.json
-missing_regions.json
-missing_regions.json
-missing_regions.json
 data/oldschool/main_file_cache.dat2
 data/oldschool/main_file_cache.idx0
 data/oldschool/main_file_cache.idx1
@@ -204,7 +190,6 @@ data/oldschool/main_file_cache.idx19
 data/oldschool/main_file_cache.idx2
 data/oldschool/main_file_cache.idx20
 data/oldschool/main_file_cache.idx21
-data/oldschool/main_file_cache.idx3
 data/oldschool/main_file_cache.idx3
 data/oldschool/main_file_cache.idx4
 data/oldschool/main_file_cache.idx5

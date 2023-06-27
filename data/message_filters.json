@@ -1,0 +1,170 @@
+[
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "mm"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "mm"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "middleman"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigger"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "ddos"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "dupe"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "tax"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "mm"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "middleman"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "ddos"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "tax"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "middleman"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigger"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "dupe"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigga"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "CLAN_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigga"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "ddos"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigga"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "dupe"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PUBLIC_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "tax"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  },
+  {
+    "creator": "Hellmage",
+    "triggers": [
+      "nigger"
+    ],
+    "filterType": "SPLIT_EXACT",
+    "scope": "PRIVATE_ONLY"
+  }
+]

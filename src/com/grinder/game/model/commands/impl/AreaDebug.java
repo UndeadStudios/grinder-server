@@ -18,14 +18,14 @@ public class AreaDebug implements Command {
 
 	@Override
 	public void execute(Player player, String command, String[] parts) {
-		if (player.getArea() != null) {
+		if (player.getArea() == null) {
+			player.getPacketSender().sendMessage("No area found for your coordinates.");
+		} else {
 			//player.getPacketSender().sendMessage("");
 			player.getPacketSender().sendMessage("Area: " + player.getArea().getClass().getName());
 			// player.getPacketSender().sendMessage("Players in this area: " +
 			// player.getArea().players.size() +", npcs in this area:
 			// "+player.getArea().npcs.size());
-		} else {
-			player.getPacketSender().sendMessage("No area found for your coordinates.");
 		}
 	}
 
